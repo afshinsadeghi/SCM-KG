@@ -12,6 +12,9 @@ How to cite:
   organization={Springer}
 }
 
+## URI of the SCM-KG
+https://w3id.org/skg
+
 ## This Folder contains:
 #### 1.  In Folder:  Evaluation Experiment DATA
 Evaluation experiment data, produced with the pipeline and used to evaluate the pipeline in the SCM-KG pipeline related article.  
