@@ -1,0 +1,22 @@
+./splitByLine PaperReferences.txt 40000
+
+in 10 screen fro 0 to 9 run:
+./Mapperscheduler0.sh
+
+to
+
+./Mapperscheduler9.sh
+
+
+when finished close the screens and in the process folder
+
+rm *.out
+rm *.etl
+
+for 0 to 9:
+cat *0.ttl > cites0.ttl
+zip -9 Cites0  cites0.ttl
+rm cites0.ttl
+rm *0.ttl
+
+repeat

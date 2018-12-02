@@ -1,0 +1,1247 @@
+77966E38,LogiQL: A Declarative Language for Enterprise Applications,logiql a declarative language for enterprise applications,2015,4694B652
+04F818EC,Typing and querying XML documents: Some complexity bounds,typing and querying xml documents some complexity bounds,2003,4694B652
+754217F3,Generalized hypertree decompositions: np-hardness and tractable variants,generalized hypertree decompositions np hardness and tractable variants,2007,4694B652
+7A217202,Quasilinear algorithms for processing relational calculus expressions (preliminary report),quasilinear algorithms for processing relational calculus expressions preliminary report,1990,4694B652
+75B1D18C,BonXai: Combining the simplicity of DTD with the expressiveness of XML Schema,bonxai combining the simplicity of dtd with the expressiveness of xml schema,2015,4694B652
+77183E63,A polymorphic calculus for views and object sharing (extended abstract),a polymorphic calculus for views and object sharing extended abstract,1994,4694B652
+5953B5A5,Proceedings of the twentieth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twentieth acm sigmod sigact sigart symposium on principles of database systems,2001,4694B652
+757E396E,On XML integrity constraints in the presence of DTDs,on xml integrity constraints in the presence of dtds,2001,4694B652
+756BADAA,Equivalence, query-reachability and satisfiability in Datalog extensions,equivalence query reachability and satisfiability in datalog extensions,1993,4694B652
+02B5E49B,Decidability and Expressiveness of Logic Queries,decidability and expressiveness of logic queries,1987,4694B652
+0A365A92,Monadic datalog over trees and the expressive power of languages for web information extraction,monadic datalog over trees and the expressive power of languages for web information extraction,2002,4694B652
+7E57C695,On the complexity of deriving schema mappings from database instances,on the complexity of deriving schema mappings from database instances,2008,4694B652
+7694C867,Termination detection in logic programs using argument sizes (extended abstract),termination detection in logic programs using argument sizes extended abstract,1991,4694B652
+7DA22A90,Beyond uniformity and independence: analysis of R-trees using the concept of fractal dimension,beyond uniformity and independence analysis of r trees using the concept of fractal dimension,1994,4694B652
+76B7EEAF,On the computation of relational view complements,on the computation of relational view complements,2002,4694B652
+7CD9FA21,Replicated declustering of spatial data,replicated declustering of spatial data,2004,4694B652
+78C04E57,On the equivalence of recursive and nonrecursive datalog programs,on the equivalence of recursive and nonrecursive datalog programs,1992,4694B652
+7664FFA5,Equivalence of SQL queries in presence of embedded dependencies,equivalence of sql queries in presence of embedded dependencies,2009,4694B652
+785A15C4,Deadlock-freedom (and saftey) of transactions in a distributed database,deadlock freedom and saftey of transactions in a distributed database,1985,4694B652
+7CC4D98A,On the recognition and design of acyclic databases,on the recognition and design of acyclic databases,1984,4694B652
+7C06983A,Database relations with null values,database relations with null values,1982,4694B652
+7763D6E5,Adding disjunction to datalog (extended abstract),adding disjunction to datalog extended abstract,1994,4694B652
+8143A666,Analysis and application of adaptive sampling,analysis and application of adaptive sampling,2000,4694B652
+7CA5D7F4,Inclusion dependencies and the universal instance,inclusion dependencies and the universal instance,1983,4694B652
+7E325180,Efficiently ordering subgoals with access constraints,efficiently ordering subgoals with access constraints,2006,4694B652
+75A9925E,On tree-based techniques for query evaluation,on tree based techniques for query evaluation,1992,4694B652
+5AC2CDDC,Managing conflicts between rules,managing conflicts between rules,1996,4694B652
+7BAB858B,Research directions in object-oriented database systems,research directions in object oriented database systems,1990,4694B652
+7596CA9C,An approach to eliminate transaction blocking in locking protocols,an approach to eliminate transaction blocking in locking protocols,1992,4694B652
+76E6DA0A,Lossless regular views,lossless regular views,2002,4694B652
+75449B88,On the first-order expressibility of computing certain answers to conjunctive queries over uncertain databases,on the first order expressibility of computing certain answers to conjunctive queries over uncertain databases,2010,4694B652
+7CB244B8,Correlating XML data streams using tree-edit distance embeddings,correlating xml data streams using tree edit distance embeddings,2003,4694B652
+758B80F8,Sketching unaggregated data streams for subpopulation-size queries,sketching unaggregated data streams for subpopulation size queries,2007,4694B652
+787B2092,Formal models of Web queries,formal models of web queries,1997,4694B652
+086E906F,Tutorial-data integration: A theoretical perspective,tutorial data integration a theoretical perspective,2003,4694B652
+776F9F96,Invited talk: automata theory for database theoreticians,invited talk automata theory for database theoreticians,1989,4694B652
+8175D8E2,The parameterized complexity of database queries,the parameterized complexity of database queries,2001,4694B652
+7CD61DDD,Inclusion dependencies and their interaction with functional dependencies,inclusion dependencies and their interaction with functional dependencies,1982,4694B652
+813F3294,Query-based data pricing,query based data pricing,2012,4694B652
+8020EA49,Horn tables-an efficient tool for handling incomplete information in databases,horn tables an efficient tool for handling incomplete information in databases,1989,4694B652
+79267E95,XML schema mappings,xml schema mappings,2009,4694B652
+75F90BE7,Efficient query answering in the representative instance approach,efficient query answering in the representative instance approach,1985,4694B652
+7ABC7D82,Data bases in digital libraries: where computer science and information management meet,data bases in digital libraries where computer science and information management meet,1998,4694B652
+7C55957D,Stochastic service guarantees for continuous data on multi-zone disks,stochastic service guarantees for continuous data on multi zone disks,1997,4694B652
+85E00780,Proceedings of the fourteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the fourteenth acm sigact sigmod sigart symposium on principles of database systems,1995,4694B652
+78FC8D9C,Transversing itemset lattices with statistical metric pruning,transversing itemset lattices with statistical metric pruning,2000,4694B652
+0632BB18,Towards a theory of spatial database queries,towards a theory of spatial database queries,1994,4694B652
+7C02EB44,On the relative cost of sampling for join selectivity estimation,on the relative cost of sampling for join selectivity estimation,1994,4694B652
+7EE276AE,Stable models and non-determinism in logic programs with negation,stable models and non determinism in logic programs with negation,1990,4694B652
+7C822707,Tree-width and functional dependencies in databases,tree width and functional dependencies in databases,2008,4694B652
+7F4AFA7D,An axiomatic approach to deciding query safety in deductive databases,an axiomatic approach to deciding query safety in deductive databases,1988,4694B652
+78C7C52F,Structural query optimization—a uniform framework for semantic query optimization in deductive databases,structural query optimization a uniform framework for semantic query optimization in deductive databases,1991,4694B652
+7C5E62D2,Database updates in logic programming,database updates in logic programming,1988,4694B652
+7C9B1A46,Querying partially sound and complete data sources,querying partially sound and complete data sources,2001,4694B652
+767929B7,On the expressive power of update primitives,on the expressive power of update primitives,2013,4694B652
+7AB9B6AB,Towards estimation error guarantees for distinct values,towards estimation error guarantees for distinct values,2000,4694B652
+7B928F69,Pattern matching by Rs-operations: towards a unified approach to querying sequenced data,pattern matching by rs operations towards a unified approach to querying sequenced data,1992,4694B652
+589E60D6,Sacrificing Serializability to Attain High Availability of Data,sacrificing serializability to attain high availability of data,1982,4694B652
+77D2DF1C,Processing first-order queries under limited access patterns,processing first order queries under limited access patterns,2004,4694B652
+7FD45060,Space-optimal heavy hitters with strong error bounds,space optimal heavy hitters with strong error bounds,2009,4694B652
+84D2A9A7,SIGMOD Best Dissertation Award: “Efficient query processing over inconsistent databases”,sigmod best dissertation award efficient query processing over inconsistent databases,2008,4694B652
+7A2C1E24,A web of concepts,a web of concepts,2009,4694B652
+77433E50,The temporal query language TQuel,the temporal query language tquel,1984,4694B652
+7514E517,On the optimality of strategies for multiple joins,on the optimality of strategies for multiple joins,1990,4694B652
+7EDE030F,Expressive languages for path queries over graph-structured data,expressive languages for path queries over graph structured data,2010,4694B652
+79816BB5,Independent and separable database schemes,independent and separable database schemes,1983,4694B652
+777A6A5F,Magic factoring of closure programs (extended abstract),magic factoring of closure programs extended abstract,1995,4694B652
+7B1EF73E,On optimizing summary-table-by-example queries,on optimizing summary table by example queries,1985,4694B652
+759017D8,Parallelizing Datalog programs by generalized pivoting,parallelizing datalog programs by generalized pivoting,1991,4694B652
+10095EAE,Proceedings of the Twenty-Fifth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 26-28, 2006, Chicago, Illinois, USA,proceedings of the twenty fifth acm sigact sigmod sigart symposium on principles of database systems june 26 28 2006 chicago illinois usa,2006,4694B652
+7AB0B62D,Tractable query languages for complex object databases,tractable query languages for complex object databases,1991,4694B652
+7E27D57F,An approximation algorithm to the file allocation problem in computer networks,an approximation algorithm to the file allocation problem in computer networks,1983,4694B652
+7614FC19,The Web as a graph,the web as a graph,2000,4694B652
+785FD2C7,On the correctness of a local storage subsystem,on the correctness of a local storage subsystem,1985,4694B652
+80A8A34C,XML with data values: typechecking revisited,xml with data values typechecking revisited,2001,4694B652
+7E60A5BE,Achieving anonymity via clustering,achieving anonymity via clustering,2006,4694B652
+80EA35CC,The valid model semantics for logic programs,the valid model semantics for logic programs,1992,4694B652
+58D3060D,Deriving Constraints Among Argument Sizes in Logic Programs,deriving constraints among argument sizes in logic programs,1990,4694B652
+76551D7C,A call to order,a call to order,1993,4694B652
+80ECE67C,Data exchange and incomplete information,data exchange and incomplete information,2006,4694B652
+78065A31,On the efficiency of checking perfect privacy,on the efficiency of checking perfect privacy,2006,4694B652
+7BA90FE8,When is naive evaluation possible?,when is naive evaluation possible,2013,4694B652
+7CAEFEE8,On the power of walking for querying tree-structured data,on the power of walking for querying tree structured data,2002,4694B652
+76780909,Implementing deductive databases by linear programming,implementing deductive databases by linear programming,1992,4694B652
+7F3DA41C,Exceeding expectations and clustering uncertain data,exceeding expectations and clustering uncertain data,2009,4694B652
+7C57E823,Reducing recovery constraints on locking based protocols,reducing recovery constraints on locking based protocols,1994,4694B652
+5AD5C1D9,Multi-Query Optimization,multi query optimization,2009,4694B652
+76902B1A,Query-preserving watermarking of relational databases and XML documents,query preserving watermarking of relational databases and xml documents,2003,4694B652
+778E9ED1,Relations with relation names as arguments: algebra and calculus,relations with relation names as arguments algebra and calculus,1992,4694B652
+03D29C55,Entrepreneurship for Information Systems Researchers (Abstract of Invited Tutorial),entrepreneurship for information systems researchers abstract of invited tutorial,2000,4694B652
+767C6099,Sets and negation in a logic data base language (LDL1),sets and negation in a logic data base language ldl1,1987,4694B652
+7EB2DB9B,Worst-case efficient range search indexing: invited tutorial,worst case efficient range search indexing invited tutorial,2009,4694B652
+78F89370,Worst-case complexity analysis of methods for logic query implementation,worst case complexity analysis of methods for logic query implementation,1987,4694B652
+75CE5BA8,Maximal concurrency by locking,maximal concurrency by locking,1984,4694B652
+06CABC8C,A Frame-work for Measuring Differences in Data Characteristics,a frame work for measuring differences in data characteristics,1999,4694B652
+75D1435F,Compatible attributes in a universal relation,compatible attributes in a universal relation,1982,4694B652
+78010BB2,Processing queries with quantifiers a horticultural approach,processing queries with quantifiers a horticultural approach,1983,4694B652
+76055CF2,An enhanced inference mechanism for generating relational algebra queries,an enhanced inference mechanism for generating relational algebra queries,1984,4694B652
+776B990B,Proceedings of the twenty-seventh ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty seventh acm sigmod sigact sigart symposium on principles of database systems,2008,4694B652
+7FF06B00,Relational lenses: a language for updatable views,relational lenses a language for updatable views,2006,4694B652
+0AAF94D8,Polynomial-time Computable Queries in Temporal Deductive Database Systems,polynomial time computable queries in temporal deductive database systems,1990,4694B652
+7BD59FEB,Algebraic versus probabilstic independence in data bases,algebraic versus probabilstic independence in data bases,1985,4694B652
+786AB9D7,The ACM PODS Alberto O. Mendelzon test-of-time award 2012,the acm pods alberto o mendelzon test of time award 2012,2012,4694B652
+8143F0BD,The power of two min-hashes for similarity search among hierarchical data objects,the power of two min hashes for similarity search among hierarchical data objects,2008,4694B652
+0B2D1587,Concepts for a database system synthesizer,concepts for a database system synthesizer,1988,4694B652
+7AD1E60E,The format model: a theory of database organization,the format model a theory of database organization,1982,4694B652
+774118CF,A framework for comparison of update semantics,a framework for comparison of update semantics,1988,4694B652
+5ADEA80B,Integrating Information by Outerjoins and Full Disjunctions,integrating information by outerjoins and full disjunctions,1996,4694B652
+0703B174,On Moving Object Queries,on moving object queries,2002,4694B652
+756ADBF1,Pipelining in multi-query optimization,pipelining in multi query optimization,2001,4694B652
+7CF59BBE,Semantic query optimization in the presence of types,semantic query optimization in the presence of types,2010,4694B652
+75BE9E1A,Effective characterizations of tree logics,effective characterizations of tree logics,2008,4694B652
+7BB83363,Generating low-cost plans from proofs,generating low cost plans from proofs,2014,4694B652
+79496ECD,Accessing information from globally distributed knowledge repositories (extended abstract),accessing information from globally distributed knowledge repositories extended abstract,1996,4694B652
+7A88C204,Multimedia support for databases,multimedia support for databases,1997,4694B652
+85AADDE6,Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the 33rd acm sigmod sigact sigart symposium on principles of database systems,2014,4694B652
+5969219A,Point vs. Interval-based Query Languages for Temporal Databases,point vs interval based query languages for temporal databases,1996,4694B652
+08165ED8,Geographic Database Systems: Issues and Research Needs (Abstract),geographic database systems issues and research needs abstract,1996,4694B652
+78022FCD,On the decidability of query containment under constraints,on the decidability of query containment under constraints,1998,4694B652
+7EAF2288,The expressive powers of the logic programming semantics (extended abstract),the expressive powers of the logic programming semantics extended abstract,1990,4694B652
+7A8C2B5F,Beyond simple aggregates: indexing for summary queries,beyond simple aggregates indexing for summary queries,2011,4694B652
+75605DF0,Granularity hierarchies in concurrency control,granularity hierarchies in concurrency control,1983,4694B652
+76B47E13,Safety of non-well-locked transaction systems,safety of non well locked transaction systems,1985,4694B652
+798C6068,Database principles in information extraction,database principles in information extraction,2014,4694B652
+7A99E7A6,Expressibility of bounded-arity fixed-point query hierarchies,expressibility of bounded arity fixed point query hierarchies,1989,4694B652
+76D741E5,Positive higher-order queries,positive higher order queries,2010,4694B652
+7A210117,Knowledge compilation = query rewriting + view synthesis,knowledge compilation query rewriting view synthesis,2002,4694B652
+757B4553,Window-accumulated subsequence matching problem is linear,window accumulated subsequence matching problem is linear,1999,4694B652
+77A9FAD0,Computing cores for data exchange: new algorithms and practical solutions,computing cores for data exchange new algorithms and practical solutions,2005,4694B652
+7BD1840B,Measuring infinite relations,measuring infinite relations,1995,4694B652
+758E0388,Managing semantic heterogeneity in databases: a theoretical prospective,managing semantic heterogeneity in databases a theoretical prospective,1997,4694B652
+758220CB,The relational model of data and cylindrical algebras,the relational model of data and cylindrical algebras,1982,4694B652
+7540AAAB,Estimating PageRank on graph streams,estimating pagerank on graph streams,2008,4694B652
+7EFC781D,On preservation under homomorphisms and unions of conjunctive queries,on preservation under homomorphisms and unions of conjunctive queries,2004,4694B652
+00F612E6,Query processing using views for regular path queries with inverse,query processing using views for regular path queries with inverse,2000,4694B652
+7F77020D,On the equivalence of database restructurings involving object identifiers (extended abstract),on the equivalence of database restructurings involving object identifiers extended abstract,1991,4694B652
+8049D434,Rewrite rules for search database systems,rewrite rules for search database systems,2011,4694B652
+754B7A1B,Partial-sum queries in OLAP data cubes using covering codes,partial sum queries in olap data cubes using covering codes,1997,4694B652
+0A526FE6,The First Order Complete XPath Dialect,the first order complete xpath dialect,2004,4694B652
+069BEFE6,Type inference for views of semistructured data,type inference for views of semistructured data,2000,4694B652
+79EB8C99,Randomized algorithms for tracking distributed count, frequencies, and ranks,randomized algorithms for tracking distributed count frequencies and ranks,2012,4694B652
+7D48654D,Relative risk and odds ratio: a data mining perspective,relative risk and odds ratio a data mining perspective,2005,4694B652
+7948872E,Processing and optimization of multiway spatial joins using R-trees,processing and optimization of multiway spatial joins using r trees,1999,4694B652
+7AB20850,On the optimality of clustering properties of space filling curves,on the optimality of clustering properties of space filling curves,2012,4694B652
+808CE737,The containment problem for Real conjunctive queries with inequalities,the containment problem for real conjunctive queries with inequalities,2006,4694B652
+796841D2,A tight upper bound on the benefits of replication and consistency control protocols,a tight upper bound on the benefits of replication and consistency control protocols,1991,4694B652
+7AA61C66,Disaggregaticns in databases,disaggregaticns in databases,1983,4694B652
+80540FFF,Flow algorithms for two pipelined filter ordering problems,flow algorithms for two pipelined filter ordering problems,2006,4694B652
+7A26104E,An operational model for database system reliability,an operational model for database system reliability,1983,4694B652
+797FA194,Analysis of disk arm movement for large sequential reads,analysis of disk arm movement for large sequential reads,1992,4694B652
+7F50AB36,On Top-k Range Reporting in 2D Space,on top k range reporting in 2d space,2015,4694B652
+7918451D,The power of the dinur-nissim algorithm: breaking privacy of statistical and graph databases,the power of the dinur nissim algorithm breaking privacy of statistical and graph databases,2012,4694B652
+79537322,Deciding well-definedness of XQuery fragments,deciding well definedness of xquery fragments,2005,4694B652
+768471F4,Algorithms for translating view updates to database updates for views involving selections, projections, and joins,algorithms for translating view updates to database updates for views involving selections projections and joins,1985,4694B652
+76402D51,Updating a relational database through a universal schema interface,updating a relational database through a universal schema interface,1985,4694B652
+79E24F69,Small Armstrong relations for database design,small armstrong relations for database design,1985,4694B652
+76AB83E6,A new framework for itemset generation,a new framework for itemset generation,1998,4694B652
+070F5B72,Parent and ancestor queries using a compact index,parent and ancestor queries using a compact index,2001,4694B652
+7679C8A1,On being optimistic about real-time constraints,on being optimistic about real time constraints,1990,4694B652
+81078B5A,A divide-and-merge methodology for clustering,a divide and merge methodology for clustering,2005,4694B652
+7992A948,Schema design for XML repositories: complexity and tractability,schema design for xml repositories complexity and tractability,2010,4694B652
+78664415,Query evaluation under the well-founded semantics,query evaluation under the well founded semantics,1993,4694B652
+8636B78E,Proceedings of the seventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the seventh acm sigact sigmod sigart symposium on principles of database systems,1988,4694B652
+790087E0,Concurrency control for resilient nested transactions,concurrency control for resilient nested transactions,1983,4694B652
+5D1A0F0E,Uniform Generation in Spatial Constraint Databases and Applications,uniform generation in spatial constraint databases and applications,2000,4694B652
+7B0F118A,An operational approach to data bases,an operational approach to data bases,1982,4694B652
+78F479A5,New data models and languages—the challenge,new data models and languages the challenge,1992,4694B652
+0C13F05D,On Genericity and Parametricity,on genericity and parametricity,1996,4694B652
+8103DB81,Query containment and rewriting using views for regular path queries under constraints,query containment and rewriting using views for regular path queries under constraints,2003,4694B652
+7F38645F,Robbers, marshals, and guards: game theoretic and logical characterizations of hypertree width,robbers marshals and guards game theoretic and logical characterizations of hypertree width,2001,4694B652
+7C84FC04,Using semiouterjoins to process queries in multidatabase systems,using semiouterjoins to process queries in multidatabase systems,1984,4694B652
+7BF80506,Efficient evaluation for a subset of recursive queries,efficient evaluation for a subset of recursive queries,1987,4694B652
+793A74F0,A generic flow algorithm for shared filter ordering problems,a generic flow algorithm for shared filter ordering problems,2008,4694B652
+7924D862,The Communication Complexity of Distributed Set-Joins with Applications to Matrix Multiplication,the communication complexity of distributed set joins with applications to matrix multiplication,2015,4694B652
+7864370E,Deciding monotone duality and identifying frequent itemsets in quadratic logspace,deciding monotone duality and identifying frequent itemsets in quadratic logspace,2013,4694B652
+7B8638A2,Group updates for relaxed height-balanced trees,group updates for relaxed height balanced trees,1999,4694B652
+806DD754,Querying graph patterns,querying graph patterns,2011,4694B652
+80130E21,Adaptive sampling for geometric problems over data streams,adaptive sampling for geometric problems over data streams,2004,4694B652
+7C2C5B0B,Determining the last process to fail,determining the last process to fail,1983,4694B652
+78D7803F,Querying Big Data by Accessing Small Data,querying big data by accessing small data,2015,4694B652
+7FC39665,The view selection problem for XML content based routing,the view selection problem for xml content based routing,2003,4694B652
+7C756722,Variance estimation over sliding windows,variance estimation over sliding windows,2007,4694B652
+7A9589D9,Reachability and connectivity queries in constraint databases,reachability and connectivity queries in constraint databases,2000,4694B652
+7C44AB05,Querying spatial databases via topological invariants,querying spatial databases via topological invariants,1998,4694B652
+802DDA2A,Compact Summaries over Large Datasets,compact summaries over large datasets,2015,4694B652
+0623DCF9,Modeling Complex Structures in Object-Oriented Databases,modeling complex structures in object oriented databases,1989,4694B652
+76093157,An adaptive packed-memory array,an adaptive packed memory array,2006,4694B652
+0926E128,Query-preserving Watermarking of Relational Databases and XML documents,query preserving watermarking of relational databases and xml documents,2003,4694B652
+030122CE,Privacy via Pseudorandom Sketches Proc,privacy via pseudorandom sketches proc,2006,4694B652
+77F6CCA4,On the power of Alexander templates,on the power of alexander templates,1989,4694B652
+78073A5E,Distributed XML design,distributed xml design,2009,4694B652
+7C6C5880,Type inference for datalog and its application to query optimisation,type inference for datalog and its application to query optimisation,2008,4694B652
+75C00A6A,Transactions and integrity constraints,transactions and integrity constraints,1985,4694B652
+7CCFF87D,Default Negation for Non-Guarded Existential Rules,default negation for non guarded existential rules,2015,4694B652
+79902A8D,Pushing constraint selections,pushing constraint selections,1992,4694B652
+772C0427,Applications of linear algebra in information retrieval and hypertext analysis,applications of linear algebra in information retrieval and hypertext analysis,1999,4694B652
+75C34C28,Answering queries using views (extended abstract),answering queries using views extended abstract,1995,4694B652
+7F1F1E67,The alternating fixpoint of logic programs with negation,the alternating fixpoint of logic programs with negation,1989,4694B652
+01C7D1BB,Algebras for Querying Text Regions,algebras for querying text regions,1995,4694B652
+5CC7DB89,View Maintenance Issues for the Chronicle Data Model,view maintenance issues for the chronicle data model,1995,4694B652
+78BF16C1,Why a single parallelization strategy is not enough in knowledge bases,why a single parallelization strategy is not enough in knowledge bases,1989,4694B652
+5E645283,Expressive and efficient pattern languages for tree-structured data,expressive and efficient pattern languages for tree structured data,1999,4694B652
+5E040D94,Proceedings of the eighteenth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the eighteenth acm sigmod sigact sigart symposium on principles of database systems,1999,4694B652
+7AF3C873,On the decidability and complexity of query answering over inconsistent and incomplete databases,on the decidability and complexity of query answering over inconsistent and incomplete databases,2003,4694B652
+0A2AB61E,Future Directions and Research Problems in the World Wide Web (Abstract),future directions and research problems in the world wide web abstract,1996,4694B652
+7B2D818D,Incomplete information and certain answers in general data models,incomplete information and certain answers in general data models,2011,4694B652
+7CF02913,On probabilistic fixpoint and Markov chain query languages,on probabilistic fixpoint and markov chain query languages,2010,4694B652
+805CC3D6,Space-efficient range reporting for categorical data,space efficient range reporting for categorical data,2012,4694B652
+79E494B3,Dynamic Data Structures for Document Collections and Graphs,dynamic data structures for document collections and graphs,2015,4694B652
+5AD18D43,On the Equivalence of Database Restructurings Involving Object Identifiers,on the equivalence of database restructurings involving object identifiers,1991,4694B652
+0184D8FD,Multiple Join Size Estimation by Virtual Domains,multiple join size estimation by virtual domains,1993,4694B652
+7B296FAF,The past, present and future of web information retrieval,the past present and future of web information retrieval,2004,4694B652
+7807E3F3,Chordality properties on graphs and minimal conceptual connections in semantic data models,chordality properties on graphs and minimal conceptual connections in semantic data models,1985,4694B652
+7A6D32EC,In memoriam: Paris C. Kanellakis,in memoriam paris c kanellakis,1996,4694B652
+12CADEAE,Proceedings of the Twenty-Ninth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2010, June 6-11, 2010, Indianapolis, Indiana, USA,proceedings of the twenty ninth acm sigmod sigact sigart symposium on principles of database systems pods 2010 june 6 11 2010 indianapolis indiana usa,2010,4694B652
+75524D10,CWA-solutions for data exchange settings with target dependencies,cwa solutions for data exchange settings with target dependencies,2007,4694B652
+7D323CD4,Incremental query evaluation in a ring of databases,incremental query evaluation in a ring of databases,2010,4694B652
+79FEB89F,Notions of dependency satisfaction,notions of dependency satisfaction,1982,4694B652
+7571FCA4,Datalog redux: experience and conjecture,datalog redux experience and conjecture,2010,4694B652
+77B2B286,Communication steps for parallel query processing,communication steps for parallel query processing,2013,4694B652
+7C33231C,Answering queries in categorical databases,answering queries in categorical databases,1987,4694B652
+797E5809,Dense-order constraint databases (extended abstract),dense order constraint databases extended abstract,1995,4694B652
+59D5E9B3,On the Decidability of Semi-Linearity for Semi-Algebraic Sets and its Implications for Spatial Databases,on the decidability of semi linearity for semi algebraic sets and its implications for spatial databases,1997,4694B652
+7515A2C0,Optimal response time retrieval of replicated data (extended abstract),optimal response time retrieval of replicated data extended abstract,1994,4694B652
+7CEFE07A,Increasing the resilience of atomic commit, at no additional cost,increasing the resilience of atomic commit at no additional cost,1995,4694B652
+7687A284,Data independent recursion in deductive databases,data independent recursion in deductive databases,1985,4694B652
+0647DF31,Adding Disjunction to Datalog,adding disjunction to datalog,1994,4694B652
+5EC60608,Proceedings of the twenty-third ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty third acm sigmod sigact sigart symposium on principles of database systems,2004,4694B652
+7BF40681,Rewriting aggregate queries using views,rewriting aggregate queries using views,1999,4694B652
+80D642C2,Optimizing datalog programs,optimizing datalog programs,1987,4694B652
+76C2146D,Axiomatization and simplification rules for relational transactions,axiomatization and simplification rules for relational transactions,1987,4694B652
+7B29C2A6,Magic-sets transformation in nonrecursive systems,magic sets transformation in nonrecursive systems,1992,4694B652
+7A59EDA9,Non-deterministic languages to express deterministic transformations,non deterministic languages to express deterministic transformations,1990,4694B652
+7E52E852,Representability of design objects by ancestor-controlled hierarchical specifications,representability of design objects by ancestor controlled hierarchical specifications,1990,4694B652
+76B06600,An overview of query optimization in relational systems,an overview of query optimization in relational systems,1998,4694B652
+7A327937,A novel checkpointing scheme for distributed database systems,a novel checkpointing scheme for distributed database systems,1990,4694B652
+7BA49C9A,Conjunctive queries over trees,conjunctive queries over trees,2004,4694B652
+801C27E2,Combining Fuzzy Information From Multiple Systems,combining fuzzy information from multiple systems,1996,4694B652
+7C5AB3EE,Embedded join dependencies as a tool for decomposing full join dependencies,embedded join dependencies as a tool for decomposing full join dependencies,1985,4694B652
+7CA96E07,Independence-reducible database schemes,independence reducible database schemes,1988,4694B652
+78DC1469,Estimating arbitrary subset sums with few probes,estimating arbitrary subset sums with few probes,2005,4694B652
+764B0B62,Selectively estimation for Boolean queries,selectively estimation for boolean queries,2000,4694B652
+7B954F48,Materializing views with minimal size to answer queries,materializing views with minimal size to answer queries,2003,4694B652
+815650F6,Fast Manhattan sketches in data streams,fast manhattan sketches in data streams,2010,4694B652
+77BDDD07,Optimal histograms for hierarchical range queries (extended abstract),optimal histograms for hierarchical range queries extended abstract,2000,4694B652
+7B37CA30,Dyn-FO (preliminary version): a parallel, dynamic complexity class,dyn fo preliminary version a parallel dynamic complexity class,1994,4694B652
+7778CB7C,Querying aggregate data,querying aggregate data,1999,4694B652
+78F25157,Power-conserving computation of order-statistics over sensor networks,power conserving computation of order statistics over sensor networks,2004,4694B652
+7892657D,Security analysis of cryptographically controlled access to XML documents,security analysis of cryptographically controlled access to xml documents,2005,4694B652
+7B5473FF,From discrepancy to declustering: near-optimal multidimensional declustering strategies for range queries,from discrepancy to declustering near optimal multidimensional declustering strategies for range queries,2002,4694B652
+80A313E9,Flexible queries over semistructured data,flexible queries over semistructured data,2001,4694B652
+75FEC08F,XML type checking with macro tree transducers,xml type checking with macro tree transducers,2005,4694B652
+75B8FC96,Relaxing the universal relation scheme assumption,relaxing the universal relation scheme assumption,1985,4694B652
+5C40F3E2,Deciding Containment for Queries with Complex Objects,deciding containment for queries with complex objects,1997,4694B652
+7C0AA417,Linguistic foundations for bidirectional transformations: invited tutorial,linguistic foundations for bidirectional transformations invited tutorial,2012,4694B652
+757C588A,An experimental evaluation of crash recovery machanisms,an experimental evaluation of crash recovery machanisms,1985,4694B652
+80A4BE81,Maglc sets and other strange ways to imple ment loglc programs,maglc sets and other strange ways to imple ment loglc programs,1986,4694B652
+045198F9,Specification and verification of interactive web services,specification and verification of interactive web services,2004,4694B652
+75E13251,Locking without blocking: making lock based concurrent data structure algorithms nonblocking,locking without blocking making lock based concurrent data structure algorithms nonblocking,1992,4694B652
+59061B34,Accessing Information from Globally Distributed Knowledge Repositories,accessing information from globally distributed knowledge repositories,1996,4694B652
+7859E116,A calculus for complex objects,a calculus for complex objects,1985,4694B652
+79E9B380,Performance evaluation of a two-phase commit based protocol for DDBs,performance evaluation of a two phase commit based protocol for ddbs,1982,4694B652
+787085B9,On equivalences of database schemes,on equivalences of database schemes,1982,4694B652
+1035AB56,On Negation in HiLog,on negation in hilog,1991,4694B652
+794CBB9B,Auditing Boolean attributes,auditing boolean attributes,2000,4694B652
+79983AAC,Bottom-up beats top-down for datalog,bottom up beats top down for datalog,1989,4694B652
+816F9BBA,Typed query languages for databases containing queries,typed query languages for databases containing queries,1998,4694B652
+7D5BF638,Relational expressive power of constraint query languages,relational expressive power of constraint query languages,1996,4694B652
+79F9AECF,Reasoning about XML update constraints,reasoning about xml update constraints,2007,4694B652
+7EA169BB,Maintaining variance and k-medians over data stream windows,maintaining variance and k medians over data stream windows,2003,4694B652
+762390F5,On indexing mobile objects,on indexing mobile objects,1999,4694B652
+7733B262,Decomposing an N-ary relation into a tree of binary relations,decomposing an n ary relation into a tree of binary relations,1987,4694B652
+77BCE5A8,Making object-oriented schemas more expressive,making object oriented schemas more expressive,1994,4694B652
+77810243,Reflective programming in the relational algebra,reflective programming in the relational algebra,1993,4694B652
+75AFE3E8,Real-time integrity constraints,real time integrity constraints,1992,4694B652
+7D2028D3,Optimizing linear counting queries under differential privacy,optimizing linear counting queries under differential privacy,2010,4694B652
+799C28C1,Referential actions as logical rules,referential actions as logical rules,1997,4694B652
+77719652,A logic for object-oriented logic programming,a logic for object oriented logic programming,1989,4694B652
+76DE9FA9,A decidable class of bounded recursions,a decidable class of bounded recursions,1987,4694B652
+756F2147,Feasible itemset distributions in data mining: theory and application,feasible itemset distributions in data mining theory and application,2003,4694B652
+7705B888,Can Datalog be approximated?,can datalog be approximated,1994,4694B652
+76B1DD99,OLAP dimension constraints,olap dimension constraints,2002,4694B652
+7E9EA01E,Running tree automata on probabilistic XML,running tree automata on probabilistic xml,2009,4694B652
+81607ADC,On the memory requirements of XPath evaluation over XML streams,on the memory requirements of xpath evaluation over xml streams,2004,4694B652
+798508C2,Three-valued formalization of logic programming: is it needed?,three valued formalization of logic programming is it needed,1990,4694B652
+79A848D7,Specification and implementation of programs for updating incomplete information databases,specification and implementation of programs for updating incomplete information databases,1987,4694B652
+77971ACF,Towards practical constraint databases (extended abstract),towards practical constraint databases extended abstract,1996,4694B652
+7A08EE77,Integrity constraints for XML,integrity constraints for xml,2000,4694B652
+799FB62F,XPath evaluation in linear time,xpath evaluation in linear time,2008,4694B652
+7993DA02,Hybrid concurrency control for abstract data types,hybrid concurrency control for abstract data types,1988,4694B652
+7C55357A,Best Newcomer Award: Evaluating rank joins with optimal costs,best newcomer award evaluating rank joins with optimal costs,2008,4694B652
+7BC6E1BA,Static analysis and optimization of semantic web queries,static analysis and optimization of semantic web queries,2012,4694B652
+780BEA19,Expressiveness and complexity of xml publishing transducers,expressiveness and complexity of xml publishing transducers,2007,4694B652
+76745987,Fixed-point query languages for linear constraint databases,fixed point query languages for linear constraint databases,2000,4694B652
+774FEA58,Locality preserving dictionaries: theory & application to clustering in databases,locality preserving dictionaries theory application to clustering in databases,1999,4694B652
+0A5A6F9B,Managing Rule Conflicts in an Active Database,managing rule conflicts in an active database,1996,4694B652
+789C89A2,Dynamic query interpretation in relational databases,dynamic query interpretation in relational databases,1987,4694B652
+76E11E0E,On computing restricted projections of representative instances,on computing restricted projections of representative instances,1985,4694B652
+7B005DCC,Future directions and research problems in the World Wide Web,future directions and research problems in the world wide web,1996,4694B652
+80A42421,Determining relevance of accesses at runtime,determining relevance of accesses at runtime,2011,4694B652
+77250292,Deciding containment for queries with complex objects (extended abstract),deciding containment for queries with complex objects extended abstract,1997,4694B652
+07AFFAD3,Modeling Hot Spots In Database Systems,modeling hot spots in database systems,1991,4694B652
+80E9B44B,Dependency characterizations for acyclic database schemes,dependency characterizations for acyclic database schemes,1984,4694B652
+815A5FF9,XML with incomplete information: models, properties, and query answering,xml with incomplete information models properties and query answering,2009,4694B652
+778F6EA9,Synapse approach to database recovery,synapse approach to database recovery,1984,4694B652
+7901E07F,Graph-theoretic methods in database theory,graph theoretic methods in database theory,1990,4694B652
+7C064559,Deterministic wavelet thresholding for maximum-error metrics,deterministic wavelet thresholding for maximum error metrics,2004,4694B652
+7E65B7E7,What's hot and what's not: tracking most frequent items dynamically,what s hot and what s not tracking most frequent items dynamically,2003,4694B652
+78AD044F,Locks with constrained sharing (extended abstract),locks with constrained sharing extended abstract,1990,4694B652
+78EC12CB,Temporal deductive databases and infinite objects,temporal deductive databases and infinite objects,1988,4694B652
+80A1315A,Context-sensitive program analysis as database queries,context sensitive program analysis as database queries,2005,4694B652
+80BC1012,Polynomial time query processing in temporal deductive databases,polynomial time query processing in temporal deductive databases,1990,4694B652
+7ABB0BBF,Validating streaming XML documents,validating streaming xml documents,2002,4694B652
+7C19A4C8,Integrating information by outerjoins and full disjunctions (extended abstract),integrating information by outerjoins and full disjunctions extended abstract,1996,4694B652
+8012F645,Understanding queries in a search database system,understanding queries in a search database system,2010,4694B652
+7A6964C0,On the expected size of recursive Datalog queries,on the expected size of recursive datalog queries,1991,4694B652
+7AF48F17,A dichotomy in the intensional expressive power of nested relational calculi augmented with aggregate functions and a powerset operator,a dichotomy in the intensional expressive power of nested relational calculi augmented with aggregate functions and a powerset operator,2013,4694B652
+79A785F7,A graph-oriented object database model,a graph oriented object database model,1990,4694B652
+7C612AC9,On views and XML,on views and xml,1999,4694B652
+7B6A232F,On the power of magic,on the power of magic,1987,4694B652
+03A1C9F7,Locks with Constrained Sharing,locks with constrained sharing,1990,4694B652
+79645C76,Concurrency control and recovery in transactional process management,concurrency control and recovery in transactional process management,1999,4694B652
+75BD8890,Possibilities and limitations of using flat operators in nested algebra expressions,possibilities and limitations of using flat operators in nested algebra expressions,1988,4694B652
+78468897,Efficient approximations of conjunctive queries,efficient approximations of conjunctive queries,2012,4694B652
+007F39D5,Optimizing real conjunctive queries,optimizing real conjunctive queries,1993,4694B652
+79108DA4,Specification and verification of abstract database types,specification and verification of abstract database types,1984,4694B652
+7C9EB999,Positivism vs minimalism in deductive databases,positivism vs minimalism in deductive databases,1985,4694B652
+79841DA0,From statistical knowledge bases to degrees of belief: an overview,from statistical knowledge bases to degrees of belief an overview,2006,4694B652
+5E948112,Termination Detection in Logic Programs using Argument Sizes,termination detection in logic programs using argument sizes,1991,4694B652
+7D3C6C89,Approximation algorithms for co-clustering,approximation algorithms for co clustering,2008,4694B652
+764EB229,Weighted hypertree decompositions and optimal query plans,weighted hypertree decompositions and optimal query plans,2004,4694B652
+78FEE378,Containment and equivalence for an XPath fragment,containment and equivalence for an xpath fragment,2002,4694B652
+7AC7D1CD,Formal limits on the automatic generation and maintenance of integrity constraints,formal limits on the automatic generation and maintenance of integrity constraints,1987,4694B652
+7AC39062,A generalized transitive closure for relational queries,a generalized transitive closure for relational queries,1988,4694B652
+7D8CE253,Space complexity of hierarchical heavy hitters in multi-dimensional data streams,space complexity of hierarchical heavy hitters in multi dimensional data streams,2005,4694B652
+7576CBD1,Linear approximation of planar spatial databases using transitive-closure logic,linear approximation of planar spatial databases using transitive closure logic,2000,4694B652
+093D8993,Modular Architectures for Distributed and Database Systems,modular architectures for distributed and database systems,1989,4694B652
+7B2D704F,Path constraints on semistructured and structured data,path constraints on semistructured and structured data,1998,4694B652
+76895FAA,Containment and equivalence of well-designed SPARQL,containment and equivalence of well designed sparql,2014,4694B652
+78D3F244,Processing queries on tree-structured data efficiently,processing queries on tree structured data efficiently,2006,4694B652
+08FF36C5,Semantic Query Optimization in Datalog Programs,semantic query optimization in datalog programs,1995,4694B652
+7706A0C9,Incorporating constraints in probabilistic XML,incorporating constraints in probabilistic xml,2008,4694B652
+0663DAF9,Achieving anonymity via clustering in a metric space,achieving anonymity via clustering in a metric space,2006,4694B652
+7A521A11,On lossless tranformation of databases schemes not necessarily satisfying universal instance assumption,on lossless tranformation of databases schemes not necessarily satisfying universal instance assumption,1984,4694B652
+805104C5,Rectangle-efficient aggregation in spatial data streams,rectangle efficient aggregation in spatial data streams,2012,4694B652
+7B6204E2,Parallel-Correctness and Transferability for Conjunctive Queries,parallel correctness and transferability for conjunctive queries,2015,4694B652
+802952A5,Space efficient mining of multigraph streams,space efficient mining of multigraph streams,2005,4694B652
+7A900332,On verifying consistency of XML specifications,on verifying consistency of xml specifications,2002,4694B652
+7AB9FEC2,Dependencies revisited for improving data quality,dependencies revisited for improving data quality,2008,4694B652
+77C20905,Managing conflicts between rules (extended abstract),managing conflicts between rules extended abstract,1996,4694B652
+7F1D1A16,Mixed-approach algorithms for transitive closure,mixed approach algorithms for transitive closure,1991,4694B652
+7796BBC5,Answering queries using views with arithmetic comparisons,answering queries using views with arithmetic comparisons,2002,4694B652
+78169DB0,Distributed algorithms for dynamic replication of data,distributed algorithms for dynamic replication of data,1992,4694B652
+76C6280A,A rigorous and customizable framework for privacy,a rigorous and customizable framework for privacy,2012,4694B652
+7BEC2D7C,Partition semantics for relations,partition semantics for relations,1985,4694B652
+7B8C223F,A theoretical foundation of multi-level concurrency control,a theoretical foundation of multi level concurrency control,1985,4694B652
+7B41D269,A semantics for complex objects and approximate queries,a semantics for complex objects and approximate queries,1988,4694B652
+7A2201F8,Extendible hashing for concurrent operations and distributed data,extendible hashing for concurrent operations and distributed data,1983,4694B652
+7C4A5A37,On the complexity of privacy-preserving complex event processing,on the complexity of privacy preserving complex event processing,2011,4694B652
+0B75849D,Constraints among Argument Sizes in Logic Programs,constraints among argument sizes in logic programs,1994,4694B652
+7FBF609F,Dynamic constraints and database evolution,dynamic constraints and database evolution,1983,4694B652
+7EF05DA7,Universally optimal privacy mechanisms for minimax agents,universally optimal privacy mechanisms for minimax agents,2010,4694B652
+7F9C6D14,Quasi-inverses of schema mappings,quasi inverses of schema mappings,2007,4694B652
+79242513,Typing and querying XML documents: some complexity bounds,typing and querying xml documents some complexity bounds,2003,4694B652
+78A7510B,Models and methods for privacy-preserving data publishing and analysis: invited tutorial,models and methods for privacy preserving data publishing and analysis invited tutorial,2005,4694B652
+07C45483,Inclusion dependencies and the universal instance,inclusion dependencies and the universal instance,1983,4694B652
+806695BD,On nearest neighbor indexing of nonlinear trajectories,on nearest neighbor indexing of nonlinear trajectories,2003,4694B652
+0E61560A,Dyn-FO: A Parallel, Dynamic Complexity Class,dyn fo a parallel dynamic complexity class,1994,4694B652
+78DB54BC,Safety and correct translation of relational calculus formulas,safety and correct translation of relational calculus formulas,1987,4694B652
+790C5BD9,Defining Relations on Graphs: How Hard is it in the Presence of Node Partitions?,defining relations on graphs how hard is it in the presence of node partitions,2015,4694B652
+7CDB9EE3,Does query evaluation tractability help query containment?,does query evaluation tractability help query containment,2014,4694B652
+775B3B12,A query language for a homogeneous temporal database,a query language for a homogeneous temporal database,1985,4694B652
+7E2DC690,Data exchange and schema mappings in open and closed worlds,data exchange and schema mappings in open and closed worlds,2008,4694B652
+7693B73B,Transducing Markov sequences,transducing markov sequences,2010,4694B652
+7D8843A7,Tractable database design through bounded treewidth,tractable database design through bounded treewidth,2006,4694B652
+7F73882C,A normal form for XML documents,a normal form for xml documents,2002,4694B652
+759FB311,What should a database know?,what should a database know,1988,4694B652
+7DE03402,On the complexity of the view-selection problem,on the complexity of the view selection problem,1999,4694B652
+79CD4227,Declustering using error correcting codes,declustering using error correcting codes,1989,4694B652
+5E986FD7,Conjunctive Query Equivalence of Keyed Relational Schemas,conjunctive query equivalence of keyed relational schemas,1997,4694B652
+80CDFD97,Complexity of answering queries using materialized views,complexity of answering queries using materialized views,1998,4694B652
+7C882500,Optimal tracking of distributed heavy hitters and quantiles,optimal tracking of distributed heavy hitters and quantiles,2009,4694B652
+7613090D,Data exchange: getting to the core,data exchange getting to the core,2003,4694B652
+7F80D236,Monadic datalog over finite structures with bounded treewidth,monadic datalog over finite structures with bounded treewidth,2007,4694B652
+79269485,Regular rewriting of active XML and unambiguity,regular rewriting of active xml and unambiguity,2005,4694B652
+055BA049,Towards a theory of indexability,towards a theory of indexability,1997,4694B652
+7A5A704D,Towards an axiomatization of statistical privacy and utility,towards an axiomatization of statistical privacy and utility,2010,4694B652
+790BF987,The power of tree projections: local consistency, greedy algorithms, and larger islands of tractability,the power of tree projections local consistency greedy algorithms and larger islands of tractability,2010,4694B652
+78FBC136,Expressive and efficient pattern languages for tree-structured data (extended abstract),expressive and efficient pattern languages for tree structured data extended abstract,2000,4694B652
+791B7F53,Concise descriptions of subsets of structured sets,concise descriptions of subsets of structured sets,2003,4694B652
+7889B7EF,Minimal data upgrading to prevent inference and association attacks,minimal data upgrading to prevent inference and association attacks,1999,4694B652
+7A617A65,Deterministic regular expressions in linear time,deterministic regular expressions in linear time,2012,4694B652
+07B056AB,Inherent Complexity of Recursive Queries (Extended Abstract),inherent complexity of recursive queries extended abstract,1999,4694B652
+79999BB5,A model-theoretic approach to updating logical databases,a model theoretic approach to updating logical databases,1985,4694B652
+7C5CA03A,Finitely representable databases (extended abstract),finitely representable databases extended abstract,1994,4694B652
+78322DDF,Untyped sets, invention, and computable queries,untyped sets invention and computable queries,1989,4694B652
+76C72CF3,The power of sampling in knowledge discovery,the power of sampling in knowledge discovery,1994,4694B652
+7E86D28E,The finite model theory toolbox of a database theoretician,the finite model theory toolbox of a database theoretician,2009,4694B652
+76F79DCA,The impact of recovery on concurrency control,the impact of recovery on concurrency control,1989,4694B652
+7B5946C1,The challenges of delivering content on the Internet,the challenges of delivering content on the internet,2001,4694B652
+0555497F,The complexity of xpath query processing,the complexity of xpath query processing,2003,4694B652
+7960046B,Convergence of sideways query evaluation,convergence of sideways query evaluation,1985,4694B652
+7E30FA2F,Determining source contribution in integration systems,determining source contribution in integration systems,2005,4694B652
+79527ECD,Process locking: a protocol based on ordered shared locks for the execution of transactional processes,process locking a protocol based on ordered shared locks for the execution of transactional processes,2001,4694B652
+7E96CFB9,Optimization of continuous queries with shared expensive filters,optimization of continuous queries with shared expensive filters,2007,4694B652
+7DD81683,On the representation of infinite temporal data and queries (extended abstract),on the representation of infinite temporal data and queries extended abstract,1991,4694B652
+0970A5BB,Efficient and Acurate Cost Models for Parallel Query Optimization,efficient and acurate cost models for parallel query optimization,1996,4694B652
+63E7C862,Data mining, hypergraph transversals, and machine learning,data mining hypergraph transversals and machine learning,1997,4694B652
+7977A872,On moving object queries: (extended abstract),on moving object queries extended abstract,2002,4694B652
+7DFC1F4F,Frontiers of tractability for typechecking simple XML transformations,frontiers of tractability for typechecking simple xml transformations,2004,4694B652
+7671E331,On the complexity of approximate query optimization,on the complexity of approximate query optimization,2002,4694B652
+7B957C72,On genericity and parametricity (extended abstract),on genericity and parametricity extended abstract,1996,4694B652
+7F28017F,A dichotomy in the complexity of deletion propagation with functional dependencies,a dichotomy in the complexity of deletion propagation with functional dependencies,2012,4694B652
+76889AA6,Database theory—past and future,database theory past and future,1987,4694B652
+78FCAB7E,The (Almost) Complete Guide to Tree Pattern Containment,the almost complete guide to tree pattern containment,2015,4694B652
+7CECC5B2,On producing join results early,on producing join results early,2003,4694B652
+7C7B1399,Distributed computation of web queries using automata,distributed computation of web queries using automata,2002,4694B652
+7999117A,On the decomposition of join dependencies,on the decomposition of join dependencies,1984,4694B652
+781BCA73,A query language for NC,a query language for nc,1994,4694B652
+02B4C445,A Cost Model For Nearest Neighbour Search,a cost model for nearest neighbour search,1997,4694B652
+76EED271,Typechecking for XML transformers,typechecking for xml transformers,2000,4694B652
+7F250E7F,From information to knowledge: harvesting entities and relationships from web sources,from information to knowledge harvesting entities and relationships from web sources,2010,4694B652
+0B8BFE6C,On the Complexity of Bounded-Variable Queries,on the complexity of bounded variable queries,1995,4694B652
+75140EDC,Extended commitment ordering, or guaranteeing global serializability by applying commitment order selectively to global transactions,extended commitment ordering or guaranteeing global serializability by applying commitment order selectively to global transactions,1993,4694B652
+779466BB,Characterizing schema mappings via data examples,characterizing schema mappings via data examples,2010,4694B652
+07107ED6,Dynamic Tree Isomorphism via First-Order Updates,dynamic tree isomorphism via first order updates,1998,4694B652
+79CF69DD,Specification and verification of data-driven web services,specification and verification of data driven web services,2004,4694B652
+5BCB39C3,On the Optimality of Disk Allocation for Cartesian Product Files,on the optimality of disk allocation for cartesian product files,1990,4694B652
+79167E4A,Efficient processing of window queries in the pyramid data structure,efficient processing of window queries in the pyramid data structure,1990,4694B652
+770680D7,Relational transducers for declarative networking,relational transducers for declarative networking,2011,4694B652
+7CE87540,Data exchange beyond complete data,data exchange beyond complete data,2011,4694B652
+5FCB3C65,Proceedings of the 1st ACM SIGACT-SIGMOD symposium on Principles of database systems,proceedings of the 1st acm sigact sigmod symposium on principles of database systems,1982,4694B652
+808DCAC6,The dichotomy of conjunctive queries on probabilistic structures,the dichotomy of conjunctive queries on probabilistic structures,2007,4694B652
+86372FA6,Proceedings of the twenty-second ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty second acm sigmod sigact sigart symposium on principles of database systems,2003,4694B652
+7BD8E29D,Computing query probability with incidence algebras,computing query probability with incidence algebras,2010,4694B652
+80DF9FB8,Finding global icebergs over distributed data sets,finding global icebergs over distributed data sets,2006,4694B652
+79DDA48D,Analysis of bounded disorder file organization,analysis of bounded disorder file organization,1988,4694B652
+00B2CCAD,Formal models of the web,formal models of the web,1997,4694B652
+79F60906,Beyond worst-case analysis for joins with minesweeper,beyond worst case analysis for joins with minesweeper,2014,4694B652
+78760D06,Dichotomies in the Complexity of Preferred Repairs,dichotomies in the complexity of preferred repairs,2015,4694B652
+78B29DE2,The size of a revised knowledge base,the size of a revised knowledge base,1995,4694B652
+7CABC47D,Why not negation by fixpoint?,why not negation by fixpoint,1988,4694B652
+07025903,Complete Geometrical Query Languages,complete geometrical query languages,1997,4694B652
+7A186723,On concurrency control by multiple versions,on concurrency control by multiple versions,1982,4694B652
+7857A4B3,On Herbrand semantics and conflict serializability of read-write transactions (extended abstract),on herbrand semantics and conflict serializability of read write transactions extended abstract,2000,4694B652
+097CC240,Point-based vs Interval-based Temporal Query Languages,point based vs interval based temporal query languages,1996,4694B652
+1339FEF0,Proceedings of the Twenty-fourth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 13-15, 2005, Baltimore, Maryland, USA,proceedings of the twenty fourth acm sigact sigmod sigart symposium on principles of database systems june 13 15 2005 baltimore maryland usa,2005,4694B652
+76794A43,A procedural semantics for well founded negation in logic programs,a procedural semantics for well founded negation in logic programs,1989,4694B652
+78111D66,Queries with incomplete answers over semistructured data,queries with incomplete answers over semistructured data,1999,4694B652
+7A60E805,Database-friendly random projections,database friendly random projections,2001,4694B652
+7B495C34,Perspectives in deductive databases (Abstract only),perspectives in deductive databases abstract only,1987,4694B652
+090B3342,Automata Theory for Database Theoreticans,automata theory for database theoreticans,1989,4694B652
+76A4E8F7,Properties of database schemata with functional dependencies,properties of database schemata with functional dependencies,1984,4694B652
+79174745,Efficient and accurate cost models for parallel query optimization (extended abstract),efficient and accurate cost models for parallel query optimization extended abstract,1996,4694B652
+78EC7CEF,Concurrency control in database structures with relaxed balance,concurrency control in database structures with relaxed balance,1987,4694B652
+803237C0,On redundancy vs dependency preservation in normalization: an information-theoretic study of 3NF,on redundancy vs dependency preservation in normalization an information theoretic study of 3nf,2006,4694B652
+75E32468,Worst-case optimal join algorithms: [extended abstract],worst case optimal join algorithms extended abstract,2012,4694B652
+76CCF5E8,Analytical modeling of materialized view maintenance,analytical modeling of materialized view maintenance,1988,4694B652
+77D434E0,Information complexity: a tutorial,information complexity a tutorial,2010,4694B652
+7FD37BAC,An efficient, fault-tolerant protocol for replicated data management,an efficient fault tolerant protocol for replicated data management,1985,4694B652
+7ADDD416,Proceedings of the twenty-sixth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty sixth acm sigmod sigact sigart symposium on principles of database systems,2007,4694B652
+082FFA51,The Reliability of Queries,the reliability of queries,1995,4694B652
+782826A4,Verifiable properties of database transactions,verifiable properties of database transactions,1996,4694B652
+76D711AC,C-logic of complex objects,c logic of complex objects,1989,4694B652
+5CF8FF7F,A Polymorphic Calculus for Views and Object Sharing,a polymorphic calculus for views and object sharing,1994,4694B652
+752BFCCA,Randomized computations on large data sets: tight lower bounds,randomized computations on large data sets tight lower bounds,2006,4694B652
+7813E5A0,Fast and Near-Optimal Algorithms for Approximating Distributions by Histograms,fast and near optimal algorithms for approximating distributions by histograms,2015,4694B652
+7597D88B,Erratum for: Approximating and Testing k -Histogram Distributions in Sub-linear Time,erratum for approximating and testing k histogram distributions in sub linear time,2015,4694B652
+77B4BA74,A query language for list-based complex objects,a query language for list based complex objects,1994,4694B652
+7734E093,GYO reductions, canonical connections, tree and cyclic schemas and tree projections,gyo reductions canonical connections tree and cyclic schemas and tree projections,1983,4694B652
+76EA3A3E,An incremental algorithm for computing ranked full disjunctions,an incremental algorithm for computing ranked full disjunctions,2005,4694B652
+7CD4CA07,Fuzzy queries in multimedia database systems,fuzzy queries in multimedia database systems,1998,4694B652
+77D628B1,Practical privacy: the SuLQ framework,practical privacy the sulq framework,2005,4694B652
+77B21BCC,The impact of the constant complement approach towards view updating,the impact of the constant complement approach towards view updating,2003,4694B652
+764C5B0E,Unfounded sets and well-founded semantics for general logic programs,unfounded sets and well founded semantics for general logic programs,1988,4694B652
+7C072BC4,Smooth Tradeoffs between Insert and Query Complexity in Nearest Neighbor Search,smooth tradeoffs between insert and query complexity in nearest neighbor search,2015,4694B652
+76970F76,Order preserving linear hashing using dynamic key statistics,order preserving linear hashing using dynamic key statistics,1985,4694B652
+7AAEEBEE,E-services: a look behind the curtain,e services a look behind the curtain,2003,4694B652
+7AFCE058,Latent semantic indexing: a probabilistic analysis,latent semantic indexing a probabilistic analysis,1998,4694B652
+7A4F87D3,On the expressive power of database queries with intermediate types,on the expressive power of database queries with intermediate types,1988,4694B652
+075F5ED7,Tutorial: Text Dominated Databases, Theory Practice and Experience,tutorial text dominated databases theory practice and experience,1994,4694B652
+7F4E6D8D,Certain answers for XML queries,certain answers for xml queries,2010,4694B652
+814C856E,Indexing uncertain data,indexing uncertain data,2009,4694B652
+10D4964E,On the Complexity of Database Queries,on the complexity of database queries,1997,4694B652
+7583F7A6,Rewriting queries using views in description logics,rewriting queries using views in description logics,1997,4694B652
+7A567C9B,Atomicity with incompatible presumptions,atomicity with incompatible presumptions,1999,4694B652
+807F1BB7,Answering queries using limited external query processors (extended abstract),answering queries using limited external query processors extended abstract,1996,4694B652
+794280B1,Query size estimation by adaptive sampling (extended abstract),query size estimation by adaptive sampling extended abstract,1990,4694B652
+7CF42742,Queries determined by views: pack your views,queries determined by views pack your views,2007,4694B652
+024A4D28,Constraint programming and database lan-guages,constraint programming and database lan guages,1995,4694B652
+804EA55B,Approximate counts and quantiles over sliding windows,approximate counts and quantiles over sliding windows,2004,4694B652
+112447CB,Query Size Estimation by Adaptive Sampling,query size estimation by adaptive sampling,1990,4694B652
+75118BC0,An expressive language for linear spatial database queries,an expressive language for linear spatial database queries,1998,4694B652
+794EB3E5,On negation in HiLog (extended abstract),on negation in hilog extended abstract,1991,4694B652
+7AF1111C,On the analysis of indexing schemes,on the analysis of indexing schemes,1997,4694B652
+78375DF3,The complexity of reusing and modifying rulebases,the complexity of reusing and modifying rulebases,1992,4694B652
+75B35AA6,Maximally joining probabilistic data,maximally joining probabilistic data,2007,4694B652
+7C8EB4C1,Indexability of 2D range search revisited: constant redundancy and weak indivisibility,indexability of 2d range search revisited constant redundancy and weak indivisibility,2012,4694B652
+7C9B9CDC,The reliability of queries (extended abstract),the reliability of queries extended abstract,1995,4694B652
+7C0EDD61,OLAP and statistical databases: similarities and differences,olap and statistical databases similarities and differences,1997,4694B652
+757197F7,Type systems for querying class hierarchies with non-strict inheritance,type systems for querying class hierarchies with non strict inheritance,1989,4694B652
+796D8C95,Semantic complexity of classes of relational queries and query independent data partitioning,semantic complexity of classes of relational queries and query independent data partitioning,1991,4694B652
+754D4948,Equivalence of queries combining set and bag-set semantics,equivalence of queries combining set and bag set semantics,2006,4694B652
+139898BE,Proceedings of the Twenty-Eigth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2009, June 19 - July 1, 2009, Providence, Rhode Island, USA,proceedings of the twenty eigth acm sigmod sigact sigart symposium on principles of database systems pods 2009 june 19 july 1 2009 providence rhode island usa,2009,4694B652
+7F626E8A,Object-oriented database systems,object oriented database systems,1988,4694B652
+775F84B6,The precedence-assignment model for distributed databases concurrency control algorithms,the precedence assignment model for distributed databases concurrency control algorithms,1987,4694B652
+79E98954,Pan-private algorithms via statistics on sketches,pan private algorithms via statistics on sketches,2011,4694B652
+76C5E923,Semantic query optimization in Datalog programs (extended abstract),semantic query optimization in datalog programs extended abstract,1995,4694B652
+7A4F3151,On the first-order expressibility of recursive queries,on the first order expressibility of recursive queries,1989,4694B652
+7A720597,Recovering Exchanged Data,recovering exchanged data,2015,4694B652
+80C0B6E4,Relationship privacy: output perturbation for queries with joins,relationship privacy output perturbation for queries with joins,2009,4694B652
+0B9C7C33,Subtyping in OODB's,subtyping in oodb s,1991,4694B652
+802BE709,A characterization of first-order topological properties of planar spatial data,a characterization of first order topological properties of planar spatial data,2004,4694B652
+780E2CEC,Rewriting of rules containing set terms in a logic data language LDL,rewriting of rules containing set terms in a logic data language ldl,1988,4694B652
+75D0386E,Rewriting of regular expressions and regular path queries,rewriting of regular expressions and regular path queries,1999,4694B652
+78FF15E9,Improving database schemes by adding attributes,improving database schemes by adding attributes,1983,4694B652
+7B6976D6,Ontology-based data access: a study through disjunctive datalog, CSP, and MMSNP,ontology based data access a study through disjunctive datalog csp and mmsnp,2013,4694B652
+752982B3,FIFO indexes for decomposable problems,fifo indexes for decomposable problems,2011,4694B652
+7C71D533,A transportable natural language database update system,a transportable natural language database update system,1984,4694B652
+04C9E360,Approximate quantiles and frequency counts over sliding windows,approximate quantiles and frequency counts over sliding windows,2004,4694B652
+7616ABBB,Unifying functional and multivalued dependencies for relational database design,unifying functional and multivalued dependencies for relational database design,1985,4694B652
+75198004,Expressive power and data complexity of nonrecursive query languages for lists and trees (extended abstract),expressive power and data complexity of nonrecursive query languages for lists and trees extended abstract,2000,4694B652
+787A57F3,A cost model for similarity queries in metric spaces,a cost model for similarity queries in metric spaces,1998,4694B652
+765B7EAE,Polynomial time fragments of XPath with variables,polynomial time fragments of xpath with variables,2007,4694B652
+79063BEA,A knowledge-theoretic analysis of atomic commitment protocols,a knowledge theoretic analysis of atomic commitment protocols,1987,4694B652
+7C4FDD2D,The complexity of query reliability,the complexity of query reliability,1998,4694B652
+7BB18B04,On the complexity of join predicates,on the complexity of join predicates,2001,4694B652
+7B5954BC,A recovery algorithm for a distributed database system,a recovery algorithm for a distributed database system,1983,4694B652
+79D7119B,Relational database behavior: utilizing relational discrete event systems and models,relational database behavior utilizing relational discrete event systems and models,1989,4694B652
+795F8BD2,Model-data Ecosystems: challenges, tools, and trends,model data ecosystems challenges tools and trends,2014,4694B652
+08964E50,G a theoretical foundatwn of multz-level concurrency control,g a theoretical foundatwn of multz level concurrency control,1986,4694B652
+7D6C2351,Reasoning about strings in databases,reasoning about strings in databases,1994,4694B652
+5B595C70,Using Witness Generators to Support Bi-directional Update Between Object-Based Databases,using witness generators to support bi directional update between object based databases,1995,4694B652
+79F72D53,Estimating statistical aggregates on probabilistic data streams,estimating statistical aggregates on probabilistic data streams,2007,4694B652
+78C2EA00,Testing complex temporal relationships involving multiple granularities and its application to data mining (extended abstract),testing complex temporal relationships involving multiple granularities and its application to data mining extended abstract,1996,4694B652
+7CD581AA,Balanced multidimensional extendible hash tree,balanced multidimensional extendible hash tree,1985,4694B652
+7C6CC4C0,Data-valued partitioning and virtual messages (extended abstract),data valued partitioning and virtual messages extended abstract,1990,4694B652
+7C382B31,Detecting redundant tuples during query evaluation,detecting redundant tuples during query evaluation,1991,4694B652
+7BA8F38C,Views and queries: determinacy and rewriting,views and queries determinacy and rewriting,2005,4694B652
+7B8F8BAD,Satisfiability and relevance for queries over active documents,satisfiability and relevance for queries over active documents,2009,4694B652
+79748531,Transaction synchronisation in object bases,transaction synchronisation in object bases,1988,4694B652
+79D3EE8C,On the feasibility of checking temporal integrity constraints,on the feasibility of checking temporal integrity constraints,1993,4694B652
+7BCD7BBE,Invited talk: modular architectures for distributed and databases systems,invited talk modular architectures for distributed and databases systems,1989,4694B652
+7605B83B,Bonded arity Datalog (≠) queries on graphs,bonded arity datalog queries on graphs,1994,4694B652
+067378EA,On Finite FD-Acyclicity,on finite fd acyclicity,1986,4694B652
+80A36F5D,Independent range sampling,independent range sampling,2014,4694B652
+75F7C65F,A sound and complete query evaluation algorithm for relational databases with disjunctive information,a sound and complete query evaluation algorithm for relational databases with disjunctive information,1989,4694B652
+764E076F,Uncoupling updating and rebalancing in chromatic binary search trees,uncoupling updating and rebalancing in chromatic binary search trees,1991,4694B652
+7A0589BC,An efficient rigorous approach for identifying statistically significant frequent itemsets,an efficient rigorous approach for identifying statistically significant frequent itemsets,2009,4694B652
+75C170CC,Algorithms for data migration with cloning,algorithms for data migration with cloning,2003,4694B652
+7B656DA9,Concurrency control in graph protocols by using edge locks,concurrency control in graph protocols by using edge locks,1984,4694B652
+81E1E82D,Constraint Query Languages,constraint query languages,1990,4694B652
+774BB7C8,On searching compressed string collections cache-obliviously,on searching compressed string collections cache obliviously,2008,4694B652
+7DF51824,Foundations of semantic web databases,foundations of semantic web databases,2004,4694B652
+79F592FE,Concurrency control of nested transactions accessing B-trees,concurrency control of nested transactions accessing b trees,1989,4694B652
+77F91500,Maintenance of stratified databases viewed as a belief revision system,maintenance of stratified databases viewed as a belief revision system,1987,4694B652
+75FB530A,On the decidability of semi-linearity for semi-algebraic sets and its implications for spatial databases (extended abstract),on the decidability of semi linearity for semi algebraic sets and its implications for spatial databases extended abstract,1997,4694B652
+7D4BFF2E,Asking the right questions: model-driven optimization using probes,asking the right questions model driven optimization using probes,2006,4694B652
+7DD14BF3,Revealing information while preserving privacy,revealing information while preserving privacy,2003,4694B652
+5AE45313,The Complexity of Query Reliability,the complexity of query reliability,1998,4694B652
+76D936BC,Path caching (extended abstract): a technique for optimal external searching,path caching extended abstract a technique for optimal external searching,1994,4694B652
+79218CE5,Optimal termination protocols for network partitioning,optimal termination protocols for network partitioning,1983,4694B652
+5F6F8D08,Generalizing Data to Provide Anonymity when Disclosing Information,generalizing data to provide anonymity when disclosing information,1998,4694B652
+7BB013BD,External memory algorithms,external memory algorithms,1998,4694B652
+767DF336,Constraint programming and database languages: a tutorial,constraint programming and database languages a tutorial,1995,4694B652
+7BEBE76C,On the complexity of database queries (extended abstract),on the complexity of database queries extended abstract,1997,4694B652
+7767FEC9,Monadic datalog and the expressive power of languages for web information extraction,monadic datalog and the expressive power of languages for web information extraction,2002,4694B652
+78D024F3,On Datalog vs. polynomial time (extended abstract),on datalog vs polynomial time extended abstract,1991,4694B652
+7863B7F2,On the cyclic to acyclic scheme transformation and solving cyclic queries,on the cyclic to acyclic scheme transformation and solving cyclic queries,1984,4694B652
+75A64F79,On computing functions with uncertainty,on computing functions with uncertainty,2001,4694B652
+787D25AD,Subtyping in OODB's (extended abstract),subtyping in oodb s extended abstract,1991,4694B652
+7691D1D9,The logic of RDF and SPARQL: a tutorial,the logic of rdf and sparql a tutorial,2006,4694B652
+7BA932A8,Processing queries by linear constraints,processing queries by linear constraints,1997,4694B652
+0993213F,Interaction between type and path con-straints,interaction between type and path con straints,1999,4694B652
+7BDBFF6D,A Web Odyssey: from Codd to XML,a web odyssey from codd to xml,2001,4694B652
+7B3B0DED,Optimal sampling from sliding windows,optimal sampling from sliding windows,2009,4694B652
+7C2CE6FB,Cut and paste,cut and paste,1997,4694B652
+7CD5EB20,Answering recursive queries using views,answering recursive queries using views,1997,4694B652
+7AA089C4,Distributed management in local area networks,distributed management in local area networks,1985,4694B652
+80CA042E,Hierarchical database decomposition: a technique for database concurrency control,hierarchical database decomposition a technique for database concurrency control,1983,4694B652
+0B1C2634,Path constraints on structured and semistructured data,path constraints on structured and semistructured data,1998,4694B652
+7705EC98,Semigroup techniques in recursive query optimization,semigroup techniques in recursive query optimization,1990,4694B652
+79E7A4A8,Multi-valued dependencies in the presence of lists,multi valued dependencies in the presence of lists,2004,4694B652
+77131520,Proceedings of the twenty-fifth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty fifth acm sigmod sigact sigart symposium on principles of database systems,2006,4694B652
+7D0678E2,I/O-efficient planar range skyline and attrition priority queues,i o efficient planar range skyline and attrition priority queues,2013,4694B652
+7A5B565B,On the complexity of optimal K-anonymity,on the complexity of optimal k anonymity,2004,4694B652
+7C9E0E59,A discipline for robustness or storage reduction in binary search trees,a discipline for robustness or storage reduction in binary search trees,1983,4694B652
+7C08052B,Type inference in the polymorphic relational algebra,type inference in the polymorphic relational algebra,1999,4694B652
+7AF0513A,Verification of relational data-centric dynamic systems with external services,verification of relational data centric dynamic systems with external services,2013,4694B652
+79BA4D91,Nested dependencies: structure and reasoning,nested dependencies structure and reasoning,2014,4694B652
+7EF0725E,A rule-based language for web data management,a rule based language for web data management,2011,4694B652
+782F0A3F,Index-based multidimensional array queries: safety and equivalence,index based multidimensional array queries safety and equivalence,2007,4694B652
+792EB1B4,The complexity of reliable concurrency control,the complexity of reliable concurrency control,1985,4694B652
+751E5AF9,Concurrency and linear hashing,concurrency and linear hashing,1985,4694B652
+771A8D85,Function Symbols in Tuple-Generating Dependencies: Expressive Power and Computability,function symbols in tuple generating dependencies expressive power and computability,2015,4694B652
+090AF1F1,Decidability and undecidability results foz boundedness of linear recursive programs,decidability and undecidability results foz boundedness of linear recursive programs,1988,4694B652
+7CDB7173,Conjunctive query equivalence of keyed relational schemas (extended abstract),conjunctive query equivalence of keyed relational schemas extended abstract,1997,4694B652
+7BD4B4E9,Capturing missing tuples and missing values,capturing missing tuples and missing values,2010,4694B652
+75D4E3C8,PODS Alberto O. Mendelzon Test-of-Time Award 2008,pods alberto o mendelzon test of time award 2008,2008,4694B652
+754CAB4D,Well-founded semantics for extended datalog and ontological reasoning,well founded semantics for extended datalog and ontological reasoning,2013,4694B652
+760BDF5B,Cache-oblivious hashing,cache oblivious hashing,2010,4694B652
+07862C00,Answering queries using recursive views,answering queries using recursive views,1997,4694B652
+7E6C8F6C,On the complexity of managing probabilistic XML data,on the complexity of managing probabilistic xml data,2007,4694B652
+7A3118ED,Unstructured data bases or very efficient text searching,unstructured data bases or very efficient text searching,1983,4694B652
+7E7D67F7,The revenge of the JD,the revenge of the jd,1983,4694B652
+7B68A3B0,Complexity aspects of various semantics for disjunctive databases,complexity aspects of various semantics for disjunctive databases,1993,4694B652
+7943BAC4,Nested transactions and read-write locking,nested transactions and read write locking,1987,4694B652
+7A29AA07,Weak multivalued dependencies,weak multivalued dependencies,1984,4694B652
+7EE18C2D,The expressivity of XPath with transitive closure,the expressivity of xpath with transitive closure,2006,4694B652
+785B8157,Is distributed locking harder?,is distributed locking harder,1982,4694B652
+77555C9F,Optimizing existential datalog queries,optimizing existential datalog queries,1988,4694B652
+75773DEA,Allocating isolation levels to transactions,allocating isolation levels to transactions,2005,4694B652
+7994A89E,A lower bound theorem for indexing schemes and its application to multidimensional range queries,a lower bound theorem for indexing schemes and its application to multidimensional range queries,1998,4694B652
+7B223B5C,Multiple join size estimation by virtual domains (extended abstract),multiple join size estimation by virtual domains extended abstract,1993,4694B652
+78A06DE0,On the power of rule-based languages with sets,on the power of rule based languages with sets,1991,4694B652
+7597E904,Trees, automata and XML,trees automata and xml,2004,4694B652
+7DBCDC1E,Get the most out of your sample: optimal unbiased estimators using partial information,get the most out of your sample optimal unbiased estimators using partial information,2011,4694B652
+777D45A1,Chasing constrained tuple-generating dependencies,chasing constrained tuple generating dependencies,1996,4694B652
+760AC772,Histograms revisited: when are histograms the best approximation method for aggregates over joins?,histograms revisited when are histograms the best approximation method for aggregates over joins,2005,4694B652
+7D9CB036,On the equivalence of logical databases,on the equivalence of logical databases,1984,4694B652
+76E43D63,Fractals for secondary key retrieval,fractals for secondary key retrieval,1989,4694B652
+7CA1D8A0,Overbound and right-linear queries,overbound and right linear queries,1991,4694B652
+77A936EA,The expressiveness of a family of finite set languages,the expressiveness of a family of finite set languages,1991,4694B652
+76A45E10,DTD inference for views of XML data,dtd inference for views of xml data,2000,4694B652
+76487823,The complexity of text-preserving XML transformations,the complexity of text preserving xml transformations,2011,4694B652
+7C12BBA5,Querying websites using compact skeletons,querying websites using compact skeletons,2001,4694B652
+7586F39A,An information-theoretic approach to normal forms for relational and XML data,an information theoretic approach to normal forms for relational and xml data,2003,4694B652
+7CEDBE95,Shape sensitive geometric monitoring,shape sensitive geometric monitoring,2008,4694B652
+757516F9,Suppressing marginal cells to protect sensitive information in a two-dimensional statistical table (extended abstract),suppressing marginal cells to protect sensitive information in a two dimensional statistical table extended abstract,1991,4694B652
+7F302C30,Evaluating rank joins with optimal cost,evaluating rank joins with optimal cost,2008,4694B652
+77716AD6,The fine classification of conjunctive queries and parameterized logarithmic space complexity,the fine classification of conjunctive queries and parameterized logarithmic space complexity,2013,4694B652
+77CDC550,Two-dimensional substring indexing,two dimensional substring indexing,2001,4694B652
+7CA0D3A8,All-distances sketches, revisited: HIP estimators for massive graphs analysis,all distances sketches revisited hip estimators for massive graphs analysis,2014,4694B652
+7BBF2C6A,Constraint checking with partial information,constraint checking with partial information,1994,4694B652
+76E257D1,Secondary indexing in one dimension: beyond b-trees and bitmap indexes,secondary indexing in one dimension beyond b trees and bitmap indexes,2009,4694B652
+7DE7D81D,Sketching via hashing: from heavy hitters to compressed sensing to sparse fourier transform,sketching via hashing from heavy hitters to compressed sensing to sparse fourier transform,2013,4694B652
+7DD9BE0E,On the complexity of division and set joins in the relational algebra,on the complexity of division and set joins in the relational algebra,2005,4694B652
+76CB6B9D,Expressive languages for querying the semantic web,expressive languages for querying the semantic web,2014,4694B652
+7B6D0480,Concurrency on high-traffic data elements,concurrency on high traffic data elements,1982,4694B652
+79C17576,Are window queries representative for arbitrary range queries?,are window queries representative for arbitrary range queries,1996,4694B652
+7A5D42C0,Extended path expressions of XML,extended path expressions of xml,2001,4694B652
+036F4973,S a calculus for gomplez objects,s a calculus for gomplez objects,1986,4694B652
+7680ADBC,Statistical estimators for relational algebra expressions,statistical estimators for relational algebra expressions,1988,4694B652
+78BC8AAF,Vertex and Hyperedge Connectivity in Dynamic Graph Streams,vertex and hyperedge connectivity in dynamic graph streams,2015,4694B652
+789BBDA9,On scale independence for querying big data,on scale independence for querying big data,2014,4694B652
+80FE145E,Time-decaying aggregates in out-of-order streams,time decaying aggregates in out of order streams,2008,4694B652
+80205166,Mixed-approach algorithms for transitive closure (extended abstract),mixed approach algorithms for transitive closure extended abstract,1991,4694B652
+7AA74013,Similarity-based queries,similarity based queries,1995,4694B652
+7A1B6B6D,On relational algebra with marked nulls preliminary version,on relational algebra with marked nulls preliminary version,1984,4694B652
+754D7380,FTW: fast similarity search under the time warping distance,ftw fast similarity search under the time warping distance,2005,4694B652
+79F72E4B,Expressiveness of guarded existential rule languages,expressiveness of guarded existential rule languages,2014,4694B652
+78D0AF87,A framework for the performance analysis of concurrent B-tree algorithms,a framework for the performance analysis of concurrent b tree algorithms,1990,4694B652
+7FFAF520,A quest for beauty and wealth (or, business processes for database researchers),a quest for beauty and wealth or business processes for database researchers,2011,4694B652
+7FE1944F,On provenance minimization,on provenance minimization,2011,4694B652
+7EBB9F28,Reverse data exchange: coping with nulls,reverse data exchange coping with nulls,2009,4694B652
+0C1D2CD1,Towards Practical Constraint Databases,towards practical constraint databases,1996,4694B652
+7FA5501F,Maintaining bernoulli samples over evolving multisets,maintaining bernoulli samples over evolving multisets,2007,4694B652
+79678D1F,On the decidability of containment of recursive datalog queries - preliminary report,on the decidability of containment of recursive datalog queries preliminary report,2004,4694B652
+0054DD2D,Deciding Containment for Queries with Complex Objects and Aggregations,deciding containment for queries with complex objects and aggregations,1997,4694B652
+756FDAEF,Safe locking policies for dynamic databases,safe locking policies for dynamic databases,1995,4694B652
+7AD67C38,Type inference for queries on semistructured data,type inference for queries on semistructured data,1999,4694B652
+7A2E706E,Safety of recursive Horn clauses with infinite relations,safety of recursive horn clauses with infinite relations,1987,4694B652
+78B613F7,Decidability and undecidability results for the termination problem of active database rules,decidability and undecidability results for the termination problem of active database rules,1998,4694B652
+78336FF4,Positive active XML,positive active xml,2004,4694B652
+79D9284C,Reliable scheduling of database transactions for unreliable systems,reliable scheduling of database transactions for unreliable systems,1984,4694B652
+7CC22954,Generalizing data to provide anonymity when disclosing information (abstract),generalizing data to provide anonymity when disclosing information abstract,1998,4694B652
+7A1A427E,The parallel complexity of simple chain queries,the parallel complexity of simple chain queries,1987,4694B652
+7D97E15D,Finding and approximating top-k answers in keyword proximity search,finding and approximating top k answers in keyword proximity search,2006,4694B652
+7E4B3622,k -means projective clustering,k means projective clustering,2004,4694B652
+7FDB2199,Minimum and maximum predicates in logic programming,minimum and maximum predicates in logic programming,1991,4694B652
+7E879B69,Foundations of schema mapping management,foundations of schema mapping management,2010,4694B652
+76B60531,The complexity of ordering subgoals,the complexity of ordering subgoals,1988,4694B652
+77A4A488,Computational complexity of itemset frequency satisfiability,computational complexity of itemset frequency satisfiability,2004,4694B652
+754AA93F,Efficient Evaluation and Approximation of Well-designed Pattern Trees,efficient evaluation and approximation of well designed pattern trees,2015,4694B652
+0DD11BE2,Proceedings of the Twenty-Seventh ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2008, June 9-11, 2008, Vancouver, BC, Canada,proceedings of the twenty seventh acm sigmod sigact sigart symposium on principles of database systems pods 2008 june 9 11 2008 vancouver bc canada,2008,4694B652
+79D19662,On the expressive power of logic programming languages with sets,on the expressive power of logic programming languages with sets,1988,4694B652
+77DEF84A,Normal forms and conservative properties for query languages over collection types,normal forms and conservative properties for query languages over collection types,1993,4694B652
+77FBFEEC,Privacy via pseudorandom sketches,privacy via pseudorandom sketches,2006,4694B652
+76440DBA,Negation as failure for first-order queries,negation as failure for first order queries,1985,4694B652
+5C03C7A4,On Herbrand Semantics and Conflict Serializability of Read-Write Transactions,on herbrand semantics and conflict serializability of read write transactions,2000,4694B652
+7B56EE6F,Counting methods for cyclic relations,counting methods for cyclic relations,1988,4694B652
+0BE6D6FE,Optimal Histograms for Hierarchical Range Queries,optimal histograms for hierarchical range queries,2000,4694B652
+7C6A1B6F,On the containment and equivalence of database queries with linear constraints (extended abstract),on the containment and equivalence of database queries with linear constraints extended abstract,1997,4694B652
+815306B5,Complexity and composition of synthesized web services,complexity and composition of synthesized web services,2008,4694B652
+802C8631,On the Representation of Infinite Temporal Data and Queries,on the representation of infinite temporal data and queries,1991,4694B652
+7DCB1E9C,Decidability and expressiveness aspects of logic queries,decidability and expressiveness aspects of logic queries,1987,4694B652
+76B4AF30,On the integrity of databases with incomplete information,on the integrity of databases with incomplete information,1985,4694B652
+7ACFE3C7,On the complexity of nonrecursive XQuery and functional query languages on complex values,on the complexity of nonrecursive xquery and functional query languages on complex values,2005,4694B652
+7B56809D,Dynamic tree isomorphism via first-order updates to a relational database,dynamic tree isomorphism via first order updates to a relational database,1998,4694B652
+765FB385,Any algorithm in the complex object algebra with powerset needs exponential space to compute transitive closure,any algorithm in the complex object algebra with powerset needs exponential space to compute transitive closure,1994,4694B652
+7E959AE1,Privacy, accuracy, and consistency too: a holistic solution to contingency table release,privacy accuracy and consistency too a holistic solution to contingency table release,2007,4694B652
+78CDAEBF,Conjunctive-query containment and constraint satisfaction,conjunctive query containment and constraint satisfaction,1998,4694B652
+7AE33E03,Inverting schema mappings,inverting schema mappings,2006,4694B652
+7B92F012,On the expressive power of datalog: tools and a case study,on the expressive power of datalog tools and a case study,1990,4694B652
+78636DA7,Variable independence and aggregation closure,variable independence and aggregation closure,1996,4694B652
+784A698A,Completeness results for recursive data bases,completeness results for recursive data bases,1993,4694B652
+7A141CB2,Tutorial: languages for collection types,tutorial languages for collection types,1994,4694B652
+7AA739C0,Can constant-time-maintainability be more practical?,can constant time maintainability be more practical,1989,4694B652
+7F8BEA4A,Magic sets and other strange ways to implement logic programs (extended abstract),magic sets and other strange ways to implement logic programs extended abstract,1985,4694B652
+7A0C024B,Static analysis of active XML systems,static analysis of active xml systems,2008,4694B652
+79BF2681,Answering queries using templates with binding patterns (extended abstract),answering queries using templates with binding patterns extended abstract,1995,4694B652
+782E4F3B,Practical algorithms for finding prime attributes and testing normal forms,practical algorithms for finding prime attributes and testing normal forms,1989,4694B652
+782878F9,Performance guarantees for B-trees with different-sized atomic keys,performance guarantees for b trees with different sized atomic keys,2010,4694B652
+75EA75FA,On XPath with transitive axes and data tests,on xpath with transitive axes and data tests,2013,4694B652
+7C4F847A,Information theoretic aspects of data bases,information theoretic aspects of data bases,1983,4694B652
+8097DB10,The implication and finite implication problems for typed template dependencies,the implication and finite implication problems for typed template dependencies,1982,4694B652
+7C2DF494,Minimizing time-space cost for database version control,minimizing time space cost for database version control,1988,4694B652
+7F44209F,Provenance views for module privacy,provenance views for module privacy,2011,4694B652
+78D0E427,Using witness generators to support bi-directional update between object-based databases (extended abstract),using witness generators to support bi directional update between object based databases extended abstract,1995,4694B652
+757C6607,A mean value performance model for locking in databases: the waiting case,a mean value performance model for locking in databases the waiting case,1984,4694B652
+7D4D081B,Greedy by choice,greedy by choice,1992,4694B652
+80432F32,XPath, transitive closure logic, and nested tree walking automata,xpath transitive closure logic and nested tree walking automata,2008,4694B652
+7C0BFEC7,XPath evaluation in linear time with polynomial combined complexity,xpath evaluation in linear time with polynomial combined complexity,2009,4694B652
+755DDC35,An algorithm for ordering subgoals in NAIL?,an algorithm for ordering subgoals in nail,1988,4694B652
+5CCA8B45,Avoiding Cartesian Products in Programs for Multiple Joins,avoiding cartesian products in programs for multiple joins,1992,4694B652
+757D35D5,An alternating fixpoint tailored to magic programs,an alternating fixpoint tailored to magic programs,1993,4694B652
+77F4CC61,Regular path queries with constraints,regular path queries with constraints,1997,4694B652
+7CF9015D,Buffering in query evaluation over XML streams,buffering in query evaluation over xml streams,2005,4694B652
+7D56CCD9,Avoiding Cartesian products in programs for multiple joins (extended abstract),avoiding cartesian products in programs for multiple joins extended abstract,1992,4694B652
+7E9E3BF1,On the semantics of updates in databases,on the semantics of updates in databases,1983,4694B652
+7625088B,Elimination of intersection amomalies from database schemes,elimination of intersection amomalies from database schemes,1983,4694B652
+77490FD2,Towards tractable algebras for bags,towards tractable algebras for bags,1993,4694B652
+5867CEC6,Testing Complex Temporal Relationships Involving Multiple Granularities and Its Application to Data Mining,testing complex temporal relationships involving multiple granularities and its application to data mining,1996,4694B652
+5C0227AF,Space-Bounded FOIES,space bounded foies,1995,4694B652
+7D6A7206,A cost model for nearest neighbor search in high-dimensional data space,a cost model for nearest neighbor search in high dimensional data space,1997,4694B652
+5E5842B4,Functional Database Query Languages as Typed Lambda Calculi of Fixed Order,functional database query languages as typed lambda calculi of fixed order,1995,4694B652
+07BB3C27,Memory requirements of XPath over XML streams,memory requirements of xpath over xml streams,2004,4694B652
+7B8D1428,Horn clauses and the fixpoint query hierarchy,horn clauses and the fixpoint query hierarchy,1982,4694B652
+7854FEC0,A decomposition-based simulated annealing technique for data clustering,a decomposition based simulated annealing technique for data clustering,1994,4694B652
+7AFB609C,A translation language complete for database update and specification,a translation language complete for database update and specification,1987,4694B652
+7E36BA32,The recovery of a schema mapping: bringing exchanged data back,the recovery of a schema mapping bringing exchanged data back,2008,4694B652
+7F20839D,Characterizing memory requirements for queries over continuous data streams,characterizing memory requirements for queries over continuous data streams,2002,4694B652
+76E52B4D,Theory of serializablity for a parallel model of transactions,theory of serializablity for a parallel model of transactions,1982,4694B652
+782ABC28,Query evaluation with soft-key constraints,query evaluation with soft key constraints,2008,4694B652
+77FD6B12,Generalized schema-mappings: from termination to tractability,generalized schema mappings from termination to tractability,2009,4694B652
+7708A060,Context-based synchronization: an approach beyond semantics for concurrency control,context based synchronization an approach beyond semantics for concurrency control,1993,4694B652
+7EF44E44,Open problems in electronic commerce,open problems in electronic commerce,1999,4694B652
+7B83D0C0,A framework for understanding distributed (deadlock detection) algorithms,a framework for understanding distributed deadlock detection algorithms,1983,4694B652
+7A9D49C8,Test data for relational queries,test data for relational queries,1985,4694B652
+7CB41673,Interpolation-based index maintenance,interpolation based index maintenance,1983,4694B652
+79662D22,The interpolation-based grid file,the interpolation based grid file,1985,4694B652
+7CAB758E,On the complexity of package recommendation problems,on the complexity of package recommendation problems,2012,4694B652
+77E38692,Querying weak instances,querying weak instances,1984,4694B652
+784EB200,Concurrency control mechanisms and the serializability of concurrent tree algorithms,concurrency control mechanisms and the serializability of concurrent tree algorithms,1984,4694B652
+7C3BEE73,Towards a sound view integration methodology,towards a sound view integration methodology,1983,4694B652
+79966749,Inference of inequality constraints in logic programs (extended abstracts),inference of inequality constraints in logic programs extended abstracts,1991,4694B652
+7AB77784,Finite queries do not have effective syntax,finite queries do not have effective syntax,1995,4694B652
+7C5469E8,Data base design principles for striping and placement of delay-sensitive data on disks,data base design principles for striping and placement of delay sensitive data on disks,1998,4694B652
+7627F1B3,Availability in partitioned replicated databases,availability in partitioned replicated databases,1985,4694B652
+7F6047BF,Transforming cyclic schemas into trees,transforming cyclic schemas into trees,1982,4694B652
+7BA01862,Collaborative data-driven workflows: think global, act local,collaborative data driven workflows think global act local,2013,4694B652
+0B09A223,Logical fondation of P2P data integration,logical fondation of p2p data integration,2004,4694B652
+7C508E4B,The ACM PODS Alberto O. Mendelzon test-of-time-award 2009,the acm pods alberto o mendelzon test of time award 2009,2009,4694B652
+7747A3D5,Optimal sampling from distributed streams,optimal sampling from distributed streams,2010,4694B652
+0DA6974C,Proceedings of the Twenty-Sixth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 11-13, 2007, Beijing, China,proceedings of the twenty sixth acm sigact sigmod sigart symposium on principles of database systems june 11 13 2007 beijing china,2007,4694B652
+7A6775EE,Constraints among argument sizes in logic programs (extended abstract),constraints among argument sizes in logic programs extended abstract,1994,4694B652
+7A42B7D3,On the complexity of the containment problem for conjunctive queries with built-in predicates,on the complexity of the containment problem for conjunctive queries with built in predicates,1998,4694B652
+054793F7,On Relational Algebra with Marked Nulls,on relational algebra with marked nulls,1984,4694B652
+762254A3,Logic programming as constructivism: a formalization and its application to databases,logic programming as constructivism a formalization and its application to databases,1989,4694B652
+0B326174,Answering Queries Using Views,answering queries using views,1995,4694B652
+7C66F76F,Workflow, transactions and datalog,workflow transactions and datalog,1999,4694B652
+7A55A342,Numerical document queries,numerical document queries,2003,4694B652
+7AA578DC,Tutorial database mining,tutorial database mining,1994,4694B652
+761C3A46,A class of data structures for associative searching,a class of data structures for associative searching,1984,4694B652
+798DF8BA,Efficient gossip-based aggregate computation,efficient gossip based aggregate computation,2006,4694B652
+78EBF71B,Using non-linear dynamical systems for web searching and ranking,using non linear dynamical systems for web searching and ranking,2004,4694B652
+103F93B6,Applying an Update Method to a Set of Receivers,applying an update method to a set of receivers,1995,4694B652
+7D5B2804,An optimal algorithm for the distinct elements problem,an optimal algorithm for the distinct elements problem,2010,4694B652
+75CD5305,Logical foundations of peer-to-peer data integration,logical foundations of peer to peer data integration,2004,4694B652
+79B3D909,Size and treewidth bounds for conjunctive queries,size and treewidth bounds for conjunctive queries,2009,4694B652
+04A327AA,Compiling Query Constraints,compiling query constraints,1994,4694B652
+79B389F1,On designing database schemes bounded or constant-time maintainable with respect to functional dependencies,on designing database schemes bounded or constant time maintainable with respect to functional dependencies,1987,4694B652
+7A732B81,Reasoning about nested functional dependencies,reasoning about nested functional dependencies,1999,4694B652
+129C2235,Finitely Representable Databases,finitely representable databases,1994,4694B652
+7F312266,A dynamic I/O-efficient structure for one-dimensional top-k range reporting,a dynamic i o efficient structure for one dimensional top k range reporting,2014,4694B652
+7BB25273,Scheduling problems in parallel query optimization,scheduling problems in parallel query optimization,1995,4694B652
+7B146A19,Transaction commitment at minimal communication cost,transaction commitment at minimal communication cost,1987,4694B652
+7B2D6514,Constraints and redundancy in datalog,constraints and redundancy in datalog,1992,4694B652
+84BB622B,SIGMOD 10-year Test-of-Time Award: “Integration of heterogeneous databases without common domains using queries based on textual simularity”,sigmod 10 year test of time award integration of heterogeneous databases without common domains using queries based on textual simularity,2008,4694B652
+75AA8D42,On the complexity and axiomatizability of consistent database states,on the complexity and axiomatizability of consistent database states,1984,4694B652
+7CB1FE57,The equivalence of solving queries and producing tree projections (extended abstract),the equivalence of solving queries and producing tree projections extended abstract,1985,4694B652
+75D81182,Updating databases in the weak instance model,updating databases in the weak instance model,1989,4694B652
+7937126E,Inverting relational expressions: a uniform and natural technique for various database problems,inverting relational expressions a uniform and natural technique for various database problems,1983,4694B652
+7916569B,Soft stratification for magic set based query evaluation in deductive databases,soft stratification for magic set based query evaluation in deductive databases,2003,4694B652
+777C8213,Safety and translation of calculus queries with scalar functions,safety and translation of calculus queries with scalar functions,1993,4694B652
+752CD527,Clustered multiattribute hash files,clustered multiattribute hash files,1989,4694B652
+77DFAAAF,Performance analysis of file organizations that use multi-bucket data leaves with partial expansions (extended abstract),performance analysis of file organizations that use multi bucket data leaves with partial expansions extended abstract,1991,4694B652
+78E29299,Symmetric Weighted First-Order Model Counting,symmetric weighted first order model counting,2015,4694B652
+768FCB51,What next?: a half-dozen data management research goals for big data and the cloud,what next a half dozen data management research goals for big data and the cloud,2012,4694B652
+8627F1C2,Proceedings of the tenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the tenth acm sigact sigmod sigart symposium on principles of database systems,1991,4694B652
+781386DF,A serialization graph construction for nested transactions,a serialization graph construction for nested transactions,1990,4694B652
+75A65CDD,Tie-breaking semantics and structural totality,tie breaking semantics and structural totality,1992,4694B652
+7EE61F2E,A learning algorithm for top-down XML transformations,a learning algorithm for top down xml transformations,2010,4694B652
+5896273B,On the feasibility of checking temporal integrity constraints,on the feasibility of checking temporal integrity constraints,1993,4694B652
+797C13CD,Replication and consistency: being lazy helps sometimes,replication and consistency being lazy helps sometimes,1997,4694B652
+7E0FD0C3,Continuous distributed counting for non-monotonic streams,continuous distributed counting for non monotonic streams,2012,4694B652
+79DF24C4,Multi-level recovery,multi level recovery,1990,4694B652
+79A4B7E1,How to evaluate multiple range-sum queries progressively,how to evaluate multiple range sum queries progressively,2002,4694B652
+0B34C358,Epidemic algorithms in replicated databases,epidemic algorithms in replicated databases,1997,4694B652
+766ED5C3,Semantically-based concurrancy control for search structures,semantically based concurrancy control for search structures,1985,4694B652
+75AAB310,The input/output complexity of triangle enumeration,the input output complexity of triangle enumeration,2014,4694B652
+0731A059,Tutorial: Constraint programming and database languages,tutorial constraint programming and database languages,1995,4694B652
+7C6299FA,Semi-determinism (extended abstract),semi determinism extended abstract,1992,4694B652
+7CE5340D,Composition of mappings given by embedded dependencies,composition of mappings given by embedded dependencies,2005,4694B652
+80A45B0D,Determining the currency of data,determining the currency of data,2011,4694B652
+75717F3D,When data dependencies over SQL tables meet the logics of paradox and S-3,when data dependencies over sql tables meet the logics of paradox and s 3,2010,4694B652
+7C358581,Chase Termination for Guarded Existential Rules,chase termination for guarded existential rules,2015,4694B652
+75F47871,PODS 30th Anniversary Colloquium,pods 30th anniversary colloquium,2011,4694B652
+75E6C47D,Attributed grammars for query language translations,attributed grammars for query language translations,1983,4694B652
+77AE1B35,A new basis for the weak instance model,a new basis for the weak instance model,1987,4694B652
+08EBB52A,Expressive and e cient languages for tree-structured data,expressive and e cient languages for tree structured data,2000,4694B652
+750A6162,Geographic database systems: issues and research needs,geographic database systems issues and research needs,1996,4694B652
+774446B5,Object projection views in the dynamic relational model,object projection views in the dynamic relational model,1984,4694B652
+7606CB09,Towards a theory of spatial database queries (extended abstract),towards a theory of spatial database queries extended abstract,1994,4694B652
+77FC3422,Mining optimized association rules for numeric attributes,mining optimized association rules for numeric attributes,1996,4694B652
+77A7FAA2,New techniques for studying set languages, bag languages and aggregate functions,new techniques for studying set languages bag languages and aggregate functions,1994,4694B652
+75C17363,Annotated XML: queries and provenance,annotated xml queries and provenance,2008,4694B652
+0B1F801F,Linear vs. Order Contstrained Queries Over Rational Databases,linear vs order contstrained queries over rational databases,1996,4694B652
+791F841C,On correctness of non-serializable executions,on correctness of non serializable executions,1993,4694B652
+76318AFD,Towards an analysis of range query performance in spatial data structures,towards an analysis of range query performance in spatial data structures,1993,4694B652
+7A798728,Data mining, hypergraph transversals, and machine learning (extended abstract),data mining hypergraph transversals and machine learning extended abstract,1997,4694B652
+7B2D8284,On the complexity of generating optimal plans with cross products (extended abstract),on the complexity of generating optimal plans with cross products extended abstract,1997,4694B652
+831B1F1F,Expressive Power and Data Complexity of Query Languages for Trees and Lists,expressive power and data complexity of query languages for trees and lists,2000,4694B652
+5E160BD2,Performance Analysis of File Organizations that Use Multi-Bucket Data Leaves with Partial Expansions,performance analysis of file organizations that use multi bucket data leaves with partial expansions,1991,4694B652
+7FCD1576,Tight bounds for Lp samplers, finding duplicates in streams, and related problems,tight bounds for lp samplers finding duplicates in streams and related problems,2011,4694B652
+7C685869,Incomplete data: what went wrong, and how to fix it,incomplete data what went wrong and how to fix it,2014,4694B652
+5E3A2668,Dynamic constraints and database evolution,dynamic constraints and database evolution,1983,4694B652
+812E4908,Space-efficient substring occurrence estimation,space efficient substring occurrence estimation,2011,4694B652
+76C32FC2,Bounded ignorance in replicated systems,bounded ignorance in replicated systems,1991,4694B652
+769D7FE8,Learning efficient query processing strategies,learning efficient query processing strategies,1992,4694B652
+7CBA15B0,Constraint-based query optimization for spatial databases,constraint based query optimization for spatial databases,1991,4694B652
+09057A54,Towards an analysis of indexing schemes,towards an analysis of indexing schemes,1997,4694B652
+80690CBF,Management of probabilistic data: foundations and challenges,management of probabilistic data foundations and challenges,2007,4694B652
+811EF884,A simpler and more efficient deterministic scheme for finding frequent items over sliding windows,a simpler and more efficient deterministic scheme for finding frequent items over sliding windows,2006,4694B652
+7C1753F9,Maintaining time-decaying stream aggregates,maintaining time decaying stream aggregates,2003,4694B652
+79D19684,Exact and approximate aggregation in constraint query languages,exact and approximate aggregation in constraint query languages,1999,4694B652
+7956E45A,Deleting completed transactions,deleting completed transactions,1985,4694B652
+7A1AD9C6,An algorithm for minimizing roll back cost,an algorithm for minimizing roll back cost,1982,4694B652
+858743B5,Proceedings of the fifteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the fifteenth acm sigact sigmod sigart symposium on principles of database systems,1996,4694B652
+5921CE8C,Inference of Inequality Constraints in Logic Programs,inference of inequality constraints in logic programs,1991,4694B652
+79017D7E,Privacy in data systems,privacy in data systems,2003,4694B652
+7A561EAE,Flexible time management in data stream systems,flexible time management in data stream systems,2004,4694B652
+0B8590E3,Relative Serializbility: An Approach for Relaxing the Atomicity of Transactions,relative serializbility an approach for relaxing the atomicity of transactions,1994,4694B652
+7D1F6967,A crash course on database queries,a crash course on database queries,2007,4694B652
+085364AB,A new approach to database logic,a new approach to database logic,1984,4694B652
+772A87EF,View maintenance issues for the chronicle data model (extended abstract),view maintenance issues for the chronicle data model extended abstract,1995,4694B652
+778B169A,Separability of polyhedra for optimal filtering of spatial and constraint data,separability of polyhedra for optimal filtering of spatial and constraint data,1995,4694B652
+7CCE1B4E,An extended relational algebra with control over duplicate elimination,an extended relational algebra with control over duplicate elimination,1982,4694B652
+7E3AE8CA,XPath satisfiability in the presence of DTDs,xpath satisfiability in the presence of dtds,2005,4694B652
+75C24341,Proceedings of the twenty-fourth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty fourth acm sigmod sigact sigart symposium on principles of database systems,2005,4694B652
+06A23767,Containment and Equivalence of Tree Pattern Queries,containment and equivalence of tree pattern queries,2002,4694B652
+7BE83CDF,Research problems in genome databases,research problems in genome databases,1995,4694B652
+794C3707,Enumerating answers to first-order queries over databases of low degree,enumerating answers to first order queries over databases of low degree,2014,4694B652
+777E9B1F,Using LDAP directory caches,using ldap directory caches,1999,4694B652
+59DB0925,Computational Aspects of Resilient Data Extraction from Semistructured Sources,computational aspects of resilient data extraction from semistructured sources,2000,4694B652
+76231EE7,A fault-tolerant commit protocol for replicated databases,a fault tolerant commit protocol for replicated databases,1992,4694B652
+8100962F,One-sided recursions,one sided recursions,1987,4694B652
+774454AC,Serialization graph algorithms for multiversion concurrency control,serialization graph algorithms for multiversion concurrency control,1988,4694B652
+783EAAD8,The inference problem for template dependencies,the inference problem for template dependencies,1982,4694B652
+7E75E0FE,Join-distinct aggregate estimation over update streams,join distinct aggregate estimation over update streams,2005,4694B652
+7D98082B,Peer data exchange,peer data exchange,2005,4694B652
+76FEEA5E,On the decidability and finite controllability of query processing in databases with incomplete information,on the decidability and finite controllability of query processing in databases with incomplete information,2006,4694B652
+7517A18F,Fast algorithms for hierarchical range histogram construction,fast algorithms for hierarchical range histogram construction,2002,4694B652
+772B36D7,Inference of monotonicity constraints in datalog programs,inference of monotonicity constraints in datalog programs,1989,4694B652
+00721ADB,The Expressive Power of Structured Values in Pure OODB's,the expressive power of structured values in pure oodb s,1991,4694B652
+09B7F15D,Models and issues in data streams,models and issues in data streams,2002,4694B652
+80F82366,Using write-once memory for database storage,using write once memory for database storage,1982,4694B652
+7EECD742,Approximating predicates and expressive queries on probabilistic databases,approximating predicates and expressive queries on probabilistic databases,2008,4694B652
+78FC96E9,Assumptions in relational database theory,assumptions in relational database theory,1982,4694B652
+7A653CE6,Two-variable logic on data trees and XML reasoning,two variable logic on data trees and xml reasoning,2006,4694B652
+7DC4D384,Charting the tractability frontier of certain conjunctive query answering,charting the tractability frontier of certain conjunctive query answering,2013,4694B652
+7BE7B6C1,Explicit control of logic programs through rule algebra,explicit control of logic programs through rule algebra,1988,4694B652
+7CD315B0,The view-selection problem has an exponential-time lower bound for conjunctive queries and views,the view selection problem has an exponential time lower bound for conjunctive queries and views,2002,4694B652
+76C5C70B,Data integration: a theoretical perspective,data integration a theoretical perspective,2002,4694B652
+79E73445,Tight bounds for 2-dimensional indexing schemes,tight bounds for 2 dimensional indexing schemes,1998,4694B652
+80EE199E,Parallel evaluation of conjunctive queries,parallel evaluation of conjunctive queries,2011,4694B652
+774D62A4,Inference rules for functional and inclusion dependencies,inference rules for functional and inclusion dependencies,1983,4694B652
+5F94EA2B,Static Analysis of Intensional Databases in U-Datalog,static analysis of intensional databases in u datalog,1996,4694B652
+76E7543E,A decision procedure for conjunctive query disjointness,a decision procedure for conjunctive query disjointness,1989,4694B652
+7707F710,Graph sketches: sparsification, spanners, and subgraphs,graph sketches sparsification spanners and subgraphs,2012,4694B652
+785CA01A,Towards a theory of online schedulers,towards a theory of online schedulers,1984,4694B652
+7A52E035,Computing all skyline probabilities for uncertain data,computing all skyline probabilities for uncertain data,2009,4694B652
+79D51B41,Token transactions: managing fine-grained migration of data,token transactions managing fine grained migration of data,1990,4694B652
+7C962198,Complete geometrical query languages (extended abstract),complete geometrical query languages extended abstract,1997,4694B652
+04527F15,Processing queries with quantifiers,processing queries with quantifiers,1983,4694B652
+80DAE78E,Composing schema mappings: second-order dependencies to the rescue,composing schema mappings second order dependencies to the rescue,2004,4694B652
+76A34FB4,Logical design of relational database schemes,logical design of relational database schemes,1987,4694B652
+7BD46BFD,Consistent query answers in inconsistent databases,consistent query answers in inconsistent databases,1999,4694B652
+7DB4FFBB,String operations in query languages,string operations in query languages,2001,4694B652
+7B02EFBD,Concurrent set manipulation without locking,concurrent set manipulation without locking,1988,4694B652
+78650A1C,Flag & check: data access with monadically defined queries,flag check data access with monadically defined queries,2013,4694B652
+7A5726A1,Lower bounds for sorting with few random accesses to external memory,lower bounds for sorting with few random accesses to external memory,2005,4694B652
+7B01212F,On the complexity of commit protocols,on the complexity of commit protocols,1985,4694B652
+0F8F2800,On Datalog vs. Polynomial Time,on datalog vs polynomial time,1991,4694B652
+7AD71947,A condensed representation to find frequent patterns,a condensed representation to find frequent patterns,2001,4694B652
+75A368D8,External Memory Stream Sampling,external memory stream sampling,2015,4694B652
+7ACFA2DB,Classification of annotation semirings over query containment,classification of annotation semirings over query containment,2012,4694B652
+7F329130,On the expressive power of the extended relational algebra for the unnormalized relational model,on the expressive power of the extended relational algebra for the unnormalized relational model,1987,4694B652
+7ADAEE86,Relaxed multi-way trees with group updates,relaxed multi way trees with group updates,2001,4694B652
+77E8AEC2,Is min-wise hashing optimal for summarizing set intersection?,is min wise hashing optimal for summarizing set intersection,2014,4694B652
+1031CE77,Proceedings of the Twenty-third ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 14-16, 2004, Paris, France,proceedings of the twenty third acm sigact sigmod sigart symposium on principles of database systems june 14 16 2004 paris france,2004,4694B652
+80E9541C,Learning and verifying quantified boolean queries by example,learning and verifying quantified boolean queries by example,2013,4694B652
+755A0908,Optimal indexing using near-minimal space,optimal indexing using near minimal space,2003,4694B652
+7F9FB986,Optimization of sequence queries in database systems,optimization of sequence queries in database systems,2001,4694B652
+7905A590,On the properties and characterization of connection-trap-free schemes,on the properties and characterization of connection trap free schemes,1985,4694B652
+7CB65DA5,Proceedings of the twenty-first ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the twenty first acm sigmod sigact sigart symposium on principles of database systems,2002,4694B652
+812BEF22,Nearest-neighbor searching under uncertainty,nearest neighbor searching under uncertainty,2012,4694B652
+7B70BC06,Finding nonrecursive envelopes for Datalog predicate,finding nonrecursive envelopes for datalog predicate,1993,4694B652
+7EAF0458,On propagation of deletions and annotations through views,on propagation of deletions and annotations through views,2002,4694B652
+78546CAF,Constraint satisfaction and database theory: a tutorial,constraint satisfaction and database theory a tutorial,2000,4694B652
+7C852A7F,Alpha-acyclic decompositions of relational database schemes,alpha acyclic decompositions of relational database schemes,1985,4694B652
+765D1B9C,Safe constraint queries,safe constraint queries,1998,4694B652
+77AD3142,Indexing for data models with constraints and classes (extended abstract),indexing for data models with constraints and classes extended abstract,1993,4694B652
+7D103253,Locally consistent transformations and query answering in data exchange,locally consistent transformations and query answering in data exchange,2004,4694B652
+80B9EC2B,XML data exchange: consistency and query answering,xml data exchange consistency and query answering,2005,4694B652
+771ED7CE,Answering aggregate queries in data exchange,answering aggregate queries in data exchange,2008,4694B652
+7C7D6803,Temporal versus first-order logic to query temporal databases,temporal versus first order logic to query temporal databases,1996,4694B652
+785583E4,Representing and querying XML with incomplete information,representing and querying xml with incomplete information,2001,4694B652
+016FE959,Computing cores for data exchange: Hard cases and practical solutions,computing cores for data exchange hard cases and practical solutions,2005,4694B652
+597D147D,Indexing for data models with constraints and classes,indexing for data models with constraints and classes,1993,4694B652
+778B71E4,Datalog expressiveness of chain queries: grammar tools and characterizations,datalog expressiveness of chain queries grammar tools and characterizations,1992,4694B652
+7A0B281E,Satisfiability of downward XPath with data equality tests,satisfiability of downward xpath with data equality tests,2009,4694B652
+7CBC75AC,Database method schemas and object creation,database method schemas and object creation,1993,4694B652
+775407ED,Verification of communicating data-driven web services,verification of communicating data driven web services,2006,4694B652
+7CA42009,Machine models and lower bounds for query processing,machine models and lower bounds for query processing,2007,4694B652
+77E56E15,On the semantics of theory change: arbitration between old and new information,on the semantics of theory change arbitration between old and new information,1993,4694B652
+81664491,Space- and time-efficient deterministic algorithms for biased quantiles over data streams,space and time efficient deterministic algorithms for biased quantiles over data streams,2006,4694B652
+06273CCA,Answering Queries Using Limited External Processors,answering queries using limited external processors,1996,4694B652
+7B0D408A,The Lixto data extraction project: back and forth between theory and practice,the lixto data extraction project back and forth between theory and practice,2004,4694B652
+7DDEA33E,Query containment for data integration systems,query containment for data integration systems,2000,4694B652
+7FBD2464,Provenance for aggregate queries,provenance for aggregate queries,2011,4694B652
+8072704A,The complexity of reasoning about pattern-based XML schemas,the complexity of reasoning about pattern based xml schemas,2007,4694B652
+77322D24,Modeling hot spots in database systems (extended abstract),modeling hot spots in database systems extended abstract,1991,4694B652
+762C5EFB,Safety of datalog queries over infinite databases,safety of datalog queries over infinite databases,1989,4694B652
+76EE5CEC,View-based query processing for regular path queries with inverse,view based query processing for regular path queries with inverse,2000,4694B652
+768FE0D4,Compatibility and commutativity in non-two-phase locking protocols,compatibility and commutativity in non two phase locking protocols,1982,4694B652
+5E048F41,On the Complexity of Generating Optimal Plans with Cross Products,on the complexity of generating optimal plans with cross products,1997,4694B652
+7610D130,Semantics and expressiveness issues in active databases (extended abstract),semantics and expressiveness issues in active databases extended abstract,1995,4694B652
+0A3533DE,The Equivalence of Solving Queries and Production Tree Projections,the equivalence of solving queries and production tree projections,1986,4694B652
+5D94B1E0,Magic sets and other strange ways to implement logic programs,magic sets and other strange ways to implement logic programs,1985,4694B652
+784AF03B,Combining fuzzy information from multiple systems (extended abstract),combining fuzzy information from multiple systems extended abstract,1996,4694B652
+79EAAD76,New results on two-dimensional orthogonal range aggregation in external memory,new results on two dimensional orthogonal range aggregation in external memory,2011,4694B652
+78595721,Decidability and undecidability results for boundedness of linear recursive queries,decidability and undecidability results for boundedness of linear recursive queries,1988,4694B652
+7C25A146,Relative serializability (extended abstract): an approach for relaxing the atomicity of transactions,relative serializability extended abstract an approach for relaxing the atomicity of transactions,1994,4694B652
+8149C576,Evolution of page popularity under random web graph models,evolution of page popularity under random web graph models,2006,4694B652
+7C14F485,On the optimality of disk allocation for Cartesian product files (extended abstract),on the optimality of disk allocation for cartesian product files extended abstract,1990,4694B652
+79FF55D1,Privacy-enhancing k -anonymization of customer data,privacy enhancing k anonymization of customer data,2005,4694B652
+7F252AE7,Load control for locking: the “half-and-half” approach,load control for locking the half and half approach,1990,4694B652
+795939FB,Procedural and declarative database update languages,procedural and declarative database update languages,1988,4694B652
+75E1B890,Private Multiplicative Weights Beyond Linear Queries,private multiplicative weights beyond linear queries,2015,4694B652
+7FE682D9,A general datalog-based framework for tractable query answering over ontologies,a general datalog based framework for tractable query answering over ontologies,2009,4694B652
+7C5183D7,Interaction between path and type constraints,interaction between path and type constraints,1999,4694B652
+7A1378E3,Roads, codes, and spatiotemporal queries,roads codes and spatiotemporal queries,2004,4694B652
+143E8EAD,Rewriting aggregate queries using views,rewriting aggregate queries using views,1995,4694B652
+79F1D03F,Queries are easier than you thought (probably),queries are easier than you thought probably,1992,4694B652
+035D91F8,Containment and Equivalence for an XPath Fragment (Extended Anstract),containment and equivalence for an xpath fragment extended anstract,2002,4694B652
+0BB5E74D,Proof tree transformations and their applica-tions,proof tree transformations and their applica tions,1989,4694B652
+7CB984FF,On the content of materialized aggregate views,on the content of materialized aggregate views,2000,4694B652
+7F65BD08,Skew in parallel query processing,skew in parallel query processing,2014,4694B652
+7B06A467,Increasing availability in partitioned database systems,increasing availability in partitioned database systems,1984,4694B652
+754854ED,Constant time maintenance or the triumph of the FD.,constant time maintenance or the triumph of the fd,1985,4694B652
+7DCC7C25,Approximation algorithms for clustering uncertain data,approximation algorithms for clustering uncertain data,2008,4694B652
+0B2B47B9,An efficient fault-tolerant algorithm for replicated data management,an efficient fault tolerant algorithm for replicated data management,1985,4694B652
+75B372B1,Non-reversible privacy transformations,non reversible privacy transformations,1982,4694B652
+75149391,Updaies of relational views,updaies of relational views,1983,4694B652
+7D3EF910,Approximate computation and implicit regularization for very large-scale data analysis,approximate computation and implicit regularization for very large scale data analysis,2012,4694B652
+7AA9F614,Indexing moving points (extended abstract),indexing moving points extended abstract,2000,4694B652
+798892D4,The Data Complexity of Consistent Query Answering for Self-Join-Free Conjunctive Queries Under Primary Key Constraints,the data complexity of consistent query answering for self join free conjunctive queries under primary key constraints,2015,4694B652
+7EC1B6F7,Scalable computation of acyclic joins,scalable computation of acyclic joins,2006,4694B652
+7A69692B,Is byzantine agreement useful in a distributed database?,is byzantine agreement useful in a distributed database,1984,4694B652
+7D822756,Tools for Datalog boundedness,tools for datalog boundedness,1991,4694B652
+7A4370B5,An improved algorithm for finding a key of a relation,an improved algorithm for finding a key of a relation,1985,4694B652
+75E89891,XML transformation by tree-walking transducers with invisible pebbles,xml transformation by tree walking transducers with invisible pebbles,2007,4694B652
+5A841A4B,Quasilinear Algorithms for Processing Relational Calculus Expressions,quasilinear algorithms for processing relational calculus expressions,1990,4694B652
+7EF6BE8C,Limiting privacy breaches in privacy preserving data mining,limiting privacy breaches in privacy preserving data mining,2003,4694B652
+7C7D08B1,On the BDD/FC conjecture,on the bdd fc conjecture,2013,4694B652
+7924A261,Counting solutions to conjunctive queries: structural and hybrid tractability,counting solutions to conjunctive queries structural and hybrid tractability,2014,4694B652
+0F42328A,Indexing Moving Points,indexing moving points,2000,4694B652
+862D5C18,Proceedings of the seventeenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the seventeenth acm sigact sigmod sigart symposium on principles of database systems,1998,4694B652
+783FE6A3,Concurrent operations on B-trees with overtaking,concurrent operations on b trees with overtaking,1985,4694B652
+755D5DD0,Schema mappings, data exchange, and metadata management,schema mappings data exchange and metadata management,2005,4694B652
+763D995B,(Almost) optimal parallel block access to range queries,almost optimal parallel block access to range queries,2000,4694B652
+8165D101,Blocking for external graph searching,blocking for external graph searching,1993,4694B652
+78F33F47,Tables as a paradigm for querying and restructuring (extended abstract),tables as a paradigm for querying and restructuring extended abstract,1996,4694B652
+7926F5AD,A model for the prediction of R-tree performance,a model for the prediction of r tree performance,1996,4694B652
+75BC5902,Non-deterministic queue operations,non deterministic queue operations,1991,4694B652
+79320E59,Categorical range maxima queries,categorical range maxima queries,2014,4694B652
+774843B6,Applying an update method to a set of receivers (extended abstract),applying an update method to a set of receivers extended abstract,1995,4694B652
+76805102,Some classes of multilevel relational structures,some classes of multilevel relational structures,1985,4694B652
+7BD4C822,Weaker forms of monotonicity for declarative networking: a more fine-grained answer to the calm-conjecture,weaker forms of monotonicity for declarative networking a more fine grained answer to the calm conjecture,2014,4694B652
+7A88F011,Efficient evaluation for a temporal logic on changing XML documents,efficient evaluation for a temporal logic on changing xml documents,2011,4694B652
+7CD9E9C6,The queue protocol: a deadlock-free, homogeneous, non-two-phase locking protocol,the queue protocol a deadlock free homogeneous non two phase locking protocol,1988,4694B652
+78F21FA9,Foundations of data-aware process analysis: a database theory perspective,foundations of data aware process analysis a database theory perspective,2013,4694B652
+7A5CBD7D,An optimal algorithm for testing for safety and detecting deadlocks in locked transaction systems,an optimal algorithm for testing for safety and detecting deadlocks in locked transaction systems,1982,4694B652
+79C0E349,On the implementation of a simple class of logic queries for databases,on the implementation of a simple class of logic queries for databases,1985,4694B652
+79389D54,Normalizing incomplete databases,normalizing incomplete databases,1995,4694B652
+7952B4F0,Least expected cost query optimization: what can we expect?,least expected cost query optimization what can we expect,2002,4694B652
+7CDA69B5,Stable set and multiset operations in optimal time and space,stable set and multiset operations in optimal time and space,1988,4694B652
+7A1A1CC5,Optimization of real conjunctive queries,optimization of real conjunctive queries,1993,4694B652
+7C2EADA7,Uniform generation in spatial constraint databases and applications (Extended abstract),uniform generation in spatial constraint databases and applications extended abstract,2000,4694B652
+7F412FAE,Querying logical databases,querying logical databases,1985,4694B652
+04D5A10F,Dense-Order Constraint Databases,dense order constraint databases,1995,4694B652
+0183F8A7,Path Caching: A Technique for Optimal External Searching,path caching a technique for optimal external searching,1994,4694B652
+76009304,Point vs. interval-based query languages for temporal databases (extended abstract),point vs interval based query languages for temporal databases extended abstract,1996,4694B652
+77591B73,Fast time-series searching with scaling and shifting,fast time series searching with scaling and shifting,1999,4694B652
+85B60855,Latent se-mantic indexing: A probabilistic analysis,latent se mantic indexing a probabilistic analysis,1999,4694B652
+7846B59C,External hasing with limited internal storage,external hasing with limited internal storage,1982,4694B652
+7AD3B000,Deductive databases in action,deductive databases in action,1991,4694B652
+79FCE0BE,Handling infinite temporal data,handling infinite temporal data,1990,4694B652
+80665AE7,Counting triangles in data streams,counting triangles in data streams,2006,4694B652
+7A78236F,Sequences, Datalog and transducers,sequences datalog and transducers,1995,4694B652
+7678039D,Strict histories in object-based database systems,strict histories in object based database systems,1993,4694B652
+7AE1F368,Expressiveness of structured document query languages based on attribute grammars,expressiveness of structured document query languages based on attribute grammars,1998,4694B652
+76B7381E,Constraint query languages (preliminary report),constraint query languages preliminary report,1990,4694B652
+7F59ABB3,Declarative expression of deductive database updates,declarative expression of deductive database updates,1989,4694B652
+0280A7B9,On Indexing Moving Objects,on indexing moving objects,1999,4694B652
+753E72F0,The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2015,the acm pods alberto o mendelzon test of time award 2015,2015,4694B652
+78BE3412,Testing containment of conjunctive queries under functional and inclusion dependencies,testing containment of conjunctive queries under functional and inclusion dependencies,1982,4694B652
+7E24BBC7,Approximate quantiles and the order of the stream,approximate quantiles and the order of the stream,2006,4694B652
+78EB602F,A simple analytic model for performance of exclusive locking in database systems,a simple analytic model for performance of exclusive locking in database systems,1983,4694B652
+0B2DEA09,Optimal Response Time Retrieval of Replicated Data,optimal response time retrieval of replicated data,1994,4694B652
+7D54CF9C,The complexity of evaluating path expressions in SPARQL,the complexity of evaluating path expressions in sparql,2012,4694B652
+5DE5D854,The Expressive Powers of the Logic Programming Semantics,the expressive powers of the logic programming semantics,1990,4694B652
+7731875D,Modular stratification and magic sets for DATALOG programs with negation,modular stratification and magic sets for datalog programs with negation,1990,4694B652
+7B021BEF,The expressive power structured values in pure OODB's (extended abstract),the expressive power structured values in pure oodb s extended abstract,1991,4694B652
+7770999F,Structural totality and constraint stratification,structural totality and constraint stratification,1995,4694B652
+7AFC7FD0,Rearranging data to maximize the efficiency of compression,rearranging data to maximize the efficiency of compression,1985,4694B652
+7DD87126,Max-Sum diversification, monotone submodular functions and dynamic updates,max sum diversification monotone submodular functions and dynamic updates,2012,4694B652
+776A4693,A new approach to database logic,a new approach to database logic,1984,4694B652
+7E150FAB,The complexity of XPath query evaluation,the complexity of xpath query evaluation,2003,4694B652
+5ED2A0DE,Proceedings of the 3rd ACM SIGACT-SIGMOD symposium on Principles of database systems,proceedings of the 3rd acm sigact sigmod symposium on principles of database systems,1984,4694B652
+09714436,Separabil-ity of Polyhedra and a New Approach to Spatial Storage,separabil ity of polyhedra and a new approach to spatial storage,1995,4694B652
+78079453,IFO: a formal semantic database model,ifo a formal semantic database model,1984,4694B652
+7D88433F,How to quickly find a witness,how to quickly find a witness,2003,4694B652
+77C17A2E,Analyzing workflows implied by instance-dependent access rules,analyzing workflows implied by instance dependent access rules,2006,4694B652
+7B8702D9,Logic based modeling and analysis of workflows,logic based modeling and analysis of workflows,1998,4694B652
+7BAFED78,Synopses for query optimization: a space-complexity perspective,synopses for query optimization a space complexity perspective,2004,4694B652
+7790E1A1,On the recognition of coverings of acyclic database hypergraphs,on the recognition of coverings of acyclic database hypergraphs,1983,4694B652
+7683244A,Complexity of nonrecursive logic programs with complex values,complexity of nonrecursive logic programs with complex values,1998,4694B652
+7BED1CB9,Join Dependency Testing, Loomis-Whitney Join, and Triangle Enumeration,join dependency testing loomis whitney join and triangle enumeration,2015,4694B652
+7788E42B,Compiling query constraints (extended abstract),compiling query constraints extended abstract,1994,4694B652
+7E27F611,Cleaning inconsistencies in information extraction via prioritized repairs,cleaning inconsistencies in information extraction via prioritized repairs,2014,4694B652
+0383184A,Duschka: Complexity of Answering Queries Using Materialized Views,duschka complexity of answering queries using materialized views,1998,4694B652
+087F0E0C,Path Constraints in Semistructured and Structured Databases,path constraints in semistructured and structured databases,1998,4694B652
+77F801B8,Algorithmic aspects of multiversion concurrency control,algorithmic aspects of multiversion concurrency control,1985,4694B652
+79CA206B,Static analysis of intensional databases in U-Datalog (extended abstract),static analysis of intensional databases in u datalog extended abstract,1996,4694B652
+7CAF21AF,Theory of data stream computing: where to go,theory of data stream computing where to go,2011,4694B652
+768E5147,Querying semantic web data with SPARQL,querying semantic web data with sparql,2011,4694B652
+7CDC65B5,The well-founded semantics of aggregation,the well founded semantics of aggregation,1992,4694B652
+784D3A19,Computing full disjunctions,computing full disjunctions,2003,4694B652
+7A6DC4B6,Local Hoare reasoning about DOM,local hoare reasoning about dom,2008,4694B652
+79194EBE,Recovery for transaction failures in object-based databases,recovery for transaction failures in object based databases,1996,4694B652
+7A3DFA4C,Hypertree decompositions and tractable queries,hypertree decompositions and tractable queries,1999,4694B652
+5C9E95D1,Exact and Approximate Aggregation in Constraint Query,exact and approximate aggregation in constraint query,1999,4694B652
+7853FC4D,Ensuring transaction atomicity in multidatabase systems,ensuring transaction atomicity in multidatabase systems,1992,4694B652
+772F8182,On the design and quantification of privacy preserving data mining algorithms,on the design and quantification of privacy preserving data mining algorithms,2001,4694B652
+5A239687,Proceedings of the twelfth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the twelfth acm sigact sigmod sigart symposium on principles of database systems,1993,4694B652
+7F538169,Maximizing conjunctive views in deletion propagation,maximizing conjunctive views in deletion propagation,2011,4694B652
+7F63364A,Towards a theory of schema-mapping optimization,towards a theory of schema mapping optimization,2008,4694B652
+7FBB425C,Skyline Queries with Noisy Comparisons,skyline queries with noisy comparisons,2015,4694B652
+5C59827A,Temporal deductive databases and infinite objects,temporal deductive databases and infinite objects,1988,4694B652
+770482CA,Optimal and approximate computation of summary statistics for range aggregates,optimal and approximate computation of summary statistics for range aggregates,2001,4694B652
+79C160DD,Trial for RDF: adapting graph query languages for RDF data,trial for rdf adapting graph query languages for rdf data,2013,4694B652
+78F4710D,Equivalence of views by query capacity,equivalence of views by query capacity,1985,4694B652
+80703B95,Decision trees for entity identification: approximation algorithms and hardness results,decision trees for entity identification approximation algorithms and hardness results,2007,4694B652
+7A30857E,Efficient computation of temporal aggregates with range predicates,efficient computation of temporal aggregates with range predicates,2001,4694B652
+7C188B8B,Modular acyclicity and tail recursion in logic programs,modular acyclicity and tail recursion in logic programs,1991,4694B652
+7A994580,Query containment for conjunctive queries with regular expressions,query containment for conjunctive queries with regular expressions,1998,4694B652
+0420EB65,A Logic for Object-Oriented Logic Programming (Maier's O-Logic Revisited),a logic for object oriented logic programming maier s o logic revisited,1989,4694B652
+7DC9A5C3,Simplifying XML schema: single-type approximations of regular tree languages,simplifying xml schema single type approximations of regular tree languages,2010,4694B652
+8052E422,Dynamic indexability and lower bounds for dynamic one-dimensional range query indexes,dynamic indexability and lower bounds for dynamic one dimensional range query indexes,2009,4694B652
+7F9881E6,Operator placement for in-network stream query processing,operator placement for in network stream query processing,2005,4694B652
+762B6807,Functional and inclusion dependencies a graph theoretic approach,functional and inclusion dependencies a graph theoretic approach,1984,4694B652
+77E62B84,Modeling complex structures in object-oriented logic programming,modeling complex structures in object oriented logic programming,1989,4694B652
+79BF7B6F,A semantic approach to correctness of concurrent transaction executions,a semantic approach to correctness of concurrent transaction executions,1985,4694B652
+75737DE0,One flavor assumption and gamma-acyclicity for universal relation views,one flavor assumption and gamma acyclicity for universal relation views,1985,4694B652
+78D84034,Dynamically distributed query evaluation,dynamically distributed query evaluation,2001,4694B652
+78D6D6CE,What is "next" in event processing?,what is next in event processing,2007,4694B652
+75D87B3B,Complexity of query processing in databases with OR-objects,complexity of query processing in databases with or objects,1989,4694B652
+781613D8,On the effects of dimensionality reduction on high dimensional similarity search,on the effects of dimensionality reduction on high dimensional similarity search,2001,4694B652
+0BD4491A,Theodoridis - "processing and optimization of multiway spatial joins using r-trees,theodoridis processing and optimization of multiway spatial joins using r trees,1999,4694B652
+7B71C330,Independence of logic database queries and update,independence of logic database queries and update,1990,4694B652
+761A2E3D,Functional database query languages as typed lambda calculi of fixed order (extended abstract),functional database query languages as typed lambda calculi of fixed order extended abstract,1994,4694B652
+78BA42C5,Relative information completeness,relative information completeness,2009,4694B652
+0F823A50,ON LOSSLESS TRANFORMATION OF DATABASES SCHEMES NOT NECESSARILY SATISFYING UNIVERSAL INSTANCE ASSUMPTION (preliminary version),on lossless tranformation of databases schemes not necessarily satisfying universal instance assumption preliminary version,1984,4694B652
+75BAFDED,A dichotomy for non-repeating queries with negation in probabilistic databases,a dichotomy for non repeating queries with negation in probabilistic databases,2014,4694B652
+78048131,View-based query containment,view based query containment,2003,4694B652
+7963E67B,Connections in acyclic hypergraphs: extended abstract,connections in acyclic hypergraphs extended abstract,1982,4694B652
+7DC3D0E2,Will I be pretty, will I be rich?: some thoughts on theory vs. practice in systems engineering,will i be pretty will i be rich some thoughts on theory vs practice in systems engineering,1994,4694B652
+7A5234F2,Functional and predictive programming in OODB's,functional and predictive programming in oodb s,1992,4694B652
+8156EA70,Approximating and testing k-histogram distributions in sub-linear time,approximating and testing k histogram distributions in sub linear time,2012,4694B652
+5B31F30A,Universal Finiteness and Satisfiability,universal finiteness and satisfiability,1994,4694B652
+7B863709,On the complexity of propositional knowledge base revision, updates, and counterfactuals,on the complexity of propositional knowledge base revision updates and counterfactuals,1992,4694B652
+7DF7A17E,Fixed-precision estimation of join selectivity,fixed precision estimation of join selectivity,1993,4694B652
+770439E3,Efficient aggregation over objects with extent,efficient aggregation over objects with extent,2002,4694B652
+75B9F542,Foundations for multifile design by application partitioning,foundations for multifile design by application partitioning,1982,4694B652
+7798683C,Multi-structural databases,multi structural databases,2005,4694B652
+7DB14668,Marrying words and trees,marrying words and trees,2007,4694B652
+7EDA3691,Consensus answers for queries over probabilistic databases,consensus answers for queries over probabilistic databases,2009,4694B652
+7A329D6A,Algorithmics and applications of tree and graph searching,algorithmics and applications of tree and graph searching,2002,4694B652
+7BD382E7,Languages for relational databases over interpreted structures,languages for relational databases over interpreted structures,1997,4694B652
+76A29869,Log write-ahead protocols and IMS/VS logging,log write ahead protocols and ims vs logging,1983,4694B652
+7E0E8EBF,The complexity of querying indefinite data about linearly ordered domains,the complexity of querying indefinite data about linearly ordered domains,1992,4694B652
+75840290,Computational Thinking, Inferential Thinking and "Big Data",computational thinking inferential thinking and big data,2015,4694B652
+750C348D,Sacrificing serializability to attain high availability of data in an unreliable network,sacrificing serializability to attain high availability of data in an unreliable network,1982,4694B652
+77A1CF15,Equivalences among aggregate queries with negation,equivalences among aggregate queries with negation,2001,4694B652
+7B4A756B,Relative knowledge in a distributed database,relative knowledge in a distributed database,1987,4694B652
+7CBB518C,Conditional XPath, the first order complete XPath dialect,conditional xpath the first order complete xpath dialect,2004,4694B652
+008889BF,Rewriting of Rules Containing Set Terms in a Logic Data Model (LDL),rewriting of rules containing set terms in a logic data model ldl,1988,4694B652
+81587999,Correctness in general configurations of transactional components,correctness in general configurations of transactional components,1999,4694B652
+7F65DDA8,Containment and minimization of positive conjunctive queries in OODB's,containment and minimization of positive conjunctive queries in oodb s,1992,4694B652
+774EFD5F,A universal relation database system implemented via the network model,a universal relation database system implemented via the network model,1982,4694B652
+8028092C,Comparing and aggregating rankings with ties,comparing and aggregating rankings with ties,2004,4694B652
+776133BF,Throughput-competitive admission control for continuous media databases,throughput competitive admission control for continuous media databases,1998,4694B652
+791862BB,On the complexity of bounded-variable queries (extended abstract),on the complexity of bounded variable queries extended abstract,1995,4694B652
+79872278,Computing covers for embedded functional dependencies,computing covers for embedded functional dependencies,1987,4694B652
+05CFF266,Containment and Equivalence of Tree Patterns,containment and equivalence of tree patterns,2002,4694B652
+76C7F713,Towards a unified theory of concurrency control and recovery,towards a unified theory of concurrency control and recovery,1993,4694B652
+7687560F,Structural characterizations of the semantics of XPath as navigation tool on a document,structural characterizations of the semantics of xpath as navigation tool on a document,2006,4694B652
+7A867B9F,Joins via Geometric Resolutions: Worst-case and Beyond,joins via geometric resolutions worst case and beyond,2015,4694B652
+77154C52,Efficient searching with linear constraints,efficient searching with linear constraints,1998,4694B652
+7C3D4950,Near-optimal dynamic replication in unstructured peer-to-peer networks,near optimal dynamic replication in unstructured peer to peer networks,2008,4694B652
+5EF68B0C,Proceedings of the thirteenth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the thirteenth acm sigact sigmod sigart symposium on principles of database systems,1994,4694B652
+7CCAE045,Linear vs. order constraint queries over rational databases (extended abstract),linear vs order constraint queries over rational databases extended abstract,1996,4694B652
+79C58B4B,Performance results on multiversion timestamp concurrency control with predeclared writesets,performance results on multiversion timestamp concurrency control with predeclared writesets,1987,4694B652
+79B42E26,Substring selectivity estimation,substring selectivity estimation,1999,4694B652
+7A85C488,Deciding equivalences among aggregate queries,deciding equivalences among aggregate queries,1998,4694B652
+5AF07B78,On the Containment and Equivalence of Database Queries with Linear Constraints,on the containment and equivalence of database queries with linear constraints,1997,4694B652
+75F85FEA,The wavelet trie: maintaining an indexed sequence of strings in compressed space,the wavelet trie maintaining an indexed sequence of strings in compressed space,2012,4694B652
+7CF6E061,Finding near neighbors through cluster pruning,finding near neighbors through cluster pruning,2007,4694B652
+781C09CC,Algebraic aspects of relational database decomposition,algebraic aspects of relational database decomposition,1983,4694B652
+781C497C,Weak temporal relations,weak temporal relations,1985,4694B652
+79A0E2CD,Semantic acyclicity on graph databases,semantic acyclicity on graph databases,2013,4694B652
+7FD4015B,The complexity of mining maximal frequent subgraphs,the complexity of mining maximal frequent subgraphs,2013,4694B652
+7ABAA747,Querying graph databases,querying graph databases,2013,4694B652
+783F40CE,Indexing the edges—a simple and yet efficient approach to high-dimensional indexing,indexing the edges a simple and yet efficient approach to high dimensional indexing,2000,4694B652
+79BA1098,Index maintenance for non-uniform record distributions,index maintenance for non uniform record distributions,1984,4694B652
+7C1241EB,Computational properties of metaquerying problems,computational properties of metaquerying problems,2000,4694B652
+75134EFE,Algebras for querying text regions (extended abstract),algebras for querying text regions extended abstract,1995,4694B652
+7CC7B74F,Inductive pebble games and the expressive power of datalog,inductive pebble games and the expressive power of datalog,1989,4694B652
+81033352,A theory of data dependencies over relational expressions,a theory of data dependencies over relational expressions,1982,4694B652
+7C0D2490,Space-bounded FOIES (extended abstract),space bounded foies extended abstract,1995,4694B652
+77DE8339,On finding skylines in external memory,on finding skylines in external memory,2011,4694B652
+76E906F9,The complexity of evaluating relational queries,the complexity of evaluating relational queries,1983,4694B652
+7BB7AA6E,Independent database schemas,independent database schemas,1982,4694B652
+7C9F781F,The extended closed world assumption and its relationship to parallel circumscription,the extended closed world assumption and its relationship to parallel circumscription,1985,4694B652
+77F1FFE7,Topological queries in spatial databases,topological queries in spatial databases,1996,4694B652
+77CE19D2,Deriving constraints among argument sizes in logic programs (extended abstract),deriving constraints among argument sizes in logic programs extended abstract,1990,4694B652
+0BFBC531,Semistructured data: a tutorial,semistructured data a tutorial,1997,4694B652
+78D54B26,Entrepreneurship for information systems researchers (invited tutorial) (abstract only),entrepreneurship for information systems researchers invited tutorial abstract only,2000,4694B652
+7835B5B0,The complexity of data exchange,the complexity of data exchange,2006,4694B652
+7D74CCA5,Concepts for a database system compiler,concepts for a database system compiler,1988,4694B652
+7994D69D,Composable core-sets for diversity and coverage maximization,composable core sets for diversity and coverage maximization,2014,4694B652
+7B3A665B,Linearising nonlinear recursions in polynomial time,linearising nonlinear recursions in polynomial time,1989,4694B652
+85FB7218,Proceedings of the nineteenth ACM SIGMOD-SIGACT-SIGART symposium on Principles of database systems,proceedings of the nineteenth acm sigmod sigact sigart symposium on principles of database systems,2000,4694B652
+810E9D7B,Hypothetical datalog negation and linear recursion,hypothetical datalog negation and linear recursion,1989,4694B652
+78F88D0F,Principles of dataspace systems,principles of dataspace systems,2006,4694B652
+7BA630D7,Sort sets in the relational model,sort sets in the relational model,1983,4694B652
+7D2A905E,Space-efficient estimation of statistics over sub-sampled streams,space efficient estimation of statistics over sub sampled streams,2012,4694B652
+7AE8BE06,Connections in Acyclic Hypergraphs,connections in acyclic hypergraphs,1982,4694B652
+7C5B8276,Semantic representations and query languages for or-sets,semantic representations and query languages for or sets,1993,4694B652
+76D6F98B,Inherent complexity of recursive queries,inherent complexity of recursive queries,1999,4694B652
+78F91C59,Relational transducers for electronic commerce,relational transducers for electronic commerce,1998,4694B652
+75FDE4CB,Computational aspects of resilient data extraction from semistructured sources (extended abstract),computational aspects of resilient data extraction from semistructured sources extended abstract,2000,4694B652
+7B55219F,A framework for measuring changes in data characteristics,a framework for measuring changes in data characteristics,1999,4694B652
+5BE40F68,Answering Queries using Templates with Binding Patterns,answering queries using templates with binding patterns,1995,4694B652
+7F5CE0F3,Clustering via matrix powering,clustering via matrix powering,2004,4694B652
+7831D2A2,Monotonic aggregation in deductive databases,monotonic aggregation in deductive databases,1992,4694B652
+7B4C9D47,Labeling dynamic XML trees,labeling dynamic xml trees,2002,4694B652
+754E11C8,Polynomial-time program transformations in deductive databases,polynomial time program transformations in deductive databases,1990,4694B652
+5C2D5310,Tables As a Paradigm for Querying and Restructuring,tables as a paradigm for querying and restructuring,1996,4694B652
+7786188F,Combinatorial games in database theory,combinatorial games in database theory,1995,4694B652
+7659D443,Enumeration of first-order queries on classes of structures with bounded expansion,enumeration of first order queries on classes of structures with bounded expansion,2013,4694B652
+58E307C2,Minimal Data Upgrading to Prevent Inference and Association,minimal data upgrading to prevent inference and association,1999,4694B652
+7527E0E7,On the complexity of equivalence between recursive and nonrecursive Datalog programs,on the complexity of equivalence between recursive and nonrecursive datalog programs,1994,4694B652
+75560EAA,Tolerating bounded inconsistency for increasing concurrency in database systems,tolerating bounded inconsistency for increasing concurrency in database systems,1992,4694B652
+776B29DC,Concurrency control in a dynamic search structure,concurrency control in a dynamic search structure,1982,4694B652
+795261B7,Canonical view update support through boolean algebras of components,canonical view update support through boolean algebras of components,1984,4694B652
+77A85CED,The tree property is fundamental for query processing,the tree property is fundamental for query processing,1982,4694B652
+7C916DEB,Chickens and eggs—the interrelationship of systems and theory,chickens and eggs the interrelationship of systems and theory,1987,4694B652
+7AC77FCC,Proof-tree transformation theorems and their applications,proof tree transformation theorems and their applications,1989,4694B652
+79E767A8,Conceptual-to-internal mappings in commercial database systems,conceptual to internal mappings in commercial database systems,1984,4694B652
+0A9185A4,Evaluating queries with quanti-fiers: A horticultural approach,evaluating queries with quanti fiers a horticultural approach,1983,4694B652
+7BE54DB8,Theory of database queries,theory of database queries,1988,4694B652
+774C12D8,Models and issues in data stream systems,models and issues in data stream systems,2002,4694B652
+78BFAA6D,Conjunctive selection conditions in main memory,conjunctive selection conditions in main memory,2002,4694B652
+09815215,Magic Factoring of Closure Programs,magic factoring of closure programs,1995,4694B652
+797D1197,Universal finiteness and satisfiability (extended abstract),universal finiteness and satisfiability extended abstract,1994,4694B652
+7F54DC0C,Dynamic top-k range reporting in external memory,dynamic top k range reporting in external memory,2012,4694B652
+7CA46513,Correctness and parallelism in composite systems,correctness and parallelism in composite systems,1997,4694B652
+7B188FE3,Text dominated databases, theory practice and experience (abstract),text dominated databases theory practice and experience abstract,1994,4694B652
+76CCCA6C,The U. R. strikes back,the u r strikes back,1982,4694B652
+76973B69,Cache-oblivious string B-trees,cache oblivious string b trees,2006,4694B652
+59D3832E,Suppressing Marginal Cells to Protect Sensitive Information in a Two-Dimensional Statistical Table,suppressing marginal cells to protect sensitive information in a two dimensional statistical table,1991,4694B652
+809A4A24,Understanding cardinality estimation using entropy maximization,understanding cardinality estimation using entropy maximization,2010,4694B652
+7F39A12A,Local transformations and conjunctive-query equivalence,local transformations and conjunctive query equivalence,2012,4694B652
+7647535D,Multiobjective query optimization,multiobjective query optimization,2001,4694B652
+76C3F150,The complexity of query containment in expressive fragments of XPath 2.0,the complexity of query containment in expressive fragments of xpath 2 0,2007,4694B652
+80E090C1,Sagiv,Y-On finite FD-acyclicity,sagiv y on finite fd acyclicity,1985,4694B652
+7B8DA8CC,On reconciling data exchange, data integration, and peer data management,on reconciling data exchange data integration and peer data management,2007,4694B652
+79E8B6FD,Decomposition of relational schemata into components defined by both projection and restriction,decomposition of relational schemata into components defined by both projection and restriction,1988,4694B652
+76A2AC09,Finding a minimal tree pattern under neighborhood constraints,finding a minimal tree pattern under neighborhood constraints,2011,4694B652
+791AF94B,Data exchange: computing cores in polynomial time,data exchange computing cores in polynomial time,2006,4694B652
+7CA98CE1,Backward chaining evaluation in stratified disjunctive theories,backward chaining evaluation in stratified disjunctive theories,1990,4694B652
+7BD2A236,Utilization of B-trees with inserts, deletes and modifies,utilization of b trees with inserts deletes and modifies,1989,4694B652
+778910C9,Remarks on the algebra of non first normal form relations,remarks on the algebra of non first normal form relations,1982,4694B652
+7D65AB1D,Impossibility of distributed consensus with one faulty process,impossibility of distributed consensus with one faulty process,1983,4694B652
+7559F149,Cost-oblivious storage reallocation,cost oblivious storage reallocation,2014,4694B652
+0A9A2E26,Data-value Partitioning and Virtual Messages,data value partitioning and virtual messages,1990,4694B652
+79D0F34F,Relative information capacity of simple relational database schemata,relative information capacity of simple relational database schemata,1984,4694B652
+77BBF5B0,High-Level Why-Not Explanations using Ontologies,high level why not explanations using ontologies,2015,4694B652
+75D0602A,Dynamic assembly of views in data cubes,dynamic assembly of views in data cubes,1998,4694B652
+7950375C,Epidemic algorithms in replicated databases (extended abstract),epidemic algorithms in replicated databases extended abstract,1997,4694B652
+79C7F821,On two-dimensional indexability and optimal range search indexing,on two dimensional indexability and optimal range search indexing,1999,4694B652
+752EE0E5,Verification of relational tranducers for electronic commerce,verification of relational tranducers for electronic commerce,2000,4694B652
+7730D651,Least expected cost query optimization: an exercise in utility,least expected cost query optimization an exercise in utility,1999,4694B652
+81217CD8,Equivalence of nested queries with mixed semantics,equivalence of nested queries with mixed semantics,2009,4694B652
+766D90B2,Spanners: a formal framework for information extraction,spanners a formal framework for information extraction,2013,4694B652
+5E0B513E,Expressive power and data complexity of nonrecursive query languages for lists and trees,expressive power and data complexity of nonrecursive query languages for lists and trees,2000,4694B652
+770F6AA7,A normal form for nested relations,a normal form for nested relations,1985,4694B652
+7CC27010,Bounds on the propagation of selection into logic programs,bounds on the propagation of selection into logic programs,1987,4694B652
+7AF006E5,Parallel evaluation of recursive rule queries,parallel evaluation of recursive rule queries,1985,4694B652
+7A9C640A,The chase revisited,the chase revisited,2008,4694B652
+770FC066,GraphLog: a visual formalism for real life recursion,graphlog a visual formalism for real life recursion,1990,4694B652
+7DC956E1,Diagnosis of asynchronous discrete event systems: datalog to the rescue!,diagnosis of asynchronous discrete event systems datalog to the rescue,2005,4694B652
+79F77A86,Verification of database-driven systems via amalgamation,verification of database driven systems via amalgamation,2013,4694B652
+785DBE58,Deciding properties of transactional schemas,deciding properties of transactional schemas,1985,4694B652
+7FB53CE3,Logic programming with sets,logic programming with sets,1987,4694B652
+86350FDA,Proceedings of the eleventh ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the eleventh acm sigact sigmod sigart symposium on principles of database systems,1992,4694B652
+787071C4,Non first normal form relations to represent hierarchically organized data,non first normal form relations to represent hierarchically organized data,1984,4694B652
+7AE720E7,Negation and minimality in non-horn databases,negation and minimality in non horn databases,1993,4694B652
+5D1D799E,Proceedings of the eighth ACM SIGACT-SIGMOD-SIGART symposium on Principles of database systems,proceedings of the eighth acm sigact sigmod sigart symposium on principles of database systems,1989,4694B652
+77FD595B,Tracking join and self-join sizes in limited storage,tracking join and self join sizes in limited storage,1999,4694B652
+7CC8769E,A trichotomy for regular simple path queries on graphs,a trichotomy for regular simple path queries on graphs,2013,4694B652
+7F3568A0,Optimal aggregation algorithms for middleware,optimal aggregation algorithms for middleware,2001,4694B652
+7C44A5FA,Storage mappings for multidimensional linear dynamic hashing,storage mappings for multidimensional linear dynamic hashing,1983,4694B652
+7AC6033F,Window query-optimal clustering of spatial objects,window query optimal clustering of spatial objects,1995,4694B652
+79D8CA18,Formal data base specification: an eclectic perspective,formal data base specification an eclectic perspective,1984,4694B652
+7A67B896,Non-linear prefixes in query languages,non linear prefixes in query languages,2007,4694B652
+7A10148E,Operation specific locking in B-trees,operation specific locking in b trees,1987,4694B652
+78118E04,Optimization of multiple-relation multiple-disjunct queries,optimization of multiple relation multiple disjunct queries,1988,4694B652
+781D3F07,Deterministic k-set structure,deterministic k set structure,2006,4694B652
+7AC0B627,Database metatheory: asking the big queries,database metatheory asking the big queries,1995,4694B652
+791BDC04,Every logic program has a natural stratification and an iterated least fixed point model,every logic program has a natural stratification and an iterated least fixed point model,1989,4694B652
+7B347931,Efficiently sequencing tape-resident jobs,efficiently sequencing tape resident jobs,1999,4694B652
+7A2168A6,Path expressions in databases,path expressions in databases,1983,4694B652
+5E97973C,Semantics and Expressiveness Issues in Active Databases,semantics and expressiveness issues in active databases,1995,4694B652

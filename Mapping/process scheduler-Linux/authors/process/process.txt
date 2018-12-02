@@ -1,0 +1,19 @@
+to see how it works:
+head Authors.txt > authors-sample.txt
+make sml file based on that
+
+g++ authorETL.cpp -o authorETL
+./authorETL Authors-sample0.out
+
+
+for real work:
+./splitByline Authors.txt 100000
+
+create etl file processor then
+g++ authorETL.cpp -o authorETL
+
+run the scheduler which runs both etl and gives it output to sparqlify-csv
+
+from 0 to 9
+make screens and run them
+./Mapperscheduler0.sh

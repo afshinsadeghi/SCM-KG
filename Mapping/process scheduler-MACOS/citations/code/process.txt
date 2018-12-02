@@ -1,0 +1,7 @@
+head conferences.txt > conf-sample.txt
+make sml file based on that
+
+
+sparqlify-csv  -c cite.sml -f paperId-selected.txt > paperId-selected.ttl
+
+run the scheduler which runs bot etl and gives it output to sparqlify-csv

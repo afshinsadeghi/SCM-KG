@@ -1,0 +1,7 @@
+for one file:
+
+ ./paperETL Paper.sample.out
+
+sparqlify-csv -c papers.sml -f Paper.sample.out.etl > paper-sample.ttl
+
+for bach oricess run the sh files in parallel

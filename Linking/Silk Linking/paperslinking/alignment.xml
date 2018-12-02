@@ -1,0 +1,1972 @@
+<rdf:RDF xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#">
+  <Alignment>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/056C5531"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BoiaMF14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D387472"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiuFX06"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7A327038"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/NguyenHHTK14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E17F03B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiSZ08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/61915CAE"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Guy14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3E4FB981"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OrtnerMWK15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/1088C6F8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MatsuoI03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0420A099"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SpirinK13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7ED20521"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YesiladaHGS04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E387474"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/FengHK06"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7671AFAF"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MontagnuoloM12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/40909B56"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RummeleIW15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/01953A3B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/XiaALDL14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/80C6AFE5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/NarayanWPR04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09869185"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HuangCO01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/81646B46"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AraseXDHN09"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E280B44"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LuoTYW07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/71B26FCD"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DasENR15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/01EC6FAC"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PuchaD03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7ECFB81A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WangT06"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7AFDC61D"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/XuLL12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/04B3B352"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OuyangCS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/4155AEB5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BabaTSSKKN15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00A17526"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhangSM03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7DA6B6F0"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MatsumuraGL05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/79B92D12"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DevooghtMKBJS14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0469D2E7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AndreoliniCN03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7A1BDAAE"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LakkarajuA12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E9FB9C5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SumiT05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07CC3775"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZienMTL01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00ECC332"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/NelkenASNS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7B0E72EB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BouklitM05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/687A0AE5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Murray-RustTHG15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0057E537"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MouradMNPPY01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/80912965"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RajanYGR10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/01764FB7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Quentin-BaxterM01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/77E3BE8B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Sarukkai05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0676FAC4"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Pahl01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00F78BA7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MartinE01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/01D40BD1"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Assini01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0C32B846"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YooPPLPYK14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/76012E68"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SilvaOMSMMG05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D6E9962"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YuCIS08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/095B8206"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PastorFTP04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7DD17B61"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhelevaGRM10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7FDEB179"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/CardoneST05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0E344D8F"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/NevileB03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D5BA1DB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Myung13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7F1D18C1"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhangAA07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/011A63F6"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Koo01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/05678EBC"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LinGR14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0E89410E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MengLKHLC03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/06A738D8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BodnarS13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/08403F99"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Roffel13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07288E42"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KumarGJ01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/090D2DF5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BoavidaSSC03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/014BB488"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Nixon13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7B6562D9"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AntoniadesPKAIMK11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7BF70466"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HorrocksP03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/084D7FF0"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RonzanoMT08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07F560AA"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RazaS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0625C199"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LimPLCDG03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/770AB258"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PoundMZ10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/80D1EAAC"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Milic-FraylingJRSBS04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/070A2711"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BarazanjiB14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0512F157"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AbascalAGT03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/76E8310A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KalantariHW04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/75816865"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/GulhaneRST10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/40C369B1"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KoSK15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/83496438"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/VermaMRAKJD14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3EFAAC9E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Lin15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5AD80115"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Chang01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0B9B05CB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/McIver03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/097C9745"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OyamaT03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7EB28BD1"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Amer-YahiaBS04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/13B462AB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Bar-Ilan01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E90F00A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DasDGR07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/078E2716"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChinenyangaK01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/036B02B2"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OomenTH13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/77431444"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YamamotoNT10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7FA4A598"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AlzoubiRS13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/812BD30B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WuQHSQSBC09"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7ED493A3"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YinCHZH11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7F7A5F5A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MiliarakiKK08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7B58304A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KazhamiakinPS06"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5A009899"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RaoCCC01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09D3C301"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Chang03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/81712568"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HatalaREW04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/030347FC"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Banerjee03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5C364162"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChenSYZ03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/40327F77"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/JiQXZZG15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/770CF752"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Baeza-Yates11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0119F1D0"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/VdovjakBHF03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7F5B1BDD"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HarneyD08a"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E22E542"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/JiangT06a"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09DEBCD7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MejovaBLG13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/38B760F8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ParsonsASW15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/02D4CF2A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/NakajimaOTK01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7B3475B8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YaoYSL08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D2900B0"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/VolkovichK11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0B0ECFB9"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LaskeyL01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/816920C6"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SuenHESL13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7CF0689B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiGZ08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00AA9E59"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Nixon13a"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/75B8ECE8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RadB11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/79DCA026"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WangZCWC10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/03D41991"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KoSESSLJ14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7832B67A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChauPWF07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7CFEF6C9"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DeutchGKM12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E413213"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/CarvalhoM13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/05109138"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiuC03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07FAF201"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AjmeraANVCDD13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0499D194"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HuynhQK03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D1F2B8B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MetwallyAA07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00E0882B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Balabine03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/02109148"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Parundekar14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/417CA64C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/McCreadieKKKMSO15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0059C3DC"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Leskovec13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/013A2107"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhangTQ13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/08B6BF9C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LauWMYK14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/792C8016"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KritikosP12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/767DA9CF"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/EpastoFLLM14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0067D2CE"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RachapalliKKT13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/755B02BD"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WangGHWZ07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/80A554D7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DiazII05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0763786B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OldenettelM03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/79AB9810"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WoodBHHM05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/59F389CB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PanzieraP13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/037ED0C7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BoldiCSV01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00357C8E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YangCW03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7EAB4E72"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiuY07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D7623A4"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YangSZM12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7CEF665A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WongLS07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/816326DC"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RadevFQWG02"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/057B5045"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RouviereE13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D522A9D"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Zhang08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/1442786E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ApplingBH15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D1EF9EF"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BayirTCF09"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/80766260"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BalogR06"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/006C487F"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HyvonenHV04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0C14BF1C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PlessersT04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/732DA659"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZengBLL15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5AAE539D"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MukherjeeAJ14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07783FA2"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiH03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/03979A0A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Gonzalez-CastanoAVACC01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3F649E4D"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Yuan15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/026FE547"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Milic-FraylingSRB03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0109747C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Suzuki01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5AFAEF99"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChakrabartiP15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/76000D07"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Lansdall-WelfareLC12"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7DA0D612"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RenYWZM10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/06446C7B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KontokostasWAHLC14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/05C2432F"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SafonovKC01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/777DBE10"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WarnerDRG06"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/75B08226"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SchojerBHPP03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D04F31E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WangBKM10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0ACECE77"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KashyapS01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/06BD8A60"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiHS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3E552030"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Anderson15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0A6CC239"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LinMKL13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/099A04EB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Anido-RifonAF01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D958678"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OroumchianDTA04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7EF2E3A5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChoiKJKSKL05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7EE66F6E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DasdanDK09"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00479075"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PuninKZ01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/03853A95"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KimPS13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0868079C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/IijimaILR03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/01FDA162"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/UmbrichGHKP13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7B12A1EB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YinL04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E6B37C8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ErmanMAW07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/02DE5822"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BroekstraFKHSBSWM04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/022090B9"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KogiasA03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5FC07006"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/TwarochJA08a"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/04226658"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Swen03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0A3FA4FA"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ImranCLMV14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7EEA7369"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MeiLWSZ07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/82F257D2"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/CooperLRS14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/583251F9"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/JianjunSHHK07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/768F76CD"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SchraefelZMWZ02"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/78604E25"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WeningerHH10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/028C976E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiXWCAJ14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E2C7EE6"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WangLZ10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/074598C4"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Qu03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/759A711F"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/DattaYV11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/77F27761"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Tambag04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09A04444"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChanLC14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/032F8048"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BrownHH14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7A843168"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OssenbruggenGCHR01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E3B0979"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Even-DarMMMN09"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/06B9AD31"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KammanahalliGS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00FF5932"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/TroyerPC03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/059224DF"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KhalafMW03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E2D829A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HelicMS04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09E957D3"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MartelliCS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/06DBFA39"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Kiss03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7E0F8D94"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/GummadiKKSK11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3EAF2D6E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiuAZ15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D5C3B4C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/MishraRGLC11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/10A77F69"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhaoB03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3F04AD58"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BrambillaC0V15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/5AB9E2D8"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChenXMZZF03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07DD0CCF"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ManolescuCBFC03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/049D41AB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BrylB14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/042907CD"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Mandl03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/76269DA1"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HeX11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0878B56A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/OrsiniP01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0903CBA3"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RazekFK03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D49017D"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WangXWLM05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7F754C6C"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/GilesSC10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/003F0985"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KanovskyM03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7EE9CC17"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AdamicZBA08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/017F3203"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SohLC13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07A65D4B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChapmanB01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/59B2DE52"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KimLH08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/762D46A4"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BekkermanM05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/04BAA2CD"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiCHALHAY01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/01C325B3"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Butakov14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/064A8054"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZoiMK03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D34CED4"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/XuLL04"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/76EA4F60"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YaoJSFZL11"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D445D65"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/JankowskiK08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/81009D1A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/PetropoulosVP01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7BEAFF88"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/QuintA05"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7FBB8159"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/TangSSP07"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/6A4E589D"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/RaghaviCS15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07C7EBC9"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Aggarwal13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7CE96132"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/HsuH09"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7DCCE118"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/XieSJZ08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09CF4A92"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SingerNSH13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7D9F4E47"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/WuYCJFMWTZ08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/07963A87"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Milic-FraylingSS03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/036185F0"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/SpirinEDJBK14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/79F384D7"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiCVA01"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/812C87C5"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/LiYRLD10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/752F3248"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/YangMLLS14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/09192EC4"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/AlamRT03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7B82D34B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChenJWCLN08"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/008D480B"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhugeL03"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0BADBF81"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ChenXZZ13"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/76BF1808"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/BensonMHK10"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/000BD259"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/Xu14"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/3EE26463"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/ItoSTKO15"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/7777447A"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/KraftCMK06"/>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/00DAB78E"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/CamineroZM06"/>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0DB3C2BA"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/2016"/>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="https://w3id.org/skg/articles/0F49B3DB"/>
+        <entity2 rdf:resource="http://dblp.l3s.de/d2r/resource/publications/conf/www/2016c"/>
+        <relation>!=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+  </Alignment>
+</rdf:RDF>

@@ -1,0 +1,49 @@
+<Interlink id="paperslinking">
+        <SourceDataset dataSource="mswwwdump" var="a" typeUri="https://w3id.org/skg#article">
+        <RestrictTo>
+          
+        </RestrictTo>
+      </SourceDataset>
+        <TargetDataset dataSource="dblpwwwdump" var="b" typeUri="http://xmlns.com/foaf/0.1/Document">
+        <RestrictTo>
+          
+        </RestrictTo>
+      </TargetDataset>
+        <LinkageRule linkType="&lt;http://www.w3.org/2002/07/owl#sameAs&gt;">
+        <Aggregate id="average1" required="false" weight="1" type="average">
+            <Compare id="jaccard1" required="false" weight="5" metric="jaccard" threshold="0.5" indexing="true">
+            <TransformInput id="tokenize1" function="tokenize">
+            <TransformInput id="lowerCase1" function="lowerCase">
+            <TransformInput id="removeSpecialChars1" function="removeSpecialChars">
+            <Input id="sourcePath1" path="/&lt;http://xmlns.com/foaf/0.1/name&gt;"/>
+            
+          </TransformInput>
+            
+          </TransformInput>
+            <Param name="regex" value="\s"/>
+          </TransformInput><TransformInput id="tokenize2" function="tokenize">
+            <TransformInput id="lowerCase2" function="lowerCase">
+            <TransformInput id="removeSpecialChars2" function="removeSpecialChars">
+            <TransformInput id="untilCharacter2" function="untilCharacter">
+            <Input id="targetPath1" path="/&lt;http://purl.org/dc/elements/1.1/title&gt;"/>
+            <Param name="untilCharacter" value=","/>
+          </TransformInput>
+            
+          </TransformInput>
+            
+          </TransformInput>
+            <Param name="regex" value="\s"/>
+          </TransformInput>
+          </Compare><Compare id="levenshteinDistance1" required="false" weight="1" metric="levenshteinDistance" threshold="0.0" indexing="true">
+            <Input id="sourcePath5" path="/&lt;http://purl.org/dc/terms/issued&gt;"/><TransformInput id="untilCharacter1" function="untilCharacter">
+            <Input id="targetPath6" path="/&lt;http://purl.org/dc/terms/issued&gt;"/>
+            <Param name="untilCharacter" value="^"/>
+          </TransformInput><Param name="minChar" value="0"/><Param name="maxChar" value="z"/>
+          </Compare>
+          </Aggregate>
+        <Filter/>
+      </LinkageRule>
+        <Outputs>
+          <Output id="linkedPapersOutPut"></Output>
+        </Outputs>
+      </Interlink>

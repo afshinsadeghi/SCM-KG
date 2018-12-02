@@ -1,0 +1,95 @@
+<https://w3id.org/skg/conferences/460A7036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/460A7036> <http://purl.org/dc/elements/1.1/title> "International Conference on Management of Data" .
+<https://w3id.org/skg/conferences/460A7036> <http://purl.org/dc/terms/Identifier> "460A7036" .
+<https://w3id.org/skg/conferences/460A7036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/460A7036> <http://www.w3.org/2000/01/rdf-schema#label> "SIGMOD" .
+<https://w3id.org/skg/conferences/4390334E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/4390334E> <http://purl.org/dc/terms/Identifier> "4390334E" .
+<https://w3id.org/skg/conferences/4390334E> <http://purl.org/dc/elements/1.1/title> "Very Large Data Bases" .
+<https://w3id.org/skg/conferences/4390334E> <http://www.w3.org/2000/01/rdf-schema#label> "VLDB" .
+<https://w3id.org/skg/conferences/4390334E> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/4694B652> <http://purl.org/dc/terms/Identifier> "4694B652" .
+<https://w3id.org/skg/conferences/4694B652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/4694B652> <http://purl.org/dc/elements/1.1/title> "Symposium on Principles of Database Systems" .
+<https://w3id.org/skg/conferences/4694B652> <http://www.w3.org/2000/01/rdf-schema#label> "PODS" .
+<https://w3id.org/skg/conferences/4694B652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/45610CDA> <http://purl.org/dc/elements/1.1/title> "International Conference on Data Engineering" .
+<https://w3id.org/skg/conferences/45610CDA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/45610CDA> <http://purl.org/dc/terms/Identifier> "45610CDA" .
+<https://w3id.org/skg/conferences/45610CDA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/45610CDA> <http://www.w3.org/2000/01/rdf-schema#label> "ICDE" .
+<https://w3id.org/skg/conferences/4574D9D2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/4574D9D2> <http://www.w3.org/2000/01/rdf-schema#label> "ICDT" .
+<https://w3id.org/skg/conferences/4574D9D2> <http://purl.org/dc/elements/1.1/title> "International Conference on Database Theory" .
+<https://w3id.org/skg/conferences/4574D9D2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/4574D9D2> <http://purl.org/dc/terms/Identifier> "4574D9D2" .
+<https://w3id.org/skg/conferences/436976F3> <http://purl.org/dc/terms/Identifier> "436976F3" .
+<https://w3id.org/skg/conferences/436976F3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/436976F3> <http://www.w3.org/2000/01/rdf-schema#label> "KDD" .
+<https://w3id.org/skg/conferences/436976F3> <http://purl.org/dc/elements/1.1/title> "Knowledge Discovery and Data Mining" .
+<https://w3id.org/skg/conferences/436976F3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/468A7487> <http://purl.org/dc/terms/Identifier> "468A7487" .
+<https://w3id.org/skg/conferences/468A7487> <http://purl.org/dc/elements/1.1/title> "International Conference on Data Mining" .
+<https://w3id.org/skg/conferences/468A7487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/468A7487> <http://www.w3.org/2000/01/rdf-schema#label> "ICDM" .
+<https://w3id.org/skg/conferences/468A7487> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/472C6E2D> <http://purl.org/dc/terms/Identifier> "472C6E2D" .
+<https://w3id.org/skg/conferences/472C6E2D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/472C6E2D> <http://www.w3.org/2000/01/rdf-schema#label> "CIKM" .
+<https://w3id.org/skg/conferences/472C6E2D> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/472C6E2D> <http://purl.org/dc/elements/1.1/title> "Conference on Information and Knowledge Management" .
+<https://w3id.org/skg/conferences/463BD859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/463BD859> <http://purl.org/dc/terms/Identifier> "463BD859" .
+<https://w3id.org/skg/conferences/463BD859> <http://purl.org/dc/elements/1.1/title> "Pacific-Asia Conference on Knowledge Discovery and Data Mining" .
+<https://w3id.org/skg/conferences/463BD859> <http://www.w3.org/2000/01/rdf-schema#label> "PAKDD" .
+<https://w3id.org/skg/conferences/463BD859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/440E04A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/440E04A9> <http://www.w3.org/2000/01/rdf-schema#label> "PKDD" .
+<https://w3id.org/skg/conferences/440E04A9> <http://purl.org/dc/terms/Identifier> "440E04A9" .
+<https://w3id.org/skg/conferences/440E04A9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/440E04A9> <http://purl.org/dc/elements/1.1/title> "European Conference on Principles of Data Mining and Knowledge Discovery" .
+<https://w3id.org/skg/conferences/45FB3662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/45FB3662> <http://purl.org/dc/elements/1.1/title> "Architectural Support for Programming Languages and Operating Systems" .
+<https://w3id.org/skg/conferences/45FB3662> <http://www.w3.org/2000/01/rdf-schema#label> "ASPLOS" .
+<https://w3id.org/skg/conferences/45FB3662> <http://purl.org/dc/terms/Identifier> "45FB3662" .
+<https://w3id.org/skg/conferences/45FB3662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/436EE6FE> <http://www.w3.org/2000/01/rdf-schema#label> "ISCA" .
+<https://w3id.org/skg/conferences/436EE6FE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/436EE6FE> <http://purl.org/dc/terms/Identifier> "436EE6FE" .
+<https://w3id.org/skg/conferences/436EE6FE> <http://purl.org/dc/elements/1.1/title> "International Symposium on Computer Architecture" .
+<https://w3id.org/skg/conferences/436EE6FE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/46CDFBC4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/46CDFBC4> <http://purl.org/dc/elements/1.1/title> "Design Automation Conference" .
+<https://w3id.org/skg/conferences/46CDFBC4> <http://www.w3.org/2000/01/rdf-schema#label> "DAC" .
+<https://w3id.org/skg/conferences/46CDFBC4> <http://purl.org/dc/terms/Identifier> "46CDFBC4" .
+<https://w3id.org/skg/conferences/46CDFBC4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/4499A295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/4499A295> <http://purl.org/dc/terms/Identifier> "4499A295" .
+<https://w3id.org/skg/conferences/4499A295> <http://www.w3.org/2000/01/rdf-schema#label> "MICRO" .
+<https://w3id.org/skg/conferences/4499A295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/4499A295> <http://purl.org/dc/elements/1.1/title> "International Symposium on Microarchitecture" .
+<https://w3id.org/skg/conferences/433DEF3A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/433DEF3A> <http://purl.org/dc/elements/1.1/title> "International Conference on Computer Aided Design" .
+<https://w3id.org/skg/conferences/433DEF3A> <http://www.w3.org/2000/01/rdf-schema#label> "ICCAD" .
+<https://w3id.org/skg/conferences/433DEF3A> <http://purl.org/dc/terms/Identifier> "433DEF3A" .
+<https://w3id.org/skg/conferences/433DEF3A> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/43226B44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/43226B44> <http://www.w3.org/2000/01/rdf-schema#label> "HPCA" .
+<https://w3id.org/skg/conferences/43226B44> <http://purl.org/dc/terms/Identifier> "43226B44" .
+<https://w3id.org/skg/conferences/43226B44> <http://purl.org/dc/elements/1.1/title> "High-Performance Computer Architecture" .
+<https://w3id.org/skg/conferences/43226B44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/42CCF5DE> <http://www.w3.org/2000/01/rdf-schema#label> "ISLPED" .
+<https://w3id.org/skg/conferences/42CCF5DE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/42CCF5DE> <http://purl.org/dc/elements/1.1/title> "International Symposium on Low Power Electronics and Design" .
+<https://w3id.org/skg/conferences/42CCF5DE> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/42CCF5DE> <http://purl.org/dc/terms/Identifier> "42CCF5DE" .
+<https://w3id.org/skg/conferences/463BE6FF> <http://purl.org/dc/elements/1.1/title> "Design" .
+<https://w3id.org/skg/conferences/463BE6FF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/463BE6FF> <http://www.w3.org/2000/01/rdf-schema#label> "DATE" .
+<https://w3id.org/skg/conferences/463BE6FF> <http://purl.org/dc/terms/Identifier> "463BE6FF" .
+<https://w3id.org/skg/conferences/463BE6FF> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/4300CAC5> <http://www.w3.org/2000/01/rdf-schema#label> "VTS" .
+<https://w3id.org/skg/conferences/4300CAC5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/4300CAC5> <http://purl.org/dc/terms/Identifier> "4300CAC5" .
+<https://w3id.org/skg/conferences/4300CAC5> <http://purl.org/dc/elements/1.1/title> "VLSI Test Symposium" .
+<https://w3id.org/skg/conferences/4300CAC5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .

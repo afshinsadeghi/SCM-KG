@@ -1,0 +1,70 @@
+<https://w3id.org/skg/articles/18CFC451> <http://xmlns.com/foaf/0.1/name> "LA-002 ���������������������������������������������������������������������������������������(A. ������������������������������������������������������)" .
+<https://w3id.org/skg/articles/18CFC451> <http://www.w3.org/2000/01/rdf-schema#label> "la 002 ��������������������������������������������������������������������������������������� a ��������� ������������������ ���������������������" .
+<https://w3id.org/skg/articles/18CFC451> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/18CFC451> <http://purl.org/dc/terms/issued> "2004" .
+<https://w3id.org/skg/articles/18CFC451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/18CFC451> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/18CFC451> <http://purl.org/dc/terms/Identifier> "18CFC451" .
+<https://w3id.org/skg/articles/5DEA59C4> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/5DEA59C4> <http://purl.org/dc/terms/issued> "1987" .
+<https://w3id.org/skg/articles/5DEA59C4> <http://xmlns.com/foaf/0.1/name> "Atlas of wide-field-of-view outgoing longwave radiation derived from Nimbus 7 Earth radiation budget data set - November 1978 to October 1985" .
+<https://w3id.org/skg/articles/5DEA59C4> <http://purl.org/dc/terms/Identifier> "5DEA59C4" .
+<https://w3id.org/skg/articles/5DEA59C4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/5DEA59C4> <http://www.w3.org/2000/01/rdf-schema#label> "atlas of wide field of view outgoing longwave radiation derived from nimbus 7 earth radiation budget data set november 1978 to october 1985" .
+<https://w3id.org/skg/articles/5DEA59C4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/79495E92> <http://xmlns.com/foaf/0.1/name> "Book Review: Goede Nabuurschap? De waterverdragen tussen Belgie en Nederland 1960-2002" .
+<https://w3id.org/skg/articles/79495E92> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/79495E92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/79495E92> <http://www.w3.org/2000/01/rdf-schema#label> "book review goede nabuurschap de waterverdragen tussen belgie en nederland 1960 2002" .
+<https://w3id.org/skg/articles/79495E92> <http://purl.org/dc/terms/Identifier> "79495E92" .
+<https://w3id.org/skg/articles/79495E92> <http://purl.org/dc/terms/issued> "2004" .
+<https://w3id.org/skg/articles/79495E92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/10FF1383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/10FF1383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/10FF1383> <http://xmlns.com/foaf/0.1/name> "Wright's Veterinary Anaesthesia and Analgesia. 6th Edition." .
+<https://w3id.org/skg/articles/10FF1383> <http://purl.org/dc/terms/issued> "1967" .
+<https://w3id.org/skg/articles/10FF1383> <http://purl.org/dc/terms/Identifier> "10FF1383" .
+<https://w3id.org/skg/articles/10FF1383> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/10FF1383> <http://www.w3.org/2000/01/rdf-schema#label> "wright s veterinary anaesthesia and analgesia 6th edition" .
+<https://w3id.org/skg/articles/3169BB34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/3169BB34> <http://purl.org/dc/terms/issued> "1993" .
+<https://w3id.org/skg/articles/3169BB34> <http://www.w3.org/2000/01/rdf-schema#label> "an efficient image recovery algorithm for diffraction tomography systems" .
+<https://w3id.org/skg/articles/3169BB34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/3169BB34> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/3169BB34> <http://purl.org/dc/terms/Identifier> "3169BB34" .
+<https://w3id.org/skg/articles/3169BB34> <http://xmlns.com/foaf/0.1/name> "An Efficient Image Recovery Algorithm for Diffraction Tomography Systems" .
+<https://w3id.org/skg/articles/0187D4F0> <http://purl.org/dc/terms/Identifier> "0187D4F0" .
+<https://w3id.org/skg/articles/0187D4F0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/0187D4F0> <http://www.w3.org/2000/01/rdf-schema#label> "une carte conceptuelle presentant le passage au numerique des entreprises" .
+<https://w3id.org/skg/articles/0187D4F0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/0187D4F0> <http://xmlns.com/foaf/0.1/name> "Une carte conceptuelle pr��sentant le passage au num��rique des entreprises" .
+<https://w3id.org/skg/articles/0187D4F0> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/0187D4F0> <http://purl.org/dc/terms/issued> "2012" .
+<https://w3id.org/skg/articles/5B608C70> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/2009> .
+<https://w3id.org/skg/articles/5B608C70> <http://www.w3.org/2000/01/rdf-schema#label> " narrated and clustered" .
+<https://w3id.org/skg/articles/5B608C70> <http://xmlns.com/foaf/0.1/name> "The West: contested" .
+<https://w3id.org/skg/articles/5B608C70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/5B608C70> <http://purl.org/dc/terms/Identifier> "5B608C70" .
+<https://w3id.org/skg/articles/5B608C70> <http://purl.org/dc/terms/issued> "the west contested narrated and clustered" .
+<https://w3id.org/skg/articles/5B608C70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/04DAB782> <http://www.w3.org/2000/01/rdf-schema#label> "������ ������������ ������������������������ ��������������� ���������������������������������������" .
+<https://w3id.org/skg/articles/04DAB782> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/04DAB782> <http://purl.org/dc/terms/issued> "2013" .
+<https://w3id.org/skg/articles/04DAB782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/04DAB782> <http://xmlns.com/foaf/0.1/name> "������ ������������.��������������������������� : ��������������� ������������������������������������������" .
+<https://w3id.org/skg/articles/04DAB782> <http://purl.org/dc/terms/Identifier> "04DAB782" .
+<https://w3id.org/skg/articles/04DAB782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/10FF1496> <http://www.w3.org/2000/01/rdf-schema#label> "active pump toothbrush" .
+<https://w3id.org/skg/articles/10FF1496> <http://xmlns.com/foaf/0.1/name> "Active Pump Toothbrush" .
+<https://w3id.org/skg/articles/10FF1496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/10FF1496> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/10FF1496> <http://purl.org/dc/terms/issued> "2007" .
+<https://w3id.org/skg/articles/10FF1496> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/10FF1496> <http://purl.org/dc/terms/Identifier> "10FF1496" .
+<https://w3id.org/skg/articles/17BF8254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#article> .
+<https://w3id.org/skg/articles/17BF8254> <http://purl.org/dc/terms/Identifier> "17BF8254" .
+<https://w3id.org/skg/articles/17BF8254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#article> .
+<https://w3id.org/skg/articles/17BF8254> <http://xmlns.com/foaf/0.1/name> "Generating History: Violence and the Risks of Remembering for Families of Former Political Prisoners in Post-New Order Indonesia." .
+<https://w3id.org/skg/articles/17BF8254> <http://purl.org/dc/terms/partOf> <https://w3id.org/skg/conferences/> .
+<https://w3id.org/skg/articles/17BF8254> <http://purl.org/dc/terms/issued> "2012" .
+<https://w3id.org/skg/articles/17BF8254> <http://www.w3.org/2000/01/rdf-schema#label> "generating history violence and the risks of remembering for families of former political prisoners in post new order indonesia" .

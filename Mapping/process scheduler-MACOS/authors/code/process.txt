@@ -1,0 +1,7 @@
+head conferences.txt > conf-sample.txt
+make sml file based on that
+
+created etl file processor then
+g++ confETL.cpp -o confETL
+
+run the scheduler which runs bot etl and gives it output to sparqlify-csv

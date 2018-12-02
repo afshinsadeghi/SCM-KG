@@ -1,0 +1,60 @@
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/75421677> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/76381EFA> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Effat University" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/8084BB24> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Effat University" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/801D26C9> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "College of Business" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/716E3093> .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/832818A2> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "College of Business" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/8389DBD7> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/10C312AC> .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/01ECE998> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Computer Science Department Effat University Jeddah" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/79FAFDC6> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/01ECE998> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/7CC65FB3> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Computer Science Department" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/01ECE998> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/7ACA75B3> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Department of Computer Science" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/01ECE998> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/7B625006> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Computer Science Department" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/01ECE998> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Effat University" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/801D26C9> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#authorAffiliation> <http://w3id.org/skg/authors/01ECE998> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#affiliation> .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://www.w3.org/2000/01/rdf-schema#label> "effat university" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/elements/1.1/title> "Effat University" .
+<https://w3id.org/skg/affiliations/077D5E0F> <http://purl.org/dc/terms/Identifier> "077D5E0F" .
+<https://w3id.org/skg/affiliations/077D5E0F> <https://w3id.org/skg#articleAffiliation> <https://w3id.org/skg/articles/5AEDE719> .

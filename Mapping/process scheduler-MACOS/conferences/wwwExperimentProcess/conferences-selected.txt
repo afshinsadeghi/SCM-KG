@@ -1,0 +1,19 @@
+460A7036,SIGMOD,International Conference on Management of Data
+4390334E,VLDB,Very Large Data Bases
+4694B652,PODS,Symposium on Principles of Database Systems
+45610CDA,ICDE,International Conference on Data Engineering
+4574D9D2,ICDT,International Conference on Database Theory
+436976F3,KDD,Knowledge Discovery and Data Mining
+468A7487,ICDM,International Conference on Data Mining
+472C6E2D,CIKM,Conference on Information and Knowledge Management
+463BD859,PAKDD,Pacific-Asia Conference on Knowledge Discovery and Data Mining
+440E04A9,PKDD,European Conference on Principles of Data Mining and Knowledge Discovery
+45FB3662,ASPLOS,Architectural Support for Programming Languages and Operating Systems
+436EE6FE,ISCA,International Symposium on Computer Architecture
+46CDFBC4,DAC,Design Automation Conference
+4499A295,MICRO,International Symposium on Microarchitecture
+433DEF3A,ICCAD,International Conference on Computer Aided Design
+43226B44,HPCA,High-Performance Computer Architecture
+42CCF5DE,ISLPED,International Symposium on Low Power Electronics and Design
+463BE6FF,DATE,Design, Automation, and Test in Europe
+4300CAC5,VTS,VLSI Test Symposium

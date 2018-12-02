@@ -1,0 +1,40 @@
+<https://w3id.org/skg/authors/00001F05> <http://purl.org/dc/terms/Identifier> "00001F05" .
+<https://w3id.org/skg/authors/00001F05> <http://xmlns.com/foaf/0.1/name> "nancy praill" .
+<https://w3id.org/skg/authors/00001F05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/00001F05> <http://www.w3.org/2000/01/rdf-schema#label> "nancy praill" .
+<https://w3id.org/skg/authors/000025C5> <http://www.w3.org/2000/01/rdf-schema#label> "david banitt" .
+<https://w3id.org/skg/authors/000025C5> <http://purl.org/dc/terms/Identifier> "000025C5" .
+<https://w3id.org/skg/authors/000025C5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/000025C5> <http://xmlns.com/foaf/0.1/name> "david banitt" .
+<https://w3id.org/skg/authors/00002AD3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/00002AD3> <http://xmlns.com/foaf/0.1/name> "david s rebergen" .
+<https://w3id.org/skg/authors/00002AD3> <http://purl.org/dc/terms/Identifier> "00002AD3" .
+<https://w3id.org/skg/authors/00002AD3> <http://www.w3.org/2000/01/rdf-schema#label> "david s rebergen" .
+<https://w3id.org/skg/authors/000038C0> <http://xmlns.com/foaf/0.1/name> "������ ������" .
+<https://w3id.org/skg/authors/000038C0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/000038C0> <http://purl.org/dc/terms/Identifier> "000038C0" .
+<https://w3id.org/skg/authors/000038C0> <http://www.w3.org/2000/01/rdf-schema#label> "������ ������" .
+<https://w3id.org/skg/authors/000060E7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/000060E7> <http://xmlns.com/foaf/0.1/name> "francesco saverio intorcia" .
+<https://w3id.org/skg/authors/000060E7> <http://purl.org/dc/terms/Identifier> "000060E7" .
+<https://w3id.org/skg/authors/000060E7> <http://www.w3.org/2000/01/rdf-schema#label> "francesco saverio intorcia" .
+<https://w3id.org/skg/authors/00006A31> <http://www.w3.org/2000/01/rdf-schema#label> "b zelazowska" .
+<https://w3id.org/skg/authors/00006A31> <http://xmlns.com/foaf/0.1/name> "b zelazowska" .
+<https://w3id.org/skg/authors/00006A31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/00006A31> <http://purl.org/dc/terms/Identifier> "00006A31" .
+<https://w3id.org/skg/authors/00009F6B> <http://xmlns.com/foaf/0.1/name> "bo glimskar" .
+<https://w3id.org/skg/authors/00009F6B> <http://purl.org/dc/terms/Identifier> "00009F6B" .
+<https://w3id.org/skg/authors/00009F6B> <http://www.w3.org/2000/01/rdf-schema#label> "bo glimskar" .
+<https://w3id.org/skg/authors/00009F6B> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/0000B5FA> <http://xmlns.com/foaf/0.1/name> "lars goerigk" .
+<https://w3id.org/skg/authors/0000B5FA> <http://www.w3.org/2000/01/rdf-schema#label> "lars goerigk" .
+<https://w3id.org/skg/authors/0000B5FA> <http://purl.org/dc/terms/Identifier> "0000B5FA" .
+<https://w3id.org/skg/authors/0000B5FA> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/0000D3AB> <http://xmlns.com/foaf/0.1/name> "default admin user" .
+<https://w3id.org/skg/authors/0000D3AB> <http://purl.org/dc/terms/Identifier> "0000D3AB" .
+<https://w3id.org/skg/authors/0000D3AB> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/0000D3AB> <http://www.w3.org/2000/01/rdf-schema#label> "default admin user" .
+<https://w3id.org/skg/authors/0000DF94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#author> .
+<https://w3id.org/skg/authors/0000DF94> <http://www.w3.org/2000/01/rdf-schema#label> "leila medjkoune" .
+<https://w3id.org/skg/authors/0000DF94> <http://purl.org/dc/terms/Identifier> "0000DF94" .
+<https://w3id.org/skg/authors/0000DF94> <http://xmlns.com/foaf/0.1/name> "leila medjkoune" .

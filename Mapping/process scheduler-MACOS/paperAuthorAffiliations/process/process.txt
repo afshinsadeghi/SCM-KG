@@ -1,0 +1,9 @@
+./splitByline PaperAuthorAffiliations.txt 50000
+
+this way each file is less than 1k byte 
+ls *.out | wc -l to see number of files
+ls *.out | wc -l
+5221 was number of out files.
+
+then ./Mapperscheduler0.sh to 9.sh 
+each of them in a screen 

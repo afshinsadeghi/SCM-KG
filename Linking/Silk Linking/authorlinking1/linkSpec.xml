@@ -1,0 +1,52 @@
+<Interlink id="authorlinking1">
+        <SourceDataset dataSource="dblpwwwdump" var="a" typeUri="http://xmlns.com/foaf/0.1/Agent">
+        <RestrictTo>
+          
+        </RestrictTo>
+      </SourceDataset>
+        <TargetDataset dataSource="mswwwdump" var="b" typeUri="https://w3id.org/skg#author">
+        <RestrictTo>
+          
+        </RestrictTo>
+      </TargetDataset>
+        <LinkageRule linkType="&lt;http://www.w3.org/2002/07/owl#sameAs&gt;">
+        <Aggregate id="min1" required="true" weight="1" type="min">
+            <Compare id="jaccard1" required="true" weight="5" metric="jaccard" threshold="0.3" indexing="true">
+            <TransformInput id="tokenize2" function="tokenize">
+            <TransformInput id="removeSpecialChars2" function="removeSpecialChars">
+            <TransformInput id="untilCharacter1" function="untilCharacter">
+            <TransformInput id="lowerCase1" function="lowerCase">
+            <Input id="sourcePath1" path="/&lt;http://xmlns.com/foaf/0.1/name&gt;"/>
+            
+          </TransformInput>
+            <Param name="untilCharacter" value="0"/>
+          </TransformInput>
+            
+          </TransformInput>
+            <Param name="regex" value="\s"/>
+          </TransformInput><TransformInput id="tokenize1" function="tokenize">
+            <TransformInput id="removeSpecialChars" function="removeSpecialChars">
+            <TransformInput id="lowerCase2" function="lowerCase">
+            <Input id="targetPath1" path="/&lt;http://xmlns.com/foaf/0.1/name&gt;"/>
+            
+          </TransformInput>
+            
+          </TransformInput>
+            <Param name="regex" value="\s"/>
+          </TransformInput>
+          </Compare><Compare id="substring1" required="false" weight="1" metric="substring" threshold="0.3" indexing="true">
+            <TransformInput id="tokenize3" function="tokenize">
+            <Input id="sourcePath2" path="/&lt;http://w3id.org/skg/authorLinkedPaperIds&gt;"/>
+            <Param name="regex" value="\s"/>
+          </TransformInput><TransformInput id="tokenize4" function="tokenize">
+            <Input id="targetPath2" path="/&lt;http://w3id.org/skg/authorLinkedPaperIds&gt;"/>
+            <Param name="regex" value="\s"/>
+          </TransformInput><Param name="granularity" value="1"/>
+          </Compare>
+          </Aggregate>
+        <Filter/>
+      </LinkageRule>
+        <Outputs>
+          <Output id="linkedauthorsoutput"></Output>
+        </Outputs>
+      </Interlink>

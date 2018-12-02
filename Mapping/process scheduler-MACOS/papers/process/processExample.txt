@@ -1,0 +1,3 @@
+clang++ papersETL.cpp -o papersETL
+./papersETL PODS-papers.txt
+sparqlify-csv -c papers.sml -f PODS-papers.txt.etl > PODS-papers.txt.ttl

@@ -1,0 +1,5 @@
+<https://w3id.org/skg/conferences/43ABF249> <http://purl.org/dc/terms/Identifier> "43ABF249" .
+<https://w3id.org/skg/conferences/43ABF249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://swrc.ontoware.org/ontology#conference> .
+<https://w3id.org/skg/conferences/43ABF249> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://w3id.org/skg#conference> .
+<https://w3id.org/skg/conferences/43ABF249> <http://www.w3.org/2000/01/rdf-schema#label> "WWW" .
+<https://w3id.org/skg/conferences/43ABF249> <http://purl.org/dc/elements/1.1/title> "International World Wide Web Conferences" .

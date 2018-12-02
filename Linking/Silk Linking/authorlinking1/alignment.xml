@@ -1,0 +1,28 @@
+<rdf:RDF xmlns:align="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://knowledgeweb.semanticweb.org/heterogeneity/alignment#">
+  <Alignment>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://dblp.l3s.de/d2r/resource/authors/Lada_A._Adamic"/>
+        <entity2 rdf:resource="https://w3id.org/skg/authors/86279BC5"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://dblp.l3s.de/d2r/resource/authors/Lada_A._Adamic"/>
+        <entity2 rdf:resource="https://w3id.org/skg/authors/11454D61"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+    <map>
+      <Cell>
+        <entity1 rdf:resource="http://dblp.l3s.de/d2r/resource/authors/Michael_R._Lyu"/>
+        <entity2 rdf:resource="https://w3id.org/skg/authors/84C8AD82"/>
+        <relation>=</relation>
+        <measure rdf:datatype="http://www.w3.org/2001/XMLSchema#float">0.0</measure>
+      </Cell>
+    </map>
+  </Alignment>
+</rdf:RDF>

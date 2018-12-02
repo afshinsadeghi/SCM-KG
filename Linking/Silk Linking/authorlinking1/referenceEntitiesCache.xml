@@ -1,0 +1,293 @@
+<Entities>
+  <Pair>
+    <Source>
+      <EntityDescription>
+        <Type>http://xmlns.com/foaf/0.1/Agent</Type>
+        <Restriction></Restriction>
+        <Paths>
+          <Path>/&lt;http://xmlns.com/foaf/0.1/name&gt;</Path>
+          <Path>/&lt;http://w3id.org/skg/authorsPaperLinkCount&gt;</Path>
+          <Path>/&lt;http://www.w3.org/2000/01/rdf-schema#seeAlso&gt;</Path>
+          <Path>\&lt;http://purl.org/dc/elements/1.1/creator&gt;</Path>
+          <Path>\&lt;http://xmlns.com/foaf/0.1/maker&gt;</Path>
+          <Path>/&lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt;</Path>
+          <Path>/&lt;http://www.w3.org/2000/01/rdf-schema#label&gt;</Path>
+          <Path>/&lt;http://xmlns.com/foaf/0.1/name&gt;</Path>
+          <Path>/&lt;http://w3id.org/skg/authorLinkedPaperIds&gt;</Path>
+          <Path>/&lt;http://w3id.org/skg/authorsPaperLinkCount&gt;</Path>
+          <Path>/&lt;http://xmlns.com/foaf/0.1/homepage&gt;</Path>
+          <Path>\&lt;http://swrc.ontoware.org/ontology#editor&gt;</Path>
+        </Paths>
+      </EntityDescription>
+    </Source>
+    <Target>
+      <EntityDescription>
+        <Type>https://w3id.org/skg#author</Type>
+        <Restriction></Restriction>
+        <Paths>
+          <Path>/&lt;http://xmlns.com/foaf/0.1/name&gt;</Path>
+          <Path>/&lt;http://w3id.org/skg/authorsPaperLinkCount&gt;</Path>
+          <Path>/&lt;http://purl.org/dc/elements/1.1/creator&gt;</Path>
+          <Path>\&lt;http://xmlns.com/foaf/0.1/maker&gt;</Path>
+          <Path>\&lt;https://w3id.org/skg#authorAffiliation&gt;</Path>
+          <Path>/&lt;http://purl.org/dc/terms/Identifier&gt;</Path>
+          <Path>/&lt;http://www.w3.org/1999/02/22-rdf-syntax-ns#type&gt;</Path>
+          <Path>/&lt;http://www.w3.org/2000/01/rdf-schema#label&gt;</Path>
+          <Path>/&lt;http://xmlns.com/foaf/0.1/name&gt;</Path>
+        </Paths>
+      </EntityDescription>
+    </Target>
+  </Pair>
+  <SourceEntities>
+    <Entity uri="http://dblp.l3s.de/d2r/resource/authors/Michael_R._Lyu">
+      <Val>
+        <e>Michael R. Lyu</e>
+      </Val>
+      <Val>
+        <e>9</e>
+      </Val>
+      <Val>
+        <e>http://www.bibsonomy.org/uri/author/Michael+R.+Lyu</e>
+        <e>http://dblp.l3s.de/Authors/Michael+R.+Lyu</e>
+      </Val>
+      <Val>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/LuZXCLLM04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ChanLC04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/KingLM10</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/2001</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/LiuZCLM04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/2001p</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/HoiL04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhaoHLBLM06</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/HoiJL06</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/LinLK06</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/XuKL07</e>
+      </Val>
+      <Val>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/HoiJL06</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/LinLK06</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/HoiL04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ChanLC04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/LuZXCLLM04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/LiuZCLM04</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/XuKL07</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/KingLM10</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhaoHLBLM06</e>
+      </Val>
+      <Val>
+        <e>http://xmlns.com/foaf/0.1/Agent</e>
+      </Val>
+      <Val>
+        <e>Michael R. Lyu</e>
+      </Val>
+      <Val>
+        <e>Michael R. Lyu</e>
+      </Val>
+      <Val>
+        <e>769C39F7, 76CDDBD8, 7B497874, 7D62975B, 7E4BB1DC, 7E7B686B, 7E95E328, 7E9993DC, 810FD742</e>
+      </Val>
+      <Val>
+        <e>9</e>
+      </Val>
+      <Val>
+        <e>http://www.cse.cuhk.edu.hk/lyu/</e>
+      </Val>
+      <Val>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/2001</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/2001p</e>
+      </Val>
+    </Entity>
+    <Entity uri="http://dblp.l3s.de/d2r/resource/authors/Lada_A._Adamic">
+      <Val>
+        <e>Lada A. Adamic</e>
+      </Val>
+      <Val>
+        <e>6</e>
+      </Val>
+      <Val>
+        <e>http://www.bibsonomy.org/uri/author/Lada+A.+Adamic</e>
+        <e>http://dblp.l3s.de/Authors/Lada+A.+Adamic</e>
+      </Val>
+      <Val>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhangAA07</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/JohnADNSS08</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ChengAKL16</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/AdamicZBA08</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/BakshyRMA12</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/KloumannAKW15</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ChengADKL14</e>
+      </Val>
+      <Val>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ChengADKL14</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/JohnADNSS08</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/KloumannAKW15</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ZhangAA07</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/AdamicZBA08</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/BakshyRMA12</e>
+        <e>http://dblp.l3s.de/d2r/resource/publications/conf/www/ChengAKL16</e>
+      </Val>
+      <Val>
+        <e>http://xmlns.com/foaf/0.1/Agent</e>
+      </Val>
+      <Val>
+        <e>Lada A. Adamic</e>
+      </Val>
+      <Val>
+        <e>Lada A. Adamic</e>
+      </Val>
+      <Val>
+        <e>60E6A250, 76FC918B, 78D3A13B, 7B574A5C, 7EE9CC17, 7F1D18C1</e>
+      </Val>
+      <Val>
+        <e>6</e>
+      </Val>
+      <Val>
+        <e>http://www.ladamic.com/</e>
+      </Val>
+      <Val> </Val>
+    </Entity>
+  </SourceEntities>
+  <TargetEntities>
+    <Entity uri="https://w3id.org/skg/authors/11454D61">
+      <Val>
+        <e>lada a adamic</e>
+      </Val>
+      <Val> </Val>
+      <Val>
+        <e>https://w3id.org/skg/articles/76FC918B</e>
+        <e>https://w3id.org/skg/articles/60E6A250</e>
+        <e>https://w3id.org/skg/articles/0A3B279E</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg/articles/76FC918B</e>
+        <e>https://w3id.org/skg/articles/60E6A250</e>
+        <e>https://w3id.org/skg/articles/0A3B279E</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg/affiliations/863BFDE1</e>
+        <e>https://w3id.org/skg/affiliations/</e>
+      </Val>
+      <Val>
+        <e>11454D61</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg#author</e>
+      </Val>
+      <Val>
+        <e>lada a adamic</e>
+      </Val>
+      <Val>
+        <e>lada a adamic</e>
+      </Val>
+    </Entity>
+    <Entity uri="https://w3id.org/skg/authors/86279BC5">
+      <Val>
+        <e>lada a adamic</e>
+      </Val>
+      <Val> </Val>
+      <Val>
+        <e>https://w3id.org/skg/articles/7F1D18C1</e>
+        <e>https://w3id.org/skg/articles/7EE9CC17</e>
+        <e>https://w3id.org/skg/articles/7B574A5C</e>
+        <e>https://w3id.org/skg/articles/78D3A13B</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg/articles/7F1D18C1</e>
+        <e>https://w3id.org/skg/articles/7EE9CC17</e>
+        <e>https://w3id.org/skg/articles/7B574A5C</e>
+        <e>https://w3id.org/skg/articles/78D3A13B</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg/affiliations/01A8C383</e>
+      </Val>
+      <Val>
+        <e>86279BC5</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg#author</e>
+      </Val>
+      <Val>
+        <e>lada a adamic</e>
+      </Val>
+      <Val>
+        <e>lada a adamic</e>
+      </Val>
+    </Entity>
+    <Entity uri="https://w3id.org/skg/authors/84C8AD82">
+      <Val>
+        <e>michael r lyu</e>
+      </Val>
+      <Val> </Val>
+      <Val>
+        <e>https://w3id.org/skg/articles/7E4BB1DC</e>
+        <e>https://w3id.org/skg/articles/7E7B686B</e>
+        <e>https://w3id.org/skg/articles/810FD742</e>
+        <e>https://w3id.org/skg/articles/8600D9D0</e>
+        <e>https://w3id.org/skg/articles/76CDDBD8</e>
+        <e>https://w3id.org/skg/articles/7D62975B</e>
+        <e>https://w3id.org/skg/articles/08BAC820</e>
+        <e>https://w3id.org/skg/articles/769C39F7</e>
+        <e>https://w3id.org/skg/articles/7E95E328</e>
+        <e>https://w3id.org/skg/articles/776C1039</e>
+        <e>https://w3id.org/skg/articles/7E9993DC</e>
+        <e>https://w3id.org/skg/articles/7E2CF478</e>
+        <e>https://w3id.org/skg/articles/7B497874</e>
+        <e>https://w3id.org/skg/articles/7E88DE5F</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg/articles/7E2CF478</e>
+        <e>https://w3id.org/skg/articles/8600D9D0</e>
+        <e>https://w3id.org/skg/articles/7E88DE5F</e>
+        <e>https://w3id.org/skg/articles/7E7B686B</e>
+        <e>https://w3id.org/skg/articles/08BAC820</e>
+        <e>https://w3id.org/skg/articles/7B497874</e>
+        <e>https://w3id.org/skg/articles/7E4BB1DC</e>
+        <e>https://w3id.org/skg/articles/769C39F7</e>
+        <e>https://w3id.org/skg/articles/7D62975B</e>
+        <e>https://w3id.org/skg/articles/810FD742</e>
+        <e>https://w3id.org/skg/articles/7E9993DC</e>
+        <e>https://w3id.org/skg/articles/7E95E328</e>
+        <e>https://w3id.org/skg/articles/776C1039</e>
+        <e>https://w3id.org/skg/articles/76CDDBD8</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg/affiliations/</e>
+        <e>https://w3id.org/skg/affiliations/0A97E0C1</e>
+      </Val>
+      <Val>
+        <e>84C8AD82</e>
+      </Val>
+      <Val>
+        <e>https://w3id.org/skg#author</e>
+      </Val>
+      <Val>
+        <e>michael r lyu</e>
+      </Val>
+      <Val>
+        <e>michael r lyu</e>
+      </Val>
+    </Entity>
+  </TargetEntities>
+  <PositiveLinks>
+    <LinkCandidate>
+      <Source>http://dblp.l3s.de/d2r/resource/authors/Lada_A._Adamic</Source>
+      <Target>https://w3id.org/skg/authors/86279BC5</Target>
+      Some(&lt;Confidence&gt;0.0&lt;/Confidence&gt;)
+      None
+    </LinkCandidate>
+    <LinkCandidate>
+      <Source>http://dblp.l3s.de/d2r/resource/authors/Lada_A._Adamic</Source>
+      <Target>https://w3id.org/skg/authors/11454D61</Target>
+      Some(&lt;Confidence&gt;0.0&lt;/Confidence&gt;)
+      None
+    </LinkCandidate>
+    <LinkCandidate>
+      <Source>http://dblp.l3s.de/d2r/resource/authors/Michael_R._Lyu</Source>
+      <Target>https://w3id.org/skg/authors/84C8AD82</Target>
+      Some(&lt;Confidence&gt;0.0&lt;/Confidence&gt;)
+      None
+    </LinkCandidate>
+  </PositiveLinks>
+  <NegativeLinks> </NegativeLinks>
+  <UnlabeledLinks> </UnlabeledLinks>
+</Entities>
